@@ -17,7 +17,7 @@ We did this on purpose: three independently-built pipelines on the same dataset 
 cross-check our own results against two other implementations instead of trusting a single
 codebase, and the differences between the three approaches (different Wikipedia-corpus
 construction strategies, different generators, different code architectures) turned out to be
-genuinely informative on their own — see `report.pdf` for the full comparison.
+genuinely informative on their own — see `NLP_A2_Group_30_report.pdf` for the full comparison.
 
 **We did not merge our code into one shared pipeline.** Each person's implementation is kept
 exactly as they wrote it; nothing below rewrites anyone's logic, only reorganizes where files live
@@ -30,7 +30,7 @@ If you only want to run *one* person's submission, jump straight to that person'
 ```
 NLP/
 ├── README.md
-├── report.tex / report.pdf          # one merged report, segregated by author per task (see below)
+├── NLP_A2_Group_30_report.pdf        # one merged report, segregated by author per task (see below)
 ├── code/
 │   ├── task1/
 │   │   ├── 23cs30011_task1/          # B. Siddaarth  — notebook, self-contained
@@ -56,33 +56,16 @@ loose at the repository root. Each `_project/` folder also holds that person's o
 
 We kept each submission down to what's actually needed to read, run, and verify the code. Each
 person originally had their own README and report; those are now just this one README and the one
-`report.pdf` at the root, with the run commands and numbers they held folded in below, so nothing
+`NLP_A2_Group_30_report.pdf` at the root, with the run commands and numbers they held folded in below, so nothing
 is lost. A few other things that only made sense for an individual delivery — a slide deck, a
 video-narration script, font files bundled purely to typeset someone's own separate report, a
 downloaded NLTK cache — didn't carry over either. The actual code, configs, tests, and saved
 results/predictions are all still here in full, as is Bala's `RESULTS.md`, since his submission
 has no report of its own to fold those numbers into.
 
-Why the per-task split differs slightly per person: 23CS30011's Task 1/2/3 notebooks are each
-fully self-contained, so they sit directly under `code/task<n>/23cs30011_task<n>/`. Bala's
-`task*/run.py` scripts are real standalone CLI entry points that only need a handful of small
-shared files (`shared/`, and occasionally a Task 1/2 helper module) copied alongside them, so his
-`code/task<n>/23cs10008_task<n>/` folders are genuinely runnable on their own — we verified this by
-importing every module and running his unit test suite against the reorganized layout (17/17
-pass, unmodified). Subham's Task 2/3 code is architected as library modules dispatched by a shared
-orchestrator (`common/experiment.py`, driven by `python code/run.py task2` etc.), so splitting it
-into independently-runnable per-task scripts would have meant rewriting his orchestration logic —
-something we deliberately avoided. His `code/task<n>/22ee38015_task<n>/` folders therefore hold
-that task's actual module files for reading (and his Task 1 module, which has no cross-task
-dependency, *is* directly runnable), with a clear note pointing to his full project
-(`code/22ee38015_project/`) for how to actually execute Tasks 2 and 3. Both Bala's and Subham's
-complete original repositories are additionally kept under `code/<roll_no>_project/` for anyone
-who wants to run either submission's full pipeline (Docker, notebook, tests, and all) rather than
-one task at a time.
-
 ---
 
-## Running 23CS30011's submission (B. Siddaarth)
+## Running B. Siddaarth's submission (23CS30011)
 
 ### Environment setup
 
@@ -123,7 +106,7 @@ Writes (into `code/23cs30011_project/`):
 - `results/task1_metrics.json`, `results/task1_per_question_results.csv`
 
 #### Task 2 — two prompting iterations, both evaluated
-We tried two prompting strategies for the generator and report both (see `report.pdf` for the
+We tried two prompting strategies for the generator and report both (see `NLP_A2_Group_30_report.pdf` for the
 comparison); Iteration 2 (few-shot) scores higher and is the final result.
 
 **Iteration 1 (zero-shot) — `code/task2/23cs30011_task2/task2_rag.ipynb`**
@@ -222,10 +205,6 @@ built from `docker/Dockerfile.task2` if running on the same 4GB-VRAM-class GPU h
 Verify results independently with `python -m pytest -q` and `python code/scripts/audit_results.py`
 (both re-run from `code/23cs10008_project/`).
 
-**Note:** this submission does not include a `report.pdf` of its own; its method, settings, and
-results are documented in `code/23cs10008_project/RESULTS.md`, and we have folded those into the
-relevant author subsections of our shared `report.pdf`/`report.tex`.
-
 ---
 
 ## Running Subham Ghosh's submission (22EE38015)
@@ -264,18 +243,14 @@ explained above), so run those from `code/22ee38015_project/` rather than from t
 copies.
 
 His own saved results (`results/`) are kept at `code/22ee38015_project/`; his report was folded
-into our shared `report.pdf`, same as the other two submissions.
+into our shared `NLP_A2_Group_30_report.pdf`, same as the other two submissions.
 
 ---
 
 ## Report
 
-`report.pdf` (built from `report.tex`) is **one shared report covering all three submissions**.
-Its section structure mirrors the assignment (Task 1 → Task 2 → Task 3 → Discussion), and inside
-each Task section there is one subsection per author — same subsection headings
-(Method / Quantitative Results / Qualitative Analysis) in the same order for all three — followed
-by a short subsection comparing all three approaches on that task. Compile it yourself with:
-
-```bash
-tectonic report.tex   # or: pdflatex report.tex (run twice for the table of contents)
-```
+`NLP_A2_Group_30_report.pdf` is **one shared report covering all three submissions**. Its section
+structure mirrors the assignment (Task 1 → Task 2 → Task 3 → Discussion), and inside each Task
+section there is one subsection per author — same subsection headings (Method / Quantitative
+Results / Qualitative Analysis) in the same order for all three — followed by a short subsection
+comparing all three approaches on that task.
