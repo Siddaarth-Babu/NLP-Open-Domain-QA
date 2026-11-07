@@ -1,0 +1,16 @@
+{
+  "seed": 42,
+  "corpus_source": "English Wikipedia via MediaWiki Action API",
+  "corpus_source_url": "https://en.wikipedia.org/w/api.php",
+  "pages_per_question": 3,
+  "request_delay_seconds": 1.0,
+  "discovery": {
+    "uses_gold_answers": false,
+    "modules": ["search", "prefixsearch"],
+    "require_complete_question_coverage": true,
+    "manifest": "data/processed/wikipedia_discovery_manifest.jsonl"
+  },
+  "bm25": {"k1": 1.5, "b": 0.75},
+  "retrieval_k_values": [1, 3, 5, 10],
+  "answer_retrieval_k": 5
+}

@@ -1,0 +1,21 @@
+{
+  "completed": true,
+  "questions_per_task": 300,
+  "shared_corpus_passages": 15423,
+  "shared_corpus_articles": 297,
+  "identical_question_sets": true,
+  "saved_hybrid_rankings_match_final_bm25_and_dense_inputs": true,
+  "all_classical_spans_belong_to_selected_sentences": true,
+  "max_evidence_tokens": 200,
+  "unit_tests": "14 passed",
+  "dependency_environment": "96 pinned packages; compatibility check passed",
+  "reference_execution": "Linux, Python 3.12.14, CPU, PyTorch 2.6.0+cpu",
+  "notebook_validation": "all code cells compile; Colab UI itself was not executed",
+  "gpu_validation": "not executed",
+  "video_seconds": 466.325986,
+  "report_main_pages": 11,
+  "report_references_pages": 1,
+  "presentation_slides": 10,
+  "support_audit": "20 assistant-reviewed cases; accuracy excludes abstentions; not human-validated gold",
+  "required_assumption": "Dataset 10.2 corpus recipe was not supplied; first Wikipedia result per question is documented."
+}

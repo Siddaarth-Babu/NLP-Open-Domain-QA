@@ -1,0 +1,12 @@
+# Never send local environments, generated assets, or credentials into the build context.
+.git/
+.venv/
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+data/
+artifacts/
+.env
+notebooks/
+report.pdf

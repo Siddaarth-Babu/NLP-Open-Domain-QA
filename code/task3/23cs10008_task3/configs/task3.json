@@ -1,0 +1,29 @@
+{
+  "seed": 42,
+  "retrieval": {
+    "lexical_index": "data/indexes/task1_bm25.json",
+    "dense_index": "data/indexes/task2_minilm.faiss",
+    "fusion": "reciprocal rank fusion",
+    "rrf_constant": 60,
+    "candidate_k_per_retriever": 100,
+    "top_k": 5
+  },
+  "retriever": {
+    "model": "sentence-transformers/all-MiniLM-L6-v2",
+    "revision": "1110a243fdf4706b3f48f1d95db1a4f5529b4d41",
+    "source": "https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2"
+  },
+  "generation": {
+    "generator": "Qwen/Qwen2.5-1.5B-Instruct",
+    "revision": "989aa7980e4cf806f80c7fef2b1adb7bc71aa306",
+    "source": "https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct",
+    "quantization": "4-bit NF4",
+    "passage_token_limit": 200,
+    "max_new_tokens": 64,
+    "decoding": "greedy (do_sample=false)"
+  },
+  "groundedness": {
+    "decision": "flag low lexical overlap; do not alter the generated answer",
+    "criterion": "normalized answer occurs as a whole phrase in at least one truncated retrieved passage"
+  }
+}

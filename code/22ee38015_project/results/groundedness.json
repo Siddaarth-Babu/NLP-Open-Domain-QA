@@ -1,0 +1,38 @@
+{
+  "task2": {
+    "n": 300,
+    "correct_n": 58,
+    "incorrect_n": 242,
+    "correct_with_high_overlap_percent": 100.0,
+    "incorrect_with_low_overlap_percent": 39.256198347107436,
+    "retained_coverage_percent": 68.33333333333333,
+    "retained_em_percent": 28.29268292682927,
+    "flagged_as_unsupported": 95,
+    "groundedness_check_accuracy_percent": 50.0,
+    "groundedness_note": "Accuracy on independently reviewed nonempty pilot answers; abstentions excluded; not full-dataset accuracy.",
+    "support_audit_n": 8,
+    "support_audit_total_n": 10,
+    "audit_abstentions_excluded": 2,
+    "support_audit_annotators": [
+      "OpenAI assistant (contextual evidence review; not human-validated)"
+    ]
+  },
+  "task3": {
+    "n": 300,
+    "correct_n": 59,
+    "incorrect_n": 241,
+    "correct_with_high_overlap_percent": 94.91525423728814,
+    "incorrect_with_low_overlap_percent": 29.87551867219917,
+    "retained_coverage_percent": 75.0,
+    "retained_em_percent": 24.88888888888889,
+    "flagged_as_unsupported": 75,
+    "groundedness_check_accuracy_percent": 55.55555555555556,
+    "groundedness_note": "Accuracy on independently reviewed nonempty pilot answers; abstentions excluded; not full-dataset accuracy.",
+    "support_audit_n": 9,
+    "support_audit_total_n": 10,
+    "audit_abstentions_excluded": 1,
+    "support_audit_annotators": [
+      "OpenAI assistant (contextual evidence review; not human-validated)"
+    ]
+  }
+}

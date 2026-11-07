@@ -1,0 +1,2098 @@
+{
+  "articles": 297,
+  "passages": 15423,
+  "corpus_sha256": "8bb83f88ba34f8fdde84233fc9f190cee01105bd7e4e2a5e3b2b6cb4c2218c9b",
+  "articles_without_indexable_paragraphs": [
+    "List of FIFA World Cup official match balls",
+    "Deaths in August 2026"
+  ],
+  "questions_sha256": "3bb858f713306e16c453299a62e292e57d99578b231fd9b78b13b44e8d87dc55",
+  "config_sha256": "87dc436dbbd0a546e8e01d78845915dfee2dafd13abc514ed67724b831a88a40",
+  "construction": "question-only Wikipedia search (cached API + public search HTML); first nonempty query; top 1 page per question; full article HTML paragraphs",
+  "gold_answers_used_for_construction": false,
+  "answer_containing_corpus_coverage_percent": 79.0,
+  "questions_with_no_search_results": 0,
+  "snapshot_utc": "2026-10-29T06:17:58.079778+00:00",
+  "article_revisions": [
+    {
+      "pageid": 984,
+      "title": "Agatha Christie",
+      "revision_id": 1382256832,
+      "revision_timestamp": null,
+      "text_sha256": "c8399c0ced6aa6259f7715840860e8105e4dd5ec79c083589c9607b5f9e03cdf"
+    },
+    {
+      "pageid": 1461,
+      "title": "Apollo program",
+      "revision_id": 1378112034,
+      "revision_timestamp": null,
+      "text_sha256": "fe54998f61cc4c3123b17bc07156da02d7c8e45ddb0ab175f1ce93a07585451e"
+    },
+    {
+      "pageid": 2626,
+      "title": "Aegeus",
+      "revision_id": 1381190142,
+      "revision_timestamp": null,
+      "text_sha256": "346f2ba9f3b40a58dc40cd990a8c34c8ee3509276e6defa8522495e2caebbf08"
+    },
+    {
+      "pageid": 4392,
+      "title": "Bristol City F.C.",
+      "revision_id": 1380427721,
+      "revision_timestamp": null,
+      "text_sha256": "aa2beb79773166a978f8f8103e22a74686948ebeb1ef0d3d84beb4655cf2a608"
+    },
+    {
+      "pageid": 4446,
+      "title": "Booker Prize",
+      "revision_id": 1376317505,
+      "revision_timestamp": null,
+      "text_sha256": "36d1c97b1c4f99a691e98f8b8a55aff9dd1c979c48a736b4c754fe2d03c856da"
+    },
+    {
+      "pageid": 5617,
+      "title": "Creutzfeldt–Jakob disease",
+      "revision_id": 1381994104,
+      "revision_timestamp": null,
+      "text_sha256": "a03bd322016be4ad6af45070c9554bd29afa746c9fcb48cd806cc916d8a79b56"
+    },
+    {
+      "pageid": 5729,
+      "title": "Chariots of Fire",
+      "revision_id": 1379043368,
+      "revision_timestamp": null,
+      "text_sha256": "907f6a8026398ce14f569b60477bf0f4c9256869c55efee6d004b271babb688f"
+    },
+    {
+      "pageid": 5859,
+      "title": "Continuity Irish Republican Army",
+      "revision_id": 1374404811,
+      "revision_timestamp": null,
+      "text_sha256": "641859884511d4839c53721f7c7692a5975f51a2c131cf1aaeb7f175831f00cd"
+    },
+    {
+      "pageid": 7105,
+      "title": "Cordwainer Smith",
+      "revision_id": 1371376721,
+      "revision_timestamp": null,
+      "text_sha256": "5ee7b046cef6dad9ee372dc6a2c7f985c8ded75da3ae88cfe99e46b4b83484cb"
+    },
+    {
+      "pageid": 7264,
+      "title": "Rhyming slang",
+      "revision_id": 1376372808,
+      "revision_timestamp": null,
+      "text_sha256": "47057477d906869f4068070fbfc537ec81e011e402c094e9d0518d7cf66a4a99"
+    },
+    {
+      "pageid": 7770,
+      "title": "Christmas tree",
+      "revision_id": 1382295575,
+      "revision_timestamp": null,
+      "text_sha256": "234754750ce837c943658c1e5fef8d74676139538171c5bbb32188b4dafb62be"
+    },
+    {
+      "pageid": 9239,
+      "title": "Europe",
+      "revision_id": 1382027231,
+      "revision_timestamp": null,
+      "text_sha256": "76ce64cbc27bb01a98d4815c04b7df518fcbd8d9211a3c923d3d818b62c0c028"
+    },
+    {
+      "pageid": 9279,
+      "title": "Elephant",
+      "revision_id": 1378665714,
+      "revision_timestamp": null,
+      "text_sha256": "3ff271c7b7864ad578aabd284c4a9a09753ea0ac7bdfe0a8bab413b280a71686"
+    },
+    {
+      "pageid": 10025,
+      "title": "Flag of Europe",
+      "revision_id": 1380980589,
+      "revision_timestamp": null,
+      "text_sha256": "7e24fa59fda046a8b50958cd7961e18aaac88e9c4ad818dcc04e647d3d49d3e0"
+    },
+    {
+      "pageid": 11370,
+      "title": "FIFA World Cup",
+      "revision_id": 1381627832,
+      "revision_timestamp": null,
+      "text_sha256": "4de182e3ff84373f295697fd8846c3a94702a863a5786aa7fb4efbdd6741f7f0"
+    },
+    {
+      "pageid": 13011,
+      "title": "Greenwich Village",
+      "revision_id": 1378214859,
+      "revision_timestamp": null,
+      "text_sha256": "46f72a566125c21d00e6a0f29332b425ea179518a9359375429187282ed2cd8a"
+    },
+    {
+      "pageid": 14403,
+      "title": "Hydrogen peroxide",
+      "revision_id": 1379993848,
+      "revision_timestamp": null,
+      "text_sha256": "446389448a80fb12166da7b471677a42e3a32163b05b81c08c0f84a52dc771d9"
+    },
+    {
+      "pageid": 15992,
+      "title": "Jimmy Carter",
+      "revision_id": 1382163796,
+      "revision_timestamp": null,
+      "text_sha256": "18048ac89ba29ba0e28e668724df124a0f3f5ffb5fa7e6d90baf19abf2c054d4"
+    },
+    {
+      "pageid": 16078,
+      "title": "Javelin throw",
+      "revision_id": 1378433634,
+      "revision_timestamp": null,
+      "text_sha256": "925b0a84ef223423012c131bda08b82caa8ec0d80c6a0caecf5c310e51fe85c5"
+    },
+    {
+      "pageid": 17284,
+      "title": "Koo Stark",
+      "revision_id": 1369474772,
+      "revision_timestamp": null,
+      "text_sha256": "4ce50f9d468d4b1bd3ddf6ecae294ee97dd74b4abab66072bb3bb5da03cbcce0"
+    },
+    {
+      "pageid": 17867,
+      "title": "London",
+      "revision_id": 1382239624,
+      "revision_timestamp": null,
+      "text_sha256": "01efb177dd0e38e38c90261672eb713155ad95ff9b725d3565130ea9fc4808a3"
+    },
+    {
+      "pageid": 18454,
+      "title": "Lindisfarne",
+      "revision_id": 1380740673,
+      "revision_timestamp": null,
+      "text_sha256": "85ebebe61e681c45c10b884ecde9ec0b25132a9263e620fa5a296dc906151ab9"
+    },
+    {
+      "pageid": 19201,
+      "title": "Mauritius",
+      "revision_id": 1381813003,
+      "revision_timestamp": null,
+      "text_sha256": "ad0aaf145f20e61d41c5cef6898c021c88c4e2fd005281e5c06fbaa197495f65"
+    },
+    {
+      "pageid": 19765,
+      "title": "Melbourne Cricket Ground",
+      "revision_id": 1381979501,
+      "revision_timestamp": null,
+      "text_sha256": "ba0293f3d224302ab6fa8328452231e571c759f61ffa59b6f0b9f4e920de792e"
+    },
+    {
+      "pageid": 20958,
+      "title": "Magna Carta",
+      "revision_id": 1381090004,
+      "revision_timestamp": null,
+      "text_sha256": "ab282362c3f5f73d793750f32ab870a29ff606ed34e2c881145f54a1a60129d8"
+    },
+    {
+      "pageid": 21026,
+      "title": "Meat Loaf",
+      "revision_id": 1382196887,
+      "revision_timestamp": null,
+      "text_sha256": "d888d12d0da9cc7dae2a20ae501d1d7ac898f48b6162227b4e22d69eee6de55b"
+    },
+    {
+      "pageid": 22614,
+      "title": "Oscar Wilde",
+      "revision_id": 1382258827,
+      "revision_timestamp": null,
+      "text_sha256": "e8687800a615c218cbdd5488d89290cbd6cdedbda385a2b24cdb137e54a17a9d"
+    },
+    {
+      "pageid": 23339,
+      "title": "Philadelphia Eagles",
+      "revision_id": 1382182043,
+      "revision_timestamp": null,
+      "text_sha256": "421fe0aff59dc80dd831fe057d5a3d07e69becae07f393e3ffbcaf441c6236c8"
+    },
+    {
+      "pageid": 24095,
+      "title": "Diana, Princess of Wales",
+      "revision_id": 1381941051,
+      "revision_timestamp": null,
+      "text_sha256": "63607fc97e1630311f7a9c9709fc82417e85935a906a2ab93d8f887d71c331a2"
+    },
+    {
+      "pageid": 24135,
+      "title": "Prime Minister of Canada",
+      "revision_id": 1379764920,
+      "revision_timestamp": null,
+      "text_sha256": "64b9b234104c5e972464cfd605513fb8bf4413c28fc18f0de0df79220c951421"
+    },
+    {
+      "pageid": 24176,
+      "title": "Pablo Picasso",
+      "revision_id": 1382106082,
+      "revision_timestamp": null,
+      "text_sha256": "735a750c6f1b2a715f23f6d520afd16a03014e75d10fd0fea5f212a0358da58c"
+    },
+    {
+      "pageid": 24953,
+      "title": "Pelé",
+      "revision_id": 1382313456,
+      "revision_timestamp": null,
+      "text_sha256": "becf45b0cfe8ac2412e25f7b4592c91c3dbd59af54d7785efa64576ccc6ea309"
+    },
+    {
+      "pageid": 25721,
+      "title": "Red Dwarf",
+      "revision_id": 1382125730,
+      "revision_timestamp": null,
+      "text_sha256": "040c49ba71a39d3664ce7cc2d1cabc6be9707e9a798813486f4b76521621da6e"
+    },
+    {
+      "pageid": 25792,
+      "title": "Roman calendar",
+      "revision_id": 1382397214,
+      "revision_timestamp": null,
+      "text_sha256": "19caae85e446cad3b502a3d680e367427a0bb3dffcae80ac4f9752b6bda78ef4"
+    },
+    {
+      "pageid": 26413,
+      "title": "Real Madrid CF",
+      "revision_id": 1381585936,
+      "revision_timestamp": null,
+      "text_sha256": "8beca5b16f32c59737682481b7396cbc83a60c2c03bc9ffcbb2a132a101d633e"
+    },
+    {
+      "pageid": 26436,
+      "title": "Rent (musical)",
+      "revision_id": 1382506180,
+      "revision_timestamp": null,
+      "text_sha256": "869026b801f24fb25dba55f7dde7ca47f4f24ffeb1ac6f0fd1713095da4685e1"
+    },
+    {
+      "pageid": 26940,
+      "title": "Steven Spielberg",
+      "revision_id": 1382084470,
+      "revision_timestamp": null,
+      "text_sha256": "e6e0617dfa4e6be61836a62650ff659c286670ef0c424a015f26e89548fa15e3"
+    },
+    {
+      "pageid": 27393,
+      "title": "Economy of Spain",
+      "revision_id": 1381926450,
+      "revision_timestamp": null,
+      "text_sha256": "51329ff3f20610cdc38813b6998a9d4efd258c6ac61cf7a120a8ff278ba2f606"
+    },
+    {
+      "pageid": 27669,
+      "title": "Spanish cuisine",
+      "revision_id": 1378931425,
+      "revision_timestamp": null,
+      "text_sha256": "1ee93ade3f8e04ac63020b959a38909b0eae63d188ec09de6ecb7074481259a5"
+    },
+    {
+      "pageid": 28953,
+      "title": "Stephen, King of England",
+      "revision_id": 1375940733,
+      "revision_timestamp": null,
+      "text_sha256": "28bcc1044114a9cc13ae9fd5a54cc2de7177c51d03b94438bdf5f0aa53d2d541"
+    },
+    {
+      "pageid": 29664,
+      "title": "Supply and demand",
+      "revision_id": 1378800284,
+      "revision_timestamp": null,
+      "text_sha256": "bb56e4902a036b82a238a6c2e35893147e9228da129825f46346c7a93ba7682c"
+    },
+    {
+      "pageid": 30273,
+      "title": "T. S. Eliot",
+      "revision_id": 1382479108,
+      "revision_timestamp": null,
+      "text_sha256": "4b70445881dd5b505e9b70393fe4773aea4e865ef16c699dc2fb66535aed8347"
+    },
+    {
+      "pageid": 32807,
+      "title": "Vocal cords",
+      "revision_id": 1378026704,
+      "revision_timestamp": null,
+      "text_sha256": "21faad68189a5f522c47cb7fc71973231ea5a911c8711a75cadc624d6d46e4e9"
+    },
+    {
+      "pageid": 34069,
+      "title": "Winter Olympic Games",
+      "revision_id": 1376929654,
+      "revision_timestamp": null,
+      "text_sha256": "5d226657ef6a5f0c20b40d4ac56e22edddbb54a770eb586de4ff4fadca83aead"
+    },
+    {
+      "pageid": 34424,
+      "title": "Nissan Z-car",
+      "revision_id": 1380612282,
+      "revision_timestamp": null,
+      "text_sha256": "876437b53dd731711a397e8855353af4fa9775651e5ea3ab3e568c04c50117f8"
+    },
+    {
+      "pageid": 34772,
+      "title": "1882",
+      "revision_id": 1382308161,
+      "revision_timestamp": null,
+      "text_sha256": "69e12139001911dbe52d764a5b231ef752d8faffb7de7b31e7f652e4d7d079a5"
+    },
+    {
+      "pageid": 36969,
+      "title": "Bread",
+      "revision_id": 1382420259,
+      "revision_timestamp": null,
+      "text_sha256": "02ca113a6027f80a94adfdc59105b80d653892f35ace2e3112723119be4097d4"
+    },
+    {
+      "pageid": 38090,
+      "title": "Così fan tutte",
+      "revision_id": 1361300047,
+      "revision_timestamp": null,
+      "text_sha256": "d4bb1bc1878989af9b1ce1942d3a1a1ec6141a6bf95f673203547ca4f9355dba"
+    },
+    {
+      "pageid": 39356,
+      "title": "Anne Boleyn",
+      "revision_id": 1382462895,
+      "revision_timestamp": null,
+      "text_sha256": "dcc1a3b3a1c14e476e664ca1f0dd86b2137ceaee8d1eb59c15f60afc3166f17c"
+    },
+    {
+      "pageid": 40255,
+      "title": "Jupiter (god)",
+      "revision_id": 1374303255,
+      "revision_timestamp": null,
+      "text_sha256": "bc3bc58417309d5dd8a3fb623ad2abd58827d5ad9898c4036ab287080a51d42f"
+    },
+    {
+      "pageid": 42097,
+      "title": "Saint Valentine's Day Massacre",
+      "revision_id": 1380946913,
+      "revision_timestamp": null,
+      "text_sha256": "2671313ea44789cafabf3a02071a7fd3136a19c51f39cab76d0bd349200a04cb"
+    },
+    {
+      "pageid": 44475,
+      "title": "Uranus",
+      "revision_id": 1380352133,
+      "revision_timestamp": null,
+      "text_sha256": "f1de0f2eae4042f07dd03ff139ca1c35742be086ee07b3ffced03c51643138b3"
+    },
+    {
+      "pageid": 44731,
+      "title": "Calcium carbonate",
+      "revision_id": 1380975311,
+      "revision_timestamp": null,
+      "text_sha256": "88b2bc5480bd75305afb746845563bf52221500480c37a85d4116e04a87d9bc3"
+    },
+    {
+      "pageid": 47510,
+      "title": "Cirrus cloud",
+      "revision_id": 1382463382,
+      "revision_timestamp": null,
+      "text_sha256": "338e7bbc3455777eac08c50145c131e344c311f2f5b055b967af35dc585c3349"
+    },
+    {
+      "pageid": 48768,
+      "title": "Georgia (country)",
+      "revision_id": 1382387562,
+      "revision_timestamp": null,
+      "text_sha256": "03be2ddf4c20f93e16f6c64fdb48bb61d5a9e96c92e3409bf0b65309cb78bb7c"
+    },
+    {
+      "pageid": 49607,
+      "title": "Jargon",
+      "revision_id": 1379624664,
+      "revision_timestamp": null,
+      "text_sha256": "5e6eb0ccb91246d30d1da4d3b56fed5eadc73e54cdc44deee4d1bca3ca02a561"
+    },
+    {
+      "pageid": 52389,
+      "title": "Independence Day (1996 film)",
+      "revision_id": 1382316737,
+      "revision_timestamp": null,
+      "text_sha256": "0f6af428801b1fb8fe95f8dbdc1a2f53371455943ff08aa7e8e036d3ab024170"
+    },
+    {
+      "pageid": 53309,
+      "title": "Psychedelic drug",
+      "revision_id": 1378806171,
+      "revision_timestamp": null,
+      "text_sha256": "be21aee594dc6b987c0d96f9d590f5763f86b56dc18ffffcd88e0337b3e18598"
+    },
+    {
+      "pageid": 54634,
+      "title": "Wednesday",
+      "revision_id": 1378910961,
+      "revision_timestamp": null,
+      "text_sha256": "f734e43aebc6eca43fc7f0c162e2d43fd34ff792a649e1e761fba9ff3d5a6772"
+    },
+    {
+      "pageid": 61577,
+      "title": "Electrical resistance and conductance",
+      "revision_id": 1381722547,
+      "revision_timestamp": null,
+      "text_sha256": "a5e16dc9c122d18f06f2a512c902accf5062371a2af6aa8888cb686a14fcbcfb"
+    },
+    {
+      "pageid": 61830,
+      "title": "Academy Award for Best Animated Feature",
+      "revision_id": 1381787775,
+      "revision_timestamp": null,
+      "text_sha256": "bb9376f18a48430e40b069181521a6a8c09274f89c9b4ad975c6a7c864ff0bd4"
+    },
+    {
+      "pageid": 61958,
+      "title": "The Red Badge of Courage",
+      "revision_id": 1359593647,
+      "revision_timestamp": null,
+      "text_sha256": "f3b5c2d6cfef01a998e2765247c38de5fc7890ec6d50ab795d19cd98fe9d1dc0"
+    },
+    {
+      "pageid": 65957,
+      "title": "Rigoletto",
+      "revision_id": 1378189138,
+      "revision_timestamp": null,
+      "text_sha256": "cc0ac5f4981c517ce2d2a183ddb5395ceb9a28f69658bb73ebdc72740ea98177"
+    },
+    {
+      "pageid": 68832,
+      "title": "Norman Conquest",
+      "revision_id": 1376237996,
+      "revision_timestamp": null,
+      "text_sha256": "077aad05fa4837c1a4daf83ee6741eb979df9ec2cd5cc53d3a709a2fa8a9bc21"
+    },
+    {
+      "pageid": 69328,
+      "title": "United Arab Emirates",
+      "revision_id": 1380745114,
+      "revision_timestamp": null,
+      "text_sha256": "487f1751839e54bc29aae0b66a50d0103d9110c40b0cde3a9cb295bbdcb8e36a"
+    },
+    {
+      "pageid": 70522,
+      "title": "Pitmatic",
+      "revision_id": 1370672201,
+      "revision_timestamp": null,
+      "text_sha256": "a654e23e184a4ac97be33434e38c2d310207489118b5c5f799ea6304c1960c50"
+    },
+    {
+      "pageid": 73412,
+      "title": "North by Northwest",
+      "revision_id": 1382125074,
+      "revision_timestamp": null,
+      "text_sha256": "959f4afb54fa565b47634f1551d31c5c8558e1f31a57084a11396d956adc55a3"
+    },
+    {
+      "pageid": 74255,
+      "title": "Pac-Man",
+      "revision_id": 1382435152,
+      "revision_timestamp": null,
+      "text_sha256": "3768f40e1a3194e84c0ca2eacbe21cc0a436476ad79a7057fa5df0d876d5d382"
+    },
+    {
+      "pageid": 76368,
+      "title": "Sunset Boulevard (film)",
+      "revision_id": 1382430699,
+      "revision_timestamp": null,
+      "text_sha256": "c0c321d587f7a665ec3fc0515310e6629d6d0c2e2f6f98fbb674747030e335c0"
+    },
+    {
+      "pageid": 76560,
+      "title": "Roscoe Arbuckle",
+      "revision_id": 1382321982,
+      "revision_timestamp": null,
+      "text_sha256": "96127c75cf6d1ee262ebbfe62fbc3d8a65f3e2197f11c09ec4313c2858e46c35"
+    },
+    {
+      "pageid": 77944,
+      "title": "Hesperides",
+      "revision_id": 1378646224,
+      "revision_timestamp": null,
+      "text_sha256": "508fbc26982ea0cbfcc24a843250ab1e4e8497c4554990d4dea913bb004322dc"
+    },
+    {
+      "pageid": 90578,
+      "title": "Haute-Loire",
+      "revision_id": 1382185076,
+      "revision_timestamp": null,
+      "text_sha256": "20377fb5db7892d3e7ba90410a80955f5522e540b73e98e6eeae1a6d82565796"
+    },
+    {
+      "pageid": 92695,
+      "title": "Elmer Gantry",
+      "revision_id": 1377833666,
+      "revision_timestamp": null,
+      "text_sha256": "c098a2ebd944cd8f549422ada2d2c05e89f0d60c821999605c41c4952bb62d50"
+    },
+    {
+      "pageid": 100796,
+      "title": "Guinness World Records",
+      "revision_id": 1382041542,
+      "revision_timestamp": null,
+      "text_sha256": "b67ef6cd1346c1a0339acdeea9c467d3fa16141e054c3aa59c041efb6f4a3d30"
+    },
+    {
+      "pageid": 139177,
+      "title": "Nikolai Gogol",
+      "revision_id": 1381626194,
+      "revision_timestamp": null,
+      "text_sha256": "0736c443543bb3ed4506d2096eaa267910bf3dee6d5fd94492417e0cd8498452"
+    },
+    {
+      "pageid": 143752,
+      "title": "Lake District",
+      "revision_id": 1376171541,
+      "revision_timestamp": null,
+      "text_sha256": "e64b0f30439b4c1ca36296554921a7737303c81ba59245c8dd148411a46b2f29"
+    },
+    {
+      "pageid": 145232,
+      "title": "Marmalade",
+      "revision_id": 1382237485,
+      "revision_timestamp": null,
+      "text_sha256": "d0484c3323378a02f5622a88fcf20624c15704d4a3c4a94896c3dab2e1edf01b"
+    },
+    {
+      "pageid": 145930,
+      "title": "Arthur Balfour",
+      "revision_id": 1379642537,
+      "revision_timestamp": null,
+      "text_sha256": "d6b26898bdc06961a77ffb3950c82cc32d4af36d5331ee51a4ad2aab56d961ec"
+    },
+    {
+      "pageid": 147352,
+      "title": "William Holden",
+      "revision_id": 1379809097,
+      "revision_timestamp": null,
+      "text_sha256": "86c12307e9f3869a7c7fd83a9228ad06fd9941b1ee35a46e6a479cc0c33b264d"
+    },
+    {
+      "pageid": 154189,
+      "title": "Great Train Robbery (1963)",
+      "revision_id": 1381269830,
+      "revision_timestamp": null,
+      "text_sha256": "4141eebc9a0c6d57a50e7ebc10aef47542da6bcbd3d7a3640ba8342deb793da0"
+    },
+    {
+      "pageid": 154265,
+      "title": "List of one-hit wonders in the United States",
+      "revision_id": 1382295328,
+      "revision_timestamp": null,
+      "text_sha256": "ecca0ff3aa89d8f66dd226ae74ae7ccb53ba7dc053b9b5e93e733988558ce2e3"
+    },
+    {
+      "pageid": 154557,
+      "title": "Marks & Spencer",
+      "revision_id": 1378284508,
+      "revision_timestamp": null,
+      "text_sha256": "d554de6ce85b0a9986a51eb5199c336c9d571f7179a92b2dbf0fa75c6d676af9"
+    },
+    {
+      "pageid": 156754,
+      "title": "Yogurt",
+      "revision_id": 1382431976,
+      "revision_timestamp": null,
+      "text_sha256": "9b940ad24b88d82db0606938716f50e1402a8ba794368dc7798ee92b0e799e68"
+    },
+    {
+      "pageid": 159361,
+      "title": "Battle of Kosovo",
+      "revision_id": 1382317670,
+      "revision_timestamp": null,
+      "text_sha256": "10e80f55274aabf72564456d52d9e4b558298ff2688425adc54c288f9c546ade"
+    },
+    {
+      "pageid": 169910,
+      "title": "Flag of Vatican City",
+      "revision_id": 1364129773,
+      "revision_timestamp": null,
+      "text_sha256": "0f4472a1ab086889b5015175be3b00ee76d6294f3330d9fc9b6d5dc88e084ae6"
+    },
+    {
+      "pageid": 171118,
+      "title": "Galápagos Islands",
+      "revision_id": 1381185353,
+      "revision_timestamp": null,
+      "text_sha256": "d519e5c2a3bf7557ca5e2ad917e776b075ef66f0c97da4b59f187982b11863cd"
+    },
+    {
+      "pageid": 177538,
+      "title": "Sheffield Wednesday F.C.",
+      "revision_id": 1381913779,
+      "revision_timestamp": null,
+      "text_sha256": "6c710b9a313d0e1824cdcd2ab69a0fad32d29b7052feafa140dd2042bea1d5e8"
+    },
+    {
+      "pageid": 178749,
+      "title": "2010 Winter Olympics",
+      "revision_id": 1381356020,
+      "revision_timestamp": null,
+      "text_sha256": "236af02eb8b0116bc68357efbd3e4eb2e4057a4d3b36f7540269cff8df74f459"
+    },
+    {
+      "pageid": 180326,
+      "title": "Fitzwilliam College, Cambridge",
+      "revision_id": 1368212822,
+      "revision_timestamp": null,
+      "text_sha256": "a91b5ba717952e349033c1317e514d644344489ea41ff5ddaea9883664793cf5"
+    },
+    {
+      "pageid": 192450,
+      "title": "Metropolitan Police",
+      "revision_id": 1381908267,
+      "revision_timestamp": null,
+      "text_sha256": "d55601e5be1608874a80c209f5d9ad1c5e4046f7b6926d24b3fab83e1af8fe53"
+    },
+    {
+      "pageid": 193436,
+      "title": "Adam Faith",
+      "revision_id": 1379970878,
+      "revision_timestamp": null,
+      "text_sha256": "d8d08cfb5d88ff1c78e67e58cba273c863e21fa4ab8b074540f8ace452bc9f21"
+    },
+    {
+      "pageid": 200405,
+      "title": "Limbic system",
+      "revision_id": 1374851724,
+      "revision_timestamp": null,
+      "text_sha256": "a89f0144ec432c83d67763cf4179a44cff8e8e5c84e2bf75de2822f2c568f50a"
+    },
+    {
+      "pageid": 201658,
+      "title": "A. J. Cronin",
+      "revision_id": 1380648080,
+      "revision_timestamp": null,
+      "text_sha256": "12840be25afe2b3da0c3a9bbc90f0bea2709d70843223bea18378ac0f5cb2466"
+    },
+    {
+      "pageid": 203912,
+      "title": "Kia",
+      "revision_id": 1381733494,
+      "revision_timestamp": null,
+      "text_sha256": "105c3764812fc674df68dcbaa2ba0b307f69054c6a24fc074e457aa64ab345ea"
+    },
+    {
+      "pageid": 205825,
+      "title": "Battle of Balaclava",
+      "revision_id": 1373774434,
+      "revision_timestamp": null,
+      "text_sha256": "0296e9b454f64cff453bad83ea62bd4d412c3967ac8ba3098cdae93ff5d1d392"
+    },
+    {
+      "pageid": 206492,
+      "title": "Catherine of Braganza",
+      "revision_id": 1378488004,
+      "revision_timestamp": null,
+      "text_sha256": "804192bb55275b463b9328ce2319efa0b8d6435b8c2a813d629b384f7780b52e"
+    },
+    {
+      "pageid": 208145,
+      "title": "Scotch bonnet",
+      "revision_id": 1373526988,
+      "revision_timestamp": null,
+      "text_sha256": "4a32ed8a2a2849f882e6d440f28e4da4d7ce0261ba9b0d3e80d7162c9a6f2425"
+    },
+    {
+      "pageid": 211496,
+      "title": "Battle of Omdurman",
+      "revision_id": 1379393370,
+      "revision_timestamp": null,
+      "text_sha256": "39f40ff91f49f0ab9a92d0dff5e9471abcc4c35e7a26bdd5416f542b5252525e"
+    },
+    {
+      "pageid": 220167,
+      "title": "Aconcagua",
+      "revision_id": 1373517716,
+      "revision_timestamp": null,
+      "text_sha256": "73b6ffc6200275a486fa0d76b7498978641f038d582bb9fa12a883761e0390bb"
+    },
+    {
+      "pageid": 229124,
+      "title": "Golden Raspberry Awards",
+      "revision_id": 1372630541,
+      "revision_timestamp": null,
+      "text_sha256": "d2f35651a8994d0d2a36c524ef249aca139edfe80c4dba4db60d0b00bde959b4"
+    },
+    {
+      "pageid": 235195,
+      "title": "Mineral (nutrient)",
+      "revision_id": 1348441500,
+      "revision_timestamp": null,
+      "text_sha256": "902cdb73742aca34bed403e7b6696567bfceda91b9bd077b6072152a19300e54"
+    },
+    {
+      "pageid": 238341,
+      "title": "David Hockney",
+      "revision_id": 1376796197,
+      "revision_timestamp": null,
+      "text_sha256": "6a5f76c1a765c2201c35390bb4d40ae0d8ab9ed5596f1a6e4cb689b659af2524"
+    },
+    {
+      "pageid": 242172,
+      "title": "Crown (British coin)",
+      "revision_id": 1371638871,
+      "revision_timestamp": null,
+      "text_sha256": "1274e7bca32432bcdb3048bef25fb02282311b775fa20d3fb6b63ba3f656616f"
+    },
+    {
+      "pageid": 245366,
+      "title": "Esch-sur-Alzette",
+      "revision_id": 1382270628,
+      "revision_timestamp": null,
+      "text_sha256": "6f2c6912f5f7b138424affdc20cc3a70a4c17e9e79d710dfbdab90ab76d111ec"
+    },
+    {
+      "pageid": 258732,
+      "title": "The American President",
+      "revision_id": 1371563736,
+      "revision_timestamp": null,
+      "text_sha256": "30e95753d62fe49190913c5e6b40abcf148c4d449074c41c83d738f34283349d"
+    },
+    {
+      "pageid": 265422,
+      "title": "Cindy Crawford",
+      "revision_id": 1381239120,
+      "revision_timestamp": null,
+      "text_sha256": "ad5485ea35d6447293984223ed228ed1e2535b111495e259ace517c0e5594803"
+    },
+    {
+      "pageid": 274142,
+      "title": "Alaskan Malamute",
+      "revision_id": 1369441444,
+      "revision_timestamp": null,
+      "text_sha256": "0342f87da3c9219b04015439cb1498d697e90412cfa85636c8cd8801981bf3c4"
+    },
+    {
+      "pageid": 277945,
+      "title": "Swan Lake",
+      "revision_id": 1378998724,
+      "revision_timestamp": null,
+      "text_sha256": "31891306f3efe1b95860a02e65056ff5c85bbe3a2f0662d234f43d345098e616"
+    },
+    {
+      "pageid": 289406,
+      "title": "Blood sugar level",
+      "revision_id": 1375522314,
+      "revision_timestamp": null,
+      "text_sha256": "632ed21bd0619fedc5dd0fa8892fc1a652928b442a81a8bc3046faf25c01b346"
+    },
+    {
+      "pageid": 293037,
+      "title": "Tempeh",
+      "revision_id": 1368891680,
+      "revision_timestamp": null,
+      "text_sha256": "e8819f152174685b26232cab329564fb392e256221f13da2dd5b523aaef7e5f2"
+    },
+    {
+      "pageid": 295860,
+      "title": "Susan Sontag",
+      "revision_id": 1376801555,
+      "revision_timestamp": null,
+      "text_sha256": "72b6d56cec3e2c7a650fcaa60f0d7cb13e92777d049681c6e567fafad2c939c4"
+    },
+    {
+      "pageid": 323063,
+      "title": "The God of Small Things",
+      "revision_id": 1376454249,
+      "revision_timestamp": null,
+      "text_sha256": "d45193a933fb86b12c069d78b7641e92628aec23133a4bacad4f6ff9912129a7"
+    },
+    {
+      "pageid": 327827,
+      "title": "Danger Mouse (1981 TV series)",
+      "revision_id": 1380037389,
+      "revision_timestamp": null,
+      "text_sha256": "40c264a541cb4020926b358a10ee7af83fe807f6be4f8797726508387dbb9fc8"
+    },
+    {
+      "pageid": 336811,
+      "title": "Earl Hines",
+      "revision_id": 1375616928,
+      "revision_timestamp": null,
+      "text_sha256": "57bf4477a525c0f04c462a7ecbba9bc14efb86c06f2e21f26f041d11dae8e7f4"
+    },
+    {
+      "pageid": 337870,
+      "title": "Court dress",
+      "revision_id": 1379419888,
+      "revision_timestamp": null,
+      "text_sha256": "8c22bfd779c04ae9f2dc0c2546b53e99cc616b23039fb859f58f5a812866ef8a"
+    },
+    {
+      "pageid": 338821,
+      "title": "Tintoretto",
+      "revision_id": 1381763547,
+      "revision_timestamp": null,
+      "text_sha256": "20ba0aeb68971ba0277f129ab825023784cb4f37c593aa12e1096f7f4211774a"
+    },
+    {
+      "pageid": 365419,
+      "title": "The Perfect Storm (book)",
+      "revision_id": 1362153603,
+      "revision_timestamp": null,
+      "text_sha256": "a7af450a788545c0ab53d5c2f05b1ee01b330dc1aed357949a451fb9d0c70322"
+    },
+    {
+      "pageid": 379716,
+      "title": "Leela ( Futurama )",
+      "revision_id": 1378139393,
+      "revision_timestamp": null,
+      "text_sha256": "48b56a835dcecec0c6101d31c1a1438be46ea7a6f522f70d3ace4c1700a21718"
+    },
+    {
+      "pageid": 391415,
+      "title": "George Formby",
+      "revision_id": 1382248812,
+      "revision_timestamp": null,
+      "text_sha256": "a8d8e27db7bf05c166a75914a192233440e784e1170e16a1cc78d75911d66723"
+    },
+    {
+      "pageid": 441926,
+      "title": "A Fistful of Dollars",
+      "revision_id": 1382434432,
+      "revision_timestamp": null,
+      "text_sha256": "d9aa21b975ad184f5aef1653081be98f2347319c741119bb1239cc03a934787f"
+    },
+    {
+      "pageid": 447925,
+      "title": "Masvingo Province",
+      "revision_id": 1381432220,
+      "revision_timestamp": null,
+      "text_sha256": "2b02043c153e45c865f766d9a9e104d0257c83bde009c17a153aba1b575ff9a5"
+    },
+    {
+      "pageid": 449924,
+      "title": "Fairy ring",
+      "revision_id": 1358878270,
+      "revision_timestamp": null,
+      "text_sha256": "fe7460adfed257f0b385a8daa59b86e6d24abe6d5ce80a2051c9414c75cbf2fb"
+    },
+    {
+      "pageid": 453182,
+      "title": "Nixie (folklore)",
+      "revision_id": 1381640777,
+      "revision_timestamp": null,
+      "text_sha256": "0007ac32442186e0ccc2c02e80fb8e9a4f1a5a86893a0a9c1abf3a094eca96d2"
+    },
+    {
+      "pageid": 459491,
+      "title": "Walker Art Gallery",
+      "revision_id": 1367700266,
+      "revision_timestamp": null,
+      "text_sha256": "4588e9dad01d6ba3f9d2c728dfa6c8dd98e45b36a1573ee8e184c55824231417"
+    },
+    {
+      "pageid": 468224,
+      "title": "Catskill Mountains",
+      "revision_id": 1381492478,
+      "revision_timestamp": null,
+      "text_sha256": "623237a4eee5dc3cbeb4e5d7984ba95da549153f731b59d3277fe301de753c10"
+    },
+    {
+      "pageid": 479133,
+      "title": "York Road tube station",
+      "revision_id": 1375383466,
+      "revision_timestamp": null,
+      "text_sha256": "a785a77459a86a4be8aac383ce8157d629f06c0f3fcf0ff01a4e73ce4e7cb51f"
+    },
+    {
+      "pageid": 490071,
+      "title": "Juan Manuel de Rosas",
+      "revision_id": 1369849474,
+      "revision_timestamp": null,
+      "text_sha256": "d87a5b26ad1e2917349723db5845059969e0da659b0a6fff5fb6503e02614efb"
+    },
+    {
+      "pageid": 497016,
+      "title": "List of BBC Radio 4 programmes",
+      "revision_id": 1372755738,
+      "revision_timestamp": null,
+      "text_sha256": "e7ec0855f761fc8011e326c1b2fed1985151212e4598f93e86c7d28bff7a360f"
+    },
+    {
+      "pageid": 528448,
+      "title": "Vic and Bob",
+      "revision_id": 1382385425,
+      "revision_timestamp": null,
+      "text_sha256": "cc63465ae67b9ba09c6ac4baa828036efc9fb80cd38d04bdd2827a2c659552cb"
+    },
+    {
+      "pageid": 537664,
+      "title": "Wellington College, Berkshire",
+      "revision_id": 1378361183,
+      "revision_timestamp": null,
+      "text_sha256": "9ba41be48136c78ec81b58445d72a002a0439f11467c1209b5de131c40f8f9ca"
+    },
+    {
+      "pageid": 538090,
+      "title": "Hel, Poland",
+      "revision_id": 1380357110,
+      "revision_timestamp": null,
+      "text_sha256": "1459bb7ff9e88b0397a5357a318ceadb7fd633d0209a0b62b6afb02bbd644e6a"
+    },
+    {
+      "pageid": 539457,
+      "title": "Denis Compton",
+      "revision_id": 1381392097,
+      "revision_timestamp": null,
+      "text_sha256": "60457b6527a156db26a35fadad2e2e6dd9eb04188ad5c6b5642d5bf54f2f5fcb"
+    },
+    {
+      "pageid": 574756,
+      "title": "Nell Gwyn",
+      "revision_id": 1382489164,
+      "revision_timestamp": null,
+      "text_sha256": "7f2c7bbf60284bad6cdaf628a3375173f7927dc9b8a3bbc94916ccead5d09050"
+    },
+    {
+      "pageid": 575792,
+      "title": "Lithuanian litas",
+      "revision_id": 1380085259,
+      "revision_timestamp": null,
+      "text_sha256": "a6b11d0fe6d79a8d6c37eece8bc3d849a014e7f9fe4491c7f04e0abfafea8f6d"
+    },
+    {
+      "pageid": 602381,
+      "title": "Femina Miss India",
+      "revision_id": 1381111923,
+      "revision_timestamp": null,
+      "text_sha256": "7814700cbaadfee1299a5d14fdda7643000aa67abaee4d2ddd07b2ea9d287f6b"
+    },
+    {
+      "pageid": 625125,
+      "title": "Letter case",
+      "revision_id": 1381200353,
+      "revision_timestamp": null,
+      "text_sha256": "2ece0f6ef7f2abf27ba751ddfcbb3677d90a54e30ed4d156d17a733037e05373"
+    },
+    {
+      "pageid": 669724,
+      "title": "Transatlantic flight",
+      "revision_id": 1380199969,
+      "revision_timestamp": null,
+      "text_sha256": "75c84f0e699372c645892b98d91fe5254624ffdaec3997281a2efbdb6c028708"
+    },
+    {
+      "pageid": 683036,
+      "title": "Basque Country (greater region)",
+      "revision_id": 1381646757,
+      "revision_timestamp": null,
+      "text_sha256": "4eceec7663ff6d075286dcb8a375d430e34606ecabe8ecb1c22766ac45901706"
+    },
+    {
+      "pageid": 710778,
+      "title": "Cradle of civilization",
+      "revision_id": 1382172399,
+      "revision_timestamp": null,
+      "text_sha256": "5bf9cc73e00fddd9a2f419619d8aecb8990cdea4948e53ad2874d60f26be1849"
+    },
+    {
+      "pageid": 716743,
+      "title": "Chris Lowe",
+      "revision_id": 1381789681,
+      "revision_timestamp": null,
+      "text_sha256": "137c82b0a16dadd2a62bda1601e9c9f1c78d4017a3d8029f84ea106539fc48a0"
+    },
+    {
+      "pageid": 730274,
+      "title": "Shilha language",
+      "revision_id": 1379757083,
+      "revision_timestamp": null,
+      "text_sha256": "acfc60bafbf82cee51b3046566529df80abc02586d0eb648a2a4037c5a18643a"
+    },
+    {
+      "pageid": 790623,
+      "title": "The Virginian (TV series)",
+      "revision_id": 1378103095,
+      "revision_timestamp": null,
+      "text_sha256": "5dcca4f2913f1f184b6ca4c706a3b21c9b280f4abd04d12b72c2f6988b9ad9de"
+    },
+    {
+      "pageid": 856919,
+      "title": "Lakenheath",
+      "revision_id": 1379256636,
+      "revision_timestamp": null,
+      "text_sha256": "bbc18143e35a022521222df009df3a70d0f5ec3d55404e9d87731709bba60ec9"
+    },
+    {
+      "pageid": 875795,
+      "title": "Fortunate Isles",
+      "revision_id": 1382145137,
+      "revision_timestamp": null,
+      "text_sha256": "0e8a6a5ff607f329be9ce91af8d43239d1cc9bb76bb9ad36cf76d548c9c96f59"
+    },
+    {
+      "pageid": 903516,
+      "title": "Tonsillitis",
+      "revision_id": 1352659356,
+      "revision_timestamp": null,
+      "text_sha256": "fefd2b99b6de7fa5c7aaf081be15f7192a7e7c1029da81a2bf0a79e7abd09144"
+    },
+    {
+      "pageid": 928447,
+      "title": "Poncho",
+      "revision_id": 1374509024,
+      "revision_timestamp": null,
+      "text_sha256": "252a58c834c34abd9aeb433ce533a54ca4e34c05fe8eb8c8c7a9f21736cb663d"
+    },
+    {
+      "pageid": 944017,
+      "title": "World's Strongest Man",
+      "revision_id": 1361868477,
+      "revision_timestamp": null,
+      "text_sha256": "1703eae99a90e1459a5476d8405e482ce4dc6d6112db89c3e67034f417187e56"
+    },
+    {
+      "pageid": 947774,
+      "title": "English phonology",
+      "revision_id": 1382497345,
+      "revision_timestamp": null,
+      "text_sha256": "8a3ee7d6fdaf62b2033dc9e51bf3b243f93ee7d76783c93fa3bd549f02e4e5c0"
+    },
+    {
+      "pageid": 948780,
+      "title": "SCORE (satellite)",
+      "revision_id": 1349211714,
+      "revision_timestamp": null,
+      "text_sha256": "31c7591ab9a05a004a44f854d7473240695824aabc7a37ef2892fdbfccc34336"
+    },
+    {
+      "pageid": 951781,
+      "title": "Octagon Theatre, Bolton",
+      "revision_id": 1378875108,
+      "revision_timestamp": null,
+      "text_sha256": "dbca11e6f81f831eac298ac14c6a4ca866badbad8dd9323d2956ac3c5a13bea2"
+    },
+    {
+      "pageid": 1048323,
+      "title": "What a Cartoon!",
+      "revision_id": 1380239736,
+      "revision_timestamp": null,
+      "text_sha256": "7505a2134e856715e8b0d6db4d3d04eff0696dfe8716f78bdaf7b2dd2418b5b0"
+    },
+    {
+      "pageid": 1057312,
+      "title": "James the Red Engine",
+      "revision_id": 1381474125,
+      "revision_timestamp": null,
+      "text_sha256": "6d8ace5fd3647d88d37900f81ce94f1d5df9180b5bc626bda401dd8a5e429cb0"
+    },
+    {
+      "pageid": 1078371,
+      "title": "Icelandic Coast Guard",
+      "revision_id": 1382126712,
+      "revision_timestamp": null,
+      "text_sha256": "e2f68c220e5e7819b8c80c1c52413eca9c77b7011f495b21e70201f32eccb3b5"
+    },
+    {
+      "pageid": 1091334,
+      "title": "Sienna Miller",
+      "revision_id": 1381824967,
+      "revision_timestamp": null,
+      "text_sha256": "9a05b4497167434523e7ea111b299e65a8167a2caad4831819295526eba17ac0"
+    },
+    {
+      "pageid": 1184660,
+      "title": "Finger tab",
+      "revision_id": 1343687314,
+      "revision_timestamp": null,
+      "text_sha256": "43102cf71cb079319e1e204bc0c640b206eb6216ee6ae38af62ea0db0f09cd6d"
+    },
+    {
+      "pageid": 1235459,
+      "title": "River-class frigate",
+      "revision_id": 1380723757,
+      "revision_timestamp": null,
+      "text_sha256": "40f47a327391b401a078039fbb824b0d98a144fdbcb8e80c824d740e601233d6"
+    },
+    {
+      "pageid": 1243934,
+      "title": "History of the London Underground",
+      "revision_id": 1380196144,
+      "revision_timestamp": null,
+      "text_sha256": "5fc818b63c5315a297d4a99cdd55270f37c820151548679a8432b1d3239170ee"
+    },
+    {
+      "pageid": 1247675,
+      "title": "CeCe Peniston",
+      "revision_id": 1379221685,
+      "revision_timestamp": null,
+      "text_sha256": "d8dd4c9a3824701ab1e90251a115281af1f1bb83bf7e013cc17339c27e15e4be"
+    },
+    {
+      "pageid": 1296036,
+      "title": "Drum rudiment",
+      "revision_id": 1381903709,
+      "revision_timestamp": null,
+      "text_sha256": "bf2330e150ef97373b873ef2ae4aa56fab03a008d9fb5102611fbe2120944e8f"
+    },
+    {
+      "pageid": 1320974,
+      "title": "Deerstalker",
+      "revision_id": 1372902698,
+      "revision_timestamp": null,
+      "text_sha256": "641b838ec1cd7f7da290a274f08df0ca3f773b98b795a6e2a745c28735b8df15"
+    },
+    {
+      "pageid": 1345242,
+      "title": "The Thief of Always",
+      "revision_id": 1364965547,
+      "revision_timestamp": null,
+      "text_sha256": "d62fb81a4d42e25353ab3cac1d9822ca1d2d09f35a7cf39abf92bcf328e08fa3"
+    },
+    {
+      "pageid": 1365807,
+      "title": "Sudoku",
+      "revision_id": 1381498225,
+      "revision_timestamp": null,
+      "text_sha256": "ec671e570d2acbf5161f5060b49f137831c18b63e3ae68508509999cde3cef8a"
+    },
+    {
+      "pageid": 1369805,
+      "title": "Papua New Guinean kina",
+      "revision_id": 1364122491,
+      "revision_timestamp": null,
+      "text_sha256": "18d360bafa09454f373a0fc87073b33d0b635f4a54f95f43a6b232902cbbdec4"
+    },
+    {
+      "pageid": 1378695,
+      "title": "Taggart",
+      "revision_id": 1371736017,
+      "revision_timestamp": null,
+      "text_sha256": "99aae2da2d5e5871fff47f2917042d6be0029668e47b5635956c0c349b97380b"
+    },
+    {
+      "pageid": 1404388,
+      "title": "Sam Taylor-Johnson",
+      "revision_id": 1381954609,
+      "revision_timestamp": null,
+      "text_sha256": "2fdcf4972aa10dcc90b8363549d757470357a4fae4c34218e00b896244098b7b"
+    },
+    {
+      "pageid": 1607168,
+      "title": "Canadian one-hundred-dollar note",
+      "revision_id": 1368412434,
+      "revision_timestamp": null,
+      "text_sha256": "b5336ef7a1bd7361763c45b8366c10f3f04269311e91ea941cbf9de365cea04a"
+    },
+    {
+      "pageid": 1607990,
+      "title": "Early flying machines",
+      "revision_id": 1379041111,
+      "revision_timestamp": null,
+      "text_sha256": "b6e79ae7a7a632ebaef691afcc3e431ce269c2d30004484d78b9898d0bf9eb3e"
+    },
+    {
+      "pageid": 1649321,
+      "title": "List of United States cities by population",
+      "revision_id": 1379161001,
+      "revision_timestamp": null,
+      "text_sha256": "1912f0c06110461d9b21ee10a2be5e209d3bd3ec9c654b578fbe8f891249219f"
+    },
+    {
+      "pageid": 1653482,
+      "title": "Anglo-Indian cuisine",
+      "revision_id": 1352618429,
+      "revision_timestamp": null,
+      "text_sha256": "632b8bf5ff7007069d3fa42df804c48745ca308526d656f49d7ff8946bba7a93"
+    },
+    {
+      "pageid": 1683750,
+      "title": "Smith (surname)",
+      "revision_id": 1374477144,
+      "revision_timestamp": null,
+      "text_sha256": "10854f10946167f6bc565c65630d99988f064c94927522e058d1da49099bc1b1"
+    },
+    {
+      "pageid": 1707613,
+      "title": "Lord Chamberlain's Office",
+      "revision_id": 1372147785,
+      "revision_timestamp": null,
+      "text_sha256": "f57c3440e417db3c1c4ba65f322619ab2acefd916160b4b31aef3e744c368965"
+    },
+    {
+      "pageid": 1717234,
+      "title": "History of the Quakers",
+      "revision_id": 1379622956,
+      "revision_timestamp": null,
+      "text_sha256": "40a6b6e95ff62903bc398477de3ff48bc06ed8f14c4f0e69c81fbc3a299c016a"
+    },
+    {
+      "pageid": 1740284,
+      "title": "Gigi (1958 film)",
+      "revision_id": 1375966031,
+      "revision_timestamp": null,
+      "text_sha256": "38660497b384159f3d8b0ebc0173e16ad72015116940c79fa38db5e4774065ba"
+    },
+    {
+      "pageid": 2223628,
+      "title": "Jewish hat",
+      "revision_id": 1378671298,
+      "revision_timestamp": null,
+      "text_sha256": "b7cc4e8c97923be2b2acc4c8540f3428488abfed59dbc8b3f1f280cbca49903d"
+    },
+    {
+      "pageid": 2328336,
+      "title": "Otitis",
+      "revision_id": 1363814888,
+      "revision_timestamp": null,
+      "text_sha256": "e6bf64b99896cab3ec189d943a8ae89f80e0d5f80a5703ca8e8da493e44a209e"
+    },
+    {
+      "pageid": 2472881,
+      "title": "Mumbai Metropolitan Region",
+      "revision_id": 1376863817,
+      "revision_timestamp": null,
+      "text_sha256": "7e006e43d2b66f3f10164fa70bb7a295b108a927bf7d872fbe1eb6b4fd4cba32"
+    },
+    {
+      "pageid": 2654186,
+      "title": "Zodiac (film)",
+      "revision_id": 1382489267,
+      "revision_timestamp": null,
+      "text_sha256": "b94ccd85774ad6cf3731cad9f71d4390fe3d93c4c42bc0eeb13d175892319763"
+    },
+    {
+      "pageid": 2677799,
+      "title": "River Runs Red",
+      "revision_id": 1377403712,
+      "revision_timestamp": null,
+      "text_sha256": "cacb3b2aa2c7f0ffefe26b707182ef82182173f3ca35d39d2a57e90a24d72c90"
+    },
+    {
+      "pageid": 2818177,
+      "title": "David White (actor)",
+      "revision_id": 1375729107,
+      "revision_timestamp": null,
+      "text_sha256": "39ed9940331fd1f83ed1abbde172241acb71a94e0a97870693fc21e9e8243c08"
+    },
+    {
+      "pageid": 2876437,
+      "title": "The Nightingale (fairy tale)",
+      "revision_id": 1366849326,
+      "revision_timestamp": null,
+      "text_sha256": "bc78037b16d939b263d02cfd737d589288d2da5902833861b0dae9b8e256fcdd"
+    },
+    {
+      "pageid": 3311575,
+      "title": "Ranks and insignia of the other ranks of the RAF",
+      "revision_id": 1380883282,
+      "revision_timestamp": null,
+      "text_sha256": "a7999def1f13823001b309a33a875ffe93c0e67d0eaea53e5d5a797a75bf894f"
+    },
+    {
+      "pageid": 3379451,
+      "title": "Journey to the Centre of the Earth (album)",
+      "revision_id": 1378545682,
+      "revision_timestamp": null,
+      "text_sha256": "855cbbc7c8b9ea1eec437e384922033608ffbc4c525e455b64c5280d37afef55"
+    },
+    {
+      "pageid": 3379941,
+      "title": "West Indies cricket team",
+      "revision_id": 1380845020,
+      "revision_timestamp": null,
+      "text_sha256": "8ad63dfcbf0888fa5272501fd99382634dfddeb09660ed596c595c8e26360a4d"
+    },
+    {
+      "pageid": 3384994,
+      "title": "War novel",
+      "revision_id": 1381209745,
+      "revision_timestamp": null,
+      "text_sha256": "80b6d984f6afa330ddd0b979772642e66f2676096776d391f885eeea2be5b46c"
+    },
+    {
+      "pageid": 3434750,
+      "title": "United States",
+      "revision_id": 1382544225,
+      "revision_timestamp": null,
+      "text_sha256": "138c3b5b9d3ffd23e0e29d9b519f974582d696713b0990d02f2fed7806f8639e"
+    },
+    {
+      "pageid": 3451488,
+      "title": "Law Enforcement Purple Heart",
+      "revision_id": 1375086386,
+      "revision_timestamp": null,
+      "text_sha256": "ecb763c7e31d45adbbfe6edad937fc37dfb903c6168079079482e2aa10226ba3"
+    },
+    {
+      "pageid": 3520906,
+      "title": "Motocrossed",
+      "revision_id": 1369165657,
+      "revision_timestamp": null,
+      "text_sha256": "dd4c4cd6ce75cc4aad335fd063ef7ba2c90399cb176e23055fbc009d3faa3fb4"
+    },
+    {
+      "pageid": 3694699,
+      "title": "Carry On Cruising",
+      "revision_id": 1351262080,
+      "revision_timestamp": null,
+      "text_sha256": "16567fa2f62e9a2edaaedc4e21e656b81b1d8f4d9b651c78d709bcbc5a1e4d57"
+    },
+    {
+      "pageid": 3703749,
+      "title": "Marine otter",
+      "revision_id": 1369755923,
+      "revision_timestamp": null,
+      "text_sha256": "2229121ef30b9c4f73157b832a9b4d1afa483dd390a7536c9b3e271d8668fef7"
+    },
+    {
+      "pageid": 3786675,
+      "title": "Ruby Myers",
+      "revision_id": 1377620885,
+      "revision_timestamp": null,
+      "text_sha256": "db8b4aa66548478ed134890fc05d35d1c54213878a2e6475c9cb94642b146de2"
+    },
+    {
+      "pageid": 3810742,
+      "title": "National symbols of Iran",
+      "revision_id": 1381427972,
+      "revision_timestamp": null,
+      "text_sha256": "8ed6e7a3d4f78c579bfdc751f6d93426a7f7d0e01c24b3b68d5d54401b62f404"
+    },
+    {
+      "pageid": 3908009,
+      "title": "History of the Eurovision Song Contest",
+      "revision_id": 1382409046,
+      "revision_timestamp": null,
+      "text_sha256": "5e90ba0b95d9a169a3f5810c147b8ce431a771adf81744b7ba04fd4cef537a8b"
+    },
+    {
+      "pageid": 3920193,
+      "title": "No Country for Old Men",
+      "revision_id": 1382192678,
+      "revision_timestamp": null,
+      "text_sha256": "438c8764a7594a3785b616564878534aa6b8f7320343795559c31a7628d5f8c5"
+    },
+    {
+      "pageid": 4104602,
+      "title": "1795–1820 in Western fashion",
+      "revision_id": 1379253900,
+      "revision_timestamp": null,
+      "text_sha256": "44f2944b104b81f7edc48dd0631bd2c3ae061815288c6d3040dd8ef17e822c80"
+    },
+    {
+      "pageid": 4121912,
+      "title": "Glossary of cue sports terms",
+      "revision_id": 1380538154,
+      "revision_timestamp": null,
+      "text_sha256": "62e1543b24841d661d34d98ccd4f1dbc329226c4d56670fd33c27a5f5dbb925c"
+    },
+    {
+      "pageid": 4134966,
+      "title": "List of libraries in the ancient world",
+      "revision_id": 1374056342,
+      "revision_timestamp": null,
+      "text_sha256": "94f7d6056906ff184601827f6ec53d9d7ea0b54e670ee3bf6056f1e3a44ff3be"
+    },
+    {
+      "pageid": 4193432,
+      "title": "Fender Wide Range",
+      "revision_id": 1306543895,
+      "revision_timestamp": null,
+      "text_sha256": "254b89279fb3278527ec89b7d5482044335ecc1abdb99311534fda6e36cbf7d4"
+    },
+    {
+      "pageid": 4205653,
+      "title": "List of Latin phrases (full)",
+      "revision_id": 1374370423,
+      "revision_timestamp": null,
+      "text_sha256": "ebf09c06474a89e2e32936b687b06e7ec29570193b94da20ee533c3d76c6727e"
+    },
+    {
+      "pageid": 4637590,
+      "title": "Bob Dylan",
+      "revision_id": 1382503791,
+      "revision_timestamp": null,
+      "text_sha256": "10c4869775a044965a738e9a275ea8573b4d91523133983f1107170002746968"
+    },
+    {
+      "pageid": 4642635,
+      "title": "Television licensing in the United Kingdom",
+      "revision_id": 1380717650,
+      "revision_timestamp": null,
+      "text_sha256": "2e1157d7ab8ed82c37e07ce2cf7c11c3c28e0d1c9c0fcc7d28febd22d9618101"
+    },
+    {
+      "pageid": 4691225,
+      "title": "Indigenous peoples of South America",
+      "revision_id": 1377929980,
+      "revision_timestamp": null,
+      "text_sha256": "a6e6e053564dfa47da98c97252e761fc895eb302104d225f435cb4436dd7521d"
+    },
+    {
+      "pageid": 4862696,
+      "title": "Dudley Do-Right (film)",
+      "revision_id": 1373972115,
+      "revision_timestamp": null,
+      "text_sha256": "3eb32906bc3c46ff6c88309cfd0bad1b53639c8630df2658d34e2ab0535473fb"
+    },
+    {
+      "pageid": 4986924,
+      "title": "Heat Wave (1963 song)",
+      "revision_id": 1378539937,
+      "revision_timestamp": null,
+      "text_sha256": "69d3b4f9d6fe86da0f0927195b8f2bdbbc8292e6ad2b9c4ee84fa7ddf67e1626"
+    },
+    {
+      "pageid": 5030380,
+      "title": "Gerald Ford",
+      "revision_id": 1380707440,
+      "revision_timestamp": null,
+      "text_sha256": "3f1cce80faea29847311e3c7c21fcbeb5a5395d7ecbd1aacdca0c89520705e2a"
+    },
+    {
+      "pageid": 5670063,
+      "title": "Favourite",
+      "revision_id": 1367580807,
+      "revision_timestamp": null,
+      "text_sha256": "76ccc7ff37eb02e376ad42706e792d4959776b72f098e78485bf041bf04ccec7"
+    },
+    {
+      "pageid": 5912269,
+      "title": "Clear Lake (Iowa)",
+      "revision_id": 1367489555,
+      "revision_timestamp": null,
+      "text_sha256": "46e08d1865aa7037f36be98f1d228ebea1bd7590e74fa9af844232701a66e3e1"
+    },
+    {
+      "pageid": 6481319,
+      "title": "Steve Backshall",
+      "revision_id": 1380680122,
+      "revision_timestamp": null,
+      "text_sha256": "3dbe55fe69cdf33bc5eaf30accc3f3a8b11f20dd12ce24a38d78cc507580e929"
+    },
+    {
+      "pageid": 6940462,
+      "title": "Timeline of the Republic of Texas",
+      "revision_id": 1380710885,
+      "revision_timestamp": null,
+      "text_sha256": "09840966add9eddcb0d6cac893fff1d8927093ceb8c8189750fa01fd7124793a"
+    },
+    {
+      "pageid": 7346662,
+      "title": "My Eyes Adored You",
+      "revision_id": 1367242466,
+      "revision_timestamp": null,
+      "text_sha256": "5912a63092430ab076b0b7fd64c4ee677375f472c40d02aae08a7368561b5958"
+    },
+    {
+      "pageid": 7898132,
+      "title": "List of national flags by design",
+      "revision_id": 1382499156,
+      "revision_timestamp": null,
+      "text_sha256": "2bab2414accfa62e602f68a692b5bd1d3cc921bc5ebaaa728480ca67d455e00e"
+    },
+    {
+      "pageid": 8236080,
+      "title": "Taphophobia",
+      "revision_id": 1372791093,
+      "revision_timestamp": null,
+      "text_sha256": "627694568d0d596d768148b00c9950b72521d8f38b840913bdf286cd6c07e1b8"
+    },
+    {
+      "pageid": 8387289,
+      "title": "Forbes list of the World's 100 Most Powerful Women",
+      "revision_id": 1376381958,
+      "revision_timestamp": null,
+      "text_sha256": "656068de5cd4719c52a1443d08567a1c5b619566e2444e920aa35daf11dc63b4"
+    },
+    {
+      "pageid": 8474622,
+      "title": "Measuring rod",
+      "revision_id": 1352114797,
+      "revision_timestamp": null,
+      "text_sha256": "b4b1e8645fd64606c0acd62b5464f445eb095037580c44982f25fdaea96b48db"
+    },
+    {
+      "pageid": 8780285,
+      "title": "The Beatles in film",
+      "revision_id": 1382063074,
+      "revision_timestamp": null,
+      "text_sha256": "64832e30390e587831365e473482be2e4c5fef714b91cd8f8af639bcfc7e8269"
+    },
+    {
+      "pageid": 8955445,
+      "title": "O. J. Simpson",
+      "revision_id": 1382088297,
+      "revision_timestamp": null,
+      "text_sha256": "ad111a0b6da70ac94f79db7245a3e30eaa187208fa8dfdaceae283ec4b6cb180"
+    },
+    {
+      "pageid": 9282173,
+      "title": "Israel",
+      "revision_id": 1382526325,
+      "revision_timestamp": null,
+      "text_sha256": "81afbe364121bb2e88583ff89ffea231b2c11d0d1af97e39bfe53a83d9fe40fc"
+    },
+    {
+      "pageid": 9336609,
+      "title": "The Family Reunion",
+      "revision_id": 1340631536,
+      "revision_timestamp": null,
+      "text_sha256": "845e237e575e13397b48bc9773c7e0485feda5c6aec386f0b6fdefe76f07e545"
+    },
+    {
+      "pageid": 9443926,
+      "title": "Burnside (TV series)",
+      "revision_id": 1372581599,
+      "revision_timestamp": null,
+      "text_sha256": "c93cf2947b38b7b2adea62edfbe434a3afb5ea1e90aac383c0e645eff1f4c340"
+    },
+    {
+      "pageid": 9565543,
+      "title": "Vorontsov Palace (Alupka)",
+      "revision_id": 1370001122,
+      "revision_timestamp": null,
+      "text_sha256": "4a33e1674708e10739ff9a7cf9814115e80cc11aff8daa153f3f63998296cfc1"
+    },
+    {
+      "pageid": 10346664,
+      "title": "Bach cantata",
+      "revision_id": 1376553382,
+      "revision_timestamp": null,
+      "text_sha256": "61ca6f482e406bb763b2f120e52af6d356133652844049458bac2ef781a61628"
+    },
+    {
+      "pageid": 11073939,
+      "title": "South Pacific (1958 film)",
+      "revision_id": 1381930384,
+      "revision_timestamp": null,
+      "text_sha256": "605b5d4747ad0dccdd8c100ec41db9e4302b6d00f60ba0806b96b10b75023b92"
+    },
+    {
+      "pageid": 11473533,
+      "title": "Adam and Eve",
+      "revision_id": 1376291805,
+      "revision_timestamp": null,
+      "text_sha256": "3e51c43e629eb5f3c51231bae82f6563b8f5c82380d6052f2baf4660bf39909a"
+    },
+    {
+      "pageid": 11871290,
+      "title": "Navidades",
+      "revision_id": 1366845847,
+      "revision_timestamp": null,
+      "text_sha256": "248f6e3ffd6c452b4afc6c7544b31848a349c0eb60c5c3c767a44579626209fe"
+    },
+    {
+      "pageid": 12253897,
+      "title": "Sliding (motion)",
+      "revision_id": 1376677198,
+      "revision_timestamp": null,
+      "text_sha256": "06d4517aef1662f8acb4932cebb5bc1ae90dc2857a8811031f77c990d071e5d9"
+    },
+    {
+      "pageid": 12312312,
+      "title": "Rugby League World Cup",
+      "revision_id": 1381886645,
+      "revision_timestamp": null,
+      "text_sha256": "2d415fa47a89f5e2f6ce38d6f768e33f73900289bec1a04c5aa5509f2e75ae7b"
+    },
+    {
+      "pageid": 13277304,
+      "title": "Descendants of the Bounty mutineers",
+      "revision_id": 1377115022,
+      "revision_timestamp": null,
+      "text_sha256": "e3b3835713326e9a6b6c36846d4befd3085f0575923020a744d39289abb6943e"
+    },
+    {
+      "pageid": 13312450,
+      "title": "List of people from the London Borough of Hackney",
+      "revision_id": 1371827027,
+      "revision_timestamp": null,
+      "text_sha256": "e20fe8ccb4e49d9c30443cd0a7c3047a4af2db1e78e0c1af9593e5f29319e5d2"
+    },
+    {
+      "pageid": 13502496,
+      "title": "List of Perry Mason episodes",
+      "revision_id": 1381073696,
+      "revision_timestamp": null,
+      "text_sha256": "6af2de957997d441e5e7109d23ec317415f94f9f322fa88261bdfe4c3bd15ec1"
+    },
+    {
+      "pageid": 14973523,
+      "title": "No Regrets (Tom Rush song)",
+      "revision_id": 1337240202,
+      "revision_timestamp": null,
+      "text_sha256": "ae651b0b03c4c901007aae88d67274b6d4cafaee9d3aad60af2080ae802eabb2"
+    },
+    {
+      "pageid": 15829136,
+      "title": "List of Lassie (1954 TV series) episodes",
+      "revision_id": 1375946500,
+      "revision_timestamp": null,
+      "text_sha256": "52af4cd1f920d6dbc574cce7b4fd7a89dcd235bbd83bc937687ca36e73c9d363"
+    },
+    {
+      "pageid": 16709386,
+      "title": "List of The Big Bang Theory franchise characters",
+      "revision_id": 1381472208,
+      "revision_timestamp": null,
+      "text_sha256": "d58bffadc705e18518de30bbfa2dc62769a7e6f0edd108c169c1956935954a4e"
+    },
+    {
+      "pageid": 16768010,
+      "title": "Alice Coleman",
+      "revision_id": 1373406767,
+      "revision_timestamp": null,
+      "text_sha256": "eef29cc7ca15b05ed244e966bbd04308359fc9dd297c4d90f20fc4df525e61ff"
+    },
+    {
+      "pageid": 17756493,
+      "title": "List of countries by oil extraction",
+      "revision_id": 1379000976,
+      "revision_timestamp": null,
+      "text_sha256": "bbd4eb707502b379f530479c446152197831c95f92b3989ac4402fdc8446417b"
+    },
+    {
+      "pageid": 18855244,
+      "title": "List of multiple Olympic medalists",
+      "revision_id": 1379532529,
+      "revision_timestamp": null,
+      "text_sha256": "c75e8d1e08fd9dbbf197f523708c5221b209cf765daf998a82a5f97233ad673e"
+    },
+    {
+      "pageid": 18950900,
+      "title": "Brand",
+      "revision_id": 1382039135,
+      "revision_timestamp": null,
+      "text_sha256": "0f32716d8ebcef5ff2fec12f158c8ad58ee32ae80e4e0eff06bb53fb613b7a9f"
+    },
+    {
+      "pageid": 19415454,
+      "title": "Triumph Motorcycles Ltd",
+      "revision_id": 1382386797,
+      "revision_timestamp": null,
+      "text_sha256": "13b93403cf84710ffebb5dec3f84f0da7948e91faa932304980feab75b1452c9"
+    },
+    {
+      "pageid": 19729548,
+      "title": "Millard Fillmore",
+      "revision_id": 1381896802,
+      "revision_timestamp": null,
+      "text_sha256": "dd8045b314d22dadc40c9bdd9ddae164708ffd18a53a18ee86dbbce343a730fe"
+    },
+    {
+      "pageid": 19890023,
+      "title": "Co-op Food",
+      "revision_id": 1381145294,
+      "revision_timestamp": null,
+      "text_sha256": "cf3138ec151ce2b77d6a6d19f4203927c88c858a025d1aacea326d24f33cd7ab"
+    },
+    {
+      "pageid": 20913246,
+      "title": "Scarlett Johansson",
+      "revision_id": 1381626866,
+      "revision_timestamp": null,
+      "text_sha256": "de07e7844031c024e91d6b8414890a0ecac8b20ecea2b0f60fd6f10e81e42fef"
+    },
+    {
+      "pageid": 22078173,
+      "title": "Chebureki",
+      "revision_id": 1374398841,
+      "revision_timestamp": null,
+      "text_sha256": "9606f026f091ac0f88219f18c41d1a68c493b5d33d88aaa53aa01fae4f9cf153"
+    },
+    {
+      "pageid": 22605807,
+      "title": "Buddh International Circuit",
+      "revision_id": 1379007479,
+      "revision_timestamp": null,
+      "text_sha256": "407ac1326b97e5a83a453bcb61ab5de8f167574659343b31670683d35edbc71b"
+    },
+    {
+      "pageid": 22852566,
+      "title": "Crucifixion of Jesus",
+      "revision_id": 1382127289,
+      "revision_timestamp": null,
+      "text_sha256": "baad598fc0d73b36e263907ab556e766eabe41529cf22d46e1847818fffa44dc"
+    },
+    {
+      "pageid": 23066298,
+      "title": "Tengzhong",
+      "revision_id": 1379210499,
+      "revision_timestamp": null,
+      "text_sha256": "fd1d1e81d3c864735c841b2ce4cd322564abc27b5c52b3f4b947e55c6253d3a0"
+    },
+    {
+      "pageid": 23399213,
+      "title": "2010 Giro d'Italia",
+      "revision_id": 1372396385,
+      "revision_timestamp": null,
+      "text_sha256": "103258b68eac4b59c63afd64f68be538e3bf4d1a29022009ff56dc12e3b3e90a"
+    },
+    {
+      "pageid": 23408094,
+      "title": "List of Grand Slam and related tennis records",
+      "revision_id": 1381006143,
+      "revision_timestamp": null,
+      "text_sha256": "ad323793e912be485c3eb4edaf2482956b6c386f0e30a7cc26b3f0bc4799c300"
+    },
+    {
+      "pageid": 23417070,
+      "title": "Norse mythology",
+      "revision_id": 1381415514,
+      "revision_timestamp": null,
+      "text_sha256": "715999ea67ce26464df5f2079e2152d0acf0bf490b2fa54c7307e6490773566b"
+    },
+    {
+      "pageid": 23487440,
+      "title": "Alien (film)",
+      "revision_id": 1382136424,
+      "revision_timestamp": null,
+      "text_sha256": "03e2c5f81bb55b6bb462532ff8376c1e8ce3e3155f6c1aedb227e4bd5b6c0765"
+    },
+    {
+      "pageid": 23546266,
+      "title": "Capital punishment in Florida",
+      "revision_id": 1381312889,
+      "revision_timestamp": null,
+      "text_sha256": "62a4a075012f17591c6c97c61df2e3c79df5c1368f799078801d74c17ca7fb95"
+    },
+    {
+      "pageid": 23560639,
+      "title": "Personal relationships of Paul McCartney",
+      "revision_id": 1382090241,
+      "revision_timestamp": null,
+      "text_sha256": "49e7430b007fc6d538e3f599c42b713aba5cee20fec388d772ecc1e28bb0d92a"
+    },
+    {
+      "pageid": 24424950,
+      "title": "Richard Osman",
+      "revision_id": 1382007881,
+      "revision_timestamp": null,
+      "text_sha256": "04fdf5fb731b748f5c03ea747ea889db3e622dcfcb9546207770ac5a61804423"
+    },
+    {
+      "pageid": 24859540,
+      "title": "Yeomen Warders",
+      "revision_id": 1378067743,
+      "revision_timestamp": null,
+      "text_sha256": "2187ac76bfbc363b2c4e84e41bfe9cb3c80c0632c055f0382414fbc49e878f73"
+    },
+    {
+      "pageid": 26173858,
+      "title": "Songs from the Tainted Cherry Tree",
+      "revision_id": 1171245015,
+      "revision_timestamp": null,
+      "text_sha256": "3e947d1c0a1437d3ec8f5ef113be849618a45bb6b58fdc4ff49efdb2dd76db64"
+    },
+    {
+      "pageid": 26532740,
+      "title": "Oedipus rex (opera)",
+      "revision_id": 1380174440,
+      "revision_timestamp": null,
+      "text_sha256": "e3d850ca1756291e74118901ef2811c88eac23d23046e1e05618000344d377da"
+    },
+    {
+      "pageid": 28129185,
+      "title": "The Ecumenical Council (painting)",
+      "revision_id": 1361442408,
+      "revision_timestamp": null,
+      "text_sha256": "113eaefa273a154016644ecba746b2f40749f81a45fd34f266733261ee024590"
+    },
+    {
+      "pageid": 29728037,
+      "title": "Body odour and sexual attraction",
+      "revision_id": 1381877975,
+      "revision_timestamp": null,
+      "text_sha256": "89e11f2fdc69226bdd356d7a445e5c2351a2fb0378d72dbadd9291aa84fd62cc"
+    },
+    {
+      "pageid": 31944331,
+      "title": "True North Sports & Entertainment",
+      "revision_id": 1379440363,
+      "revision_timestamp": null,
+      "text_sha256": "bcea7edf03eab3d70ea24e5bcbfc0073ff1b0f44f9f44f97107b4af248e5991b"
+    },
+    {
+      "pageid": 31994546,
+      "title": "Joseph Parker",
+      "revision_id": 1381618606,
+      "revision_timestamp": null,
+      "text_sha256": "a2fb8c7e3d00f9daa3ef7ba83dc030813887de50c57b65db09442f2d623b8a41"
+    },
+    {
+      "pageid": 35314997,
+      "title": "Doc McStuffins",
+      "revision_id": 1373681458,
+      "revision_timestamp": null,
+      "text_sha256": "9ce7061aecbbf10378d9b9a587cdea43cec6e800464bf8487327bc33e8050a8c"
+    },
+    {
+      "pageid": 35595196,
+      "title": "List of production companies owned by the American Broadcasting Company",
+      "revision_id": 1375862258,
+      "revision_timestamp": null,
+      "text_sha256": "6d1fbd521993dd33c283d0c6f4eaabdee9ee4d457060aaf97d5f51f834ddf4dd"
+    },
+    {
+      "pageid": 35724251,
+      "title": "Go On (TV series)",
+      "revision_id": 1368593609,
+      "revision_timestamp": null,
+      "text_sha256": "e8d3ec607ce92ee7662c802be9506ee95ba3959244371a902879fa7159a289ba"
+    },
+    {
+      "pageid": 35940793,
+      "title": "List of people who died climbing Mount Everest",
+      "revision_id": 1381708339,
+      "revision_timestamp": null,
+      "text_sha256": "fdd82e9994642aee592ec703c3ba363137d62b2318fa391019e4feb8f4b03180"
+    },
+    {
+      "pageid": 38070702,
+      "title": "Football hooliganism in the United Kingdom",
+      "revision_id": 1381295389,
+      "revision_timestamp": null,
+      "text_sha256": "2f39f1987ca7ff647ffd6d3925e002895cc829ffb8958fdb59f3283aa9da3834"
+    },
+    {
+      "pageid": 39108393,
+      "title": "History of Native Americans in the United States",
+      "revision_id": 1380042400,
+      "revision_timestamp": null,
+      "text_sha256": "21e41993cd13f5286a5faa870dd01811d1dc6ebd829e45d1f73aeb0ceb0e58ea"
+    },
+    {
+      "pageid": 40220449,
+      "title": "List of bowlers who have taken 300 or more wickets in Test cricket",
+      "revision_id": 1380371410,
+      "revision_timestamp": null,
+      "text_sha256": "9ef02ca80d1fa6c09541437bc5e5aa53ddbba19ecb8866ba0d525962dfa83b2c"
+    },
+    {
+      "pageid": 40342370,
+      "title": "Thomas & Friends (franchise)",
+      "revision_id": 1381821109,
+      "revision_timestamp": null,
+      "text_sha256": "88aaf8d27751b167131453c2b4a1f557e1daba6101b2a17b7079609149c45005"
+    },
+    {
+      "pageid": 41284488,
+      "title": "Death and state funeral of Nelson Mandela",
+      "revision_id": 1381613500,
+      "revision_timestamp": null,
+      "text_sha256": "b9f7cbdec4e087102d0b6d82462b7f63f223a9b7eb19a9a0e60268ea4574f64c"
+    },
+    {
+      "pageid": 42182852,
+      "title": "Our Conor",
+      "revision_id": 1313762436,
+      "revision_timestamp": null,
+      "text_sha256": "6fddceb077ff5d28a02467323f4fd5f1184b186d1bfa6bc15abb07b9211d9898"
+    },
+    {
+      "pageid": 42491155,
+      "title": "EPCR Challenge Cup",
+      "revision_id": 1363373463,
+      "revision_timestamp": null,
+      "text_sha256": "22d945c467f9b321e894e22b7acacb5a735e650451f258791aebe59772914e8f"
+    },
+    {
+      "pageid": 43639634,
+      "title": "Magdalene laundries in Ireland",
+      "revision_id": 1382149993,
+      "revision_timestamp": null,
+      "text_sha256": "56be165abaea5bc37b6211a7168f49233bcbdf7614dcf04e72ca9496627103e4"
+    },
+    {
+      "pageid": 45433681,
+      "title": "Hamilton (musical)",
+      "revision_id": 1380037456,
+      "revision_timestamp": null,
+      "text_sha256": "1d8ddfdeb60d34d29cf093610a8bd1a0e978c98cc4af52da37698fc4b61fa5c6"
+    },
+    {
+      "pageid": 48544240,
+      "title": "List of Star Wars films",
+      "revision_id": 1381987899,
+      "revision_timestamp": null,
+      "text_sha256": "a097868186d80263b0fdff5cb6a2bb3bb71eee5a7d901c13b1b3d7750559cc55"
+    },
+    {
+      "pageid": 54207331,
+      "title": "Enable (horse)",
+      "revision_id": 1381622289,
+      "revision_timestamp": null,
+      "text_sha256": "dc8386b307f898c790b91756a43eeffd12c681141ca518da23e5670f84b57a40"
+    },
+    {
+      "pageid": 55752581,
+      "title": "Francis Suarez",
+      "revision_id": 1378861013,
+      "revision_timestamp": null,
+      "text_sha256": "90f5c7c9b7c8f226af54a246f83179a852d50c5a8b25d4f71b1aebecc2fbec28"
+    },
+    {
+      "pageid": 57064532,
+      "title": "List of FIFA World Cup official match balls",
+      "revision_id": 1382390619,
+      "revision_timestamp": null,
+      "text_sha256": "f169d3b0d387a6c05ac1e3020a552aae82ccebb21d7b5c5977f2ec88b247f171"
+    },
+    {
+      "pageid": 57306201,
+      "title": "Non-fungible token",
+      "revision_id": 1382386819,
+      "revision_timestamp": null,
+      "text_sha256": "7b9dbf0b676ae3cfe9635e6bce061aa1fd86e401a5f9d82e76ca973dc8bd40ef"
+    },
+    {
+      "pageid": 61389440,
+      "title": "Timeline of London (20th century)",
+      "revision_id": 1370526983,
+      "revision_timestamp": null,
+      "text_sha256": "5177b32545aa4cc56e466b58900341eef5309e2e21380944d790977253c2612a"
+    },
+    {
+      "pageid": 62468857,
+      "title": "Geology of the Canary Islands",
+      "revision_id": 1378627831,
+      "revision_timestamp": null,
+      "text_sha256": "691dc546851de2d223ffa6de737b237ab536bba4370d88bdd6ad89f9fc05c1f4"
+    },
+    {
+      "pageid": 62930314,
+      "title": "Megafire",
+      "revision_id": 1369774664,
+      "revision_timestamp": null,
+      "text_sha256": "9bd773edda08619e3f70ed97a9c878c68dc01d3ebe553917dd2fe98c00881373"
+    },
+    {
+      "pageid": 64277588,
+      "title": "Laura Woods (English presenter)",
+      "revision_id": 1379608641,
+      "revision_timestamp": null,
+      "text_sha256": "f791ff6718a513306db46ab79d98c958b834f342500d6428fe58a20f8df1800a"
+    },
+    {
+      "pageid": 66355520,
+      "title": "The Whale (2022 film)",
+      "revision_id": 1379684412,
+      "revision_timestamp": null,
+      "text_sha256": "846513de8ff5a07608d0ff758af43269a4ed15d1db69e73e9f68076d3f5e331a"
+    },
+    {
+      "pageid": 69193847,
+      "title": "Saba (condiment)",
+      "revision_id": 1317048689,
+      "revision_timestamp": null,
+      "text_sha256": "4a1ca10c1fe2987f170fed1f593cd61e8da0869ab7457103871fed9233518bdb"
+    },
+    {
+      "pageid": 69237937,
+      "title": "Fidget toy",
+      "revision_id": 1367035211,
+      "revision_timestamp": null,
+      "text_sha256": "3d6695ad4d80c9e6672ccfd58f4235e7c27673538df52f4d9213f31982753f21"
+    },
+    {
+      "pageid": 69417974,
+      "title": "International Jewish conspiracy",
+      "revision_id": 1357496626,
+      "revision_timestamp": null,
+      "text_sha256": "871207a7a0c927715d13e57da543736d500f583e42421858ea9a2ab1eb1a3faa"
+    },
+    {
+      "pageid": 72492630,
+      "title": "Glossary of 2020s slang",
+      "revision_id": 1382389922,
+      "revision_timestamp": null,
+      "text_sha256": "8de9adb33b38957d2880400cc0ef5336471cd5cdb759e1182f07a76209037544"
+    },
+    {
+      "pageid": 72769089,
+      "title": "Back to Black (film)",
+      "revision_id": 1374014086,
+      "revision_timestamp": null,
+      "text_sha256": "6f4671304bcf77cd4be27950ef06ea984023bd56b2ce036ade7ee663d206d3ee"
+    },
+    {
+      "pageid": 73730222,
+      "title": "Cultural impact of Taylor Swift",
+      "revision_id": 1381006219,
+      "revision_timestamp": null,
+      "text_sha256": "9eb16d420c53c62651b728eb2fac6a6f855e6aa877657dfc82771cb1edbd0e6a"
+    },
+    {
+      "pageid": 73878929,
+      "title": "Ludwig (2024 TV series)",
+      "revision_id": 1381787040,
+      "revision_timestamp": null,
+      "text_sha256": "d4923cf8c41e591d01412bdf8e702b16d88ccd3c7adb9bccb43ac891fa18fb3f"
+    },
+    {
+      "pageid": 75130639,
+      "title": "List of 1970s films based on actual events",
+      "revision_id": 1374085793,
+      "revision_timestamp": null,
+      "text_sha256": "e2104a160869056149be1a50df92e385de02e57b67f56752f05dc6eab1c1c405"
+    },
+    {
+      "pageid": 76227994,
+      "title": "R. Kelly sexual abuse cases",
+      "revision_id": 1375778041,
+      "revision_timestamp": null,
+      "text_sha256": "6a48442bbb0f643cdf3fe592b574c2414a60adb4cad5f0c0e78ed8f7e57a40f7"
+    },
+    {
+      "pageid": 76689849,
+      "title": "2024 FA Cup final",
+      "revision_id": 1356335185,
+      "revision_timestamp": null,
+      "text_sha256": "667588b6db5bdb90aebe5680dfa78f10fa480f4661cf9e9e0a0da4197dc85b98"
+    },
+    {
+      "pageid": 76899244,
+      "title": "Ranghad (term)",
+      "revision_id": 1372429831,
+      "revision_timestamp": null,
+      "text_sha256": "50de4690669030984e7efd46ffc702dfed60524f0f6ebddcc0dd83ba1054715f"
+    },
+    {
+      "pageid": 77007126,
+      "title": "List of MPs elected in the 2024 United Kingdom general election",
+      "revision_id": 1382129315,
+      "revision_timestamp": null,
+      "text_sha256": "a8a9a23d3da251d30a63e0884a3e7f303b445fe072cf1593744952cb4eb2285b"
+    },
+    {
+      "pageid": 77315100,
+      "title": "The Devil Wears Prada 2",
+      "revision_id": 1381445579,
+      "revision_timestamp": null,
+      "text_sha256": "a1ce1b5a6a2e79f8cc9447b97311da8dd07f5b8836a609336e5d8c4507853dc4"
+    },
+    {
+      "pageid": 78597803,
+      "title": "The Testament of Ann Lee",
+      "revision_id": 1375125379,
+      "revision_timestamp": null,
+      "text_sha256": "4c2395934337ccd98c6518b0e2ed4897ac46a15d734a1c0796506a43c702c5f7"
+    },
+    {
+      "pageid": 80946255,
+      "title": "2025 European Championship (darts)",
+      "revision_id": 1346737205,
+      "revision_timestamp": null,
+      "text_sha256": "c774c79868072615c71bbaf40f28c75fa8c24592f92b0c04f24fa4fa7af4c0e9"
+    },
+    {
+      "pageid": 81906156,
+      "title": "Deaths in August 2026",
+      "revision_id": 1382361400,
+      "revision_timestamp": null,
+      "text_sha256": "d6d14ad05f69857b74eb14352d5412a2dfcfeaa82b8e4ba9e22e7c006cca1039"
+    },
+    {
+      "pageid": 82409227,
+      "title": "Nobel Prize in Literature controversies",
+      "revision_id": 1379884976,
+      "revision_timestamp": null,
+      "text_sha256": "5fbb4db4cfecdb3ee12204bea013ebb31230cdf16dd5ed8b4820975aa8185dff"
+    }
+  ],
+  "caveat": "Dataset 10.2 construction details were not supplied; this explicit procedure is an implementation assumption."
+}

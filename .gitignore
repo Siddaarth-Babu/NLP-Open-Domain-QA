@@ -1,0 +1,31 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode / caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# LaTeX build artifacts (report.pdf itself is committed; these intermediates are not)
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# LaTeX source (only the compiled report.pdf is tracked, not the .tex source)
+*.tex
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp

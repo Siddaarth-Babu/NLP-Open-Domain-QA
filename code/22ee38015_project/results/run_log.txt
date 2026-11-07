@@ -1,0 +1,353 @@
+FINAL CLASSICAL TASK 1 EXECUTION
+task1: 1/300 | prediction='A great deal' | 0.05s
+task1: 10/300 | prediction='her marriage' | 0.11s
+task1: 20/300 | prediction='the Bush administration "' | 0.12s
+task1: 30/300 | prediction='the recipient' | 0.09s
+task1: 40/300 | prediction='t ə ˈ r ɛ t oʊ / TIN -tə- RET -oh' | 0.17s
+task1: 50/300 | prediction='World Cup-winning squads' | 0.05s
+task1: 60/300 | prediction='first technical slang' | 0.04s
+task1: 70/300 | prediction='both US dollar' | 0.04s
+task1: 80/300 | prediction="Cartoon Network's vice president" | 0.08s
+task1: 90/300 | prediction='the sci-fi show Red Dwarf' | 0.10s
+task1: 100/300 | prediction="Darwin's finches" | 0.16s
+task1: 110/300 | prediction="the country's second-most populous commune" | 0.09s
+task1: 120/300 | prediction='the Mathematical Principles' | 0.13s
+task1: 130/300 | prediction='the London department store Selfridges' | 0.05s
+task1: 140/300 | prediction='the eye walls' | 0.09s
+task1: 150/300 | prediction='Danish author Hans Christian Andersen' | 0.09s
+task1: 160/300 | prediction='The Hunchback' | 0.08s
+task1: 170/300 | prediction='a Few Dollars' | 0.12s
+task1: 180/300 | prediction='the 5th century BC' | 0.22s
+task1: 190/300 | prediction='the northeast coast' | 0.07s
+task1: 200/300 | prediction='"Greek yogurt"' | 0.07s
+task1: 210/300 | prediction='her company Crawdaddy Productions—made' | 0.08s
+task1: 220/300 | prediction='Juan Manuel José Domingo Ortiz' | 0.12s
+task1: 230/300 | prediction='Greek τάφος – taphos' | 0.05s
+task1: 240/300 | prediction='The Melbourne Cricket Ground' | 0.10s
+task1: 250/300 | prediction="Giro d'Italia" | 0.04s
+task1: 260/300 | prediction='their own fears' | 0.05s
+task1: 270/300 | prediction='the feminine singular suffix -t' | 0.04s
+task1: 280/300 | prediction='the Tulsa State Fair' | 0.10s
+task1: 290/300 | prediction='the object' | 0.04s
+task1: 300/300 | prediction='the name Uranus' | 0.27s
+{'n': 300, 'em': 0.0, 'f1': 5.033068783068783, 'recall@1': 26.0, 'recall@3': 36.666666666666664, 'recall@5': 42.666666666666664, 'recall@10': 48.0, 'task': 'task1', 'run_identity': 'd8557c7011d39889b89f3473228e422286643e3128e09411046d52b3bc666557', 'config': {'seed': 42, 'sample_size': 300, 'dataset': 'mandarjoshi/trivia_qa', 'dataset_config': 'rc.nocontext', 'dataset_revision': '0f7faf33a3908546c6fd5b73a660e0f8ff173c2f', 'encoder': 'sentence-transformers/all-MiniLM-L6-v2', 'encoder_revision': '1110a243fdf4706b3f48f1d95db1a4f5529b4d41', 'generator': 'Qwen/Qwen2.5-0.5B-Instruct', 'generator_revision': '7ae557604adf67be50417f59c2c2f167def9a775', 'search_pages_per_question': 1, 'passage_words': 120, 'min_passage_words': 20, 'bm25_k1': 1.5, 'bm25_b': 0.75, 'retrieval_depth': 50, 'answer_top_k': 5, 'passage_token_limit': 200, 'max_new_tokens': 64, 'temperature': 0, 'rrf_constant': 60, 'overlap_threshold': 0.8, 'threads': 8}, 'environment': {'python': '3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]', 'torch': '2.6.0+cpu', 'cuda': False, 'threads': 8, 'PYTHONHASHSEED': '42'}, 'corpus_content_digest': 'fbb916f9ce36645301d205409bb8b0c6f02f16d4f4878acc20301d57a285c782', 'questions_content_digest': 'ea8a4f5ce2fe2fc21eb010ab9f205de576d4a50e70f8b4a80cffe1380ea9d8ee', 'wall_seconds_this_invocation': 28.98257261300023, 'sum_question_seconds': 25.163076953997916, 'abstentions': 0, 'retrieval_metric': 'answer-containing passage success@k (alias-matching proxy)', 'finished_utc': '2026-10-29T06:44:07.316526+00:00'}
+
+DENSE AND HYBRID EXECUTION
+Batches:   0%|          | 0/241 [00:00<?, ?it/s]
+Batches:   0%|          | 1/241 [00:04<17:00,  4.25s/it]
+Batches:   1%|          | 2/241 [00:07<14:49,  3.72s/it]
+Batches:   1%|          | 3/241 [00:10<13:40,  3.45s/it]
+Batches:   2%|▏         | 4/241 [00:15<15:00,  3.80s/it]
+Batches:   2%|▏         | 5/241 [00:17<13:39,  3.47s/it]
+Batches:   2%|▏         | 6/241 [00:21<13:05,  3.34s/it]
+Batches:   3%|▎         | 7/241 [00:23<12:25,  3.19s/it]
+Batches:   3%|▎         | 8/241 [00:27<12:58,  3.34s/it]
+Batches:   4%|▎         | 9/241 [00:30<12:25,  3.21s/it]
+Batches:   4%|▍         | 10/241 [00:32<10:32,  2.74s/it]
+Batches:   5%|▍         | 11/241 [00:33<09:00,  2.35s/it]
+Batches:   5%|▍         | 12/241 [00:34<07:38,  2.00s/it]
+Batches:   5%|▌         | 13/241 [00:36<06:52,  1.81s/it]
+Batches:   6%|▌         | 14/241 [00:37<06:16,  1.66s/it]
+Batches:   6%|▌         | 15/241 [00:38<05:49,  1.54s/it]
+Batches:   7%|▋         | 16/241 [00:39<05:15,  1.40s/it]
+Batches:   7%|▋         | 17/241 [00:40<04:44,  1.27s/it]
+Batches:   7%|▋         | 18/241 [00:41<04:25,  1.19s/it]
+Batches:   8%|▊         | 19/241 [00:43<04:46,  1.29s/it]
+Batches:   8%|▊         | 20/241 [00:44<04:28,  1.21s/it]
+Batches:   9%|▊         | 21/241 [00:45<04:11,  1.14s/it]
+Batches:   9%|▉         | 22/241 [00:46<04:19,  1.18s/it]
+Batches:  10%|▉         | 23/241 [00:47<04:06,  1.13s/it]
+Batches:  10%|▉         | 24/241 [00:48<04:03,  1.12s/it]
+Batches:  10%|█         | 25/241 [00:50<04:14,  1.18s/it]
+Batches:  11%|█         | 26/241 [00:51<03:57,  1.10s/it]
+Batches:  11%|█         | 27/241 [00:51<03:47,  1.06s/it]
+Batches:  12%|█▏        | 28/241 [00:53<03:43,  1.05s/it]
+Batches:  12%|█▏        | 29/241 [00:54<03:42,  1.05s/it]
+Batches:  12%|█▏        | 30/241 [00:55<03:42,  1.05s/it]
+Batches:  13%|█▎        | 31/241 [00:56<03:48,  1.09s/it]
+Batches:  13%|█▎        | 32/241 [00:57<03:40,  1.06s/it]
+Batches:  14%|█▎        | 33/241 [00:58<03:42,  1.07s/it]
+Batches:  14%|█▍        | 34/241 [00:59<03:35,  1.04s/it]
+Batches:  15%|█▍        | 35/241 [01:00<03:24,  1.01it/s]
+Batches:  15%|█▍        | 36/241 [01:01<03:21,  1.02it/s]
+Batches:  15%|█▌        | 37/241 [01:02<03:36,  1.06s/it]
+Batches:  16%|█▌        | 38/241 [01:03<03:37,  1.07s/it]
+Batches:  16%|█▌        | 39/241 [01:04<03:39,  1.09s/it]
+Batches:  17%|█▋        | 40/241 [01:05<03:29,  1.04s/it]
+Batches:  17%|█▋        | 41/241 [01:06<03:27,  1.04s/it]
+Batches:  17%|█▋        | 42/241 [01:07<03:30,  1.06s/it]
+Batches:  18%|█▊        | 43/241 [01:08<03:24,  1.03s/it]
+Batches:  18%|█▊        | 44/241 [01:09<03:27,  1.05s/it]
+Batches:  19%|█▊        | 45/241 [01:10<03:22,  1.03s/it]
+Batches:  19%|█▉        | 46/241 [01:11<03:18,  1.02s/it]
+Batches:  20%|█▉        | 47/241 [01:12<03:13,  1.00it/s]
+Batches:  20%|█▉        | 48/241 [01:13<03:09,  1.02it/s]
+Batches:  20%|██        | 49/241 [01:14<03:07,  1.03it/s]
+Batches:  21%|██        | 50/241 [01:15<03:00,  1.06it/s]
+Batches:  21%|██        | 51/241 [01:16<02:57,  1.07it/s]
+Batches:  22%|██▏       | 52/241 [01:17<02:58,  1.06it/s]
+Batches:  22%|██▏       | 53/241 [01:18<02:57,  1.06it/s]
+Batches:  22%|██▏       | 54/241 [01:19<02:54,  1.07it/s]
+Batches:  23%|██▎       | 55/241 [01:20<03:02,  1.02it/s]
+Batches:  23%|██▎       | 56/241 [01:21<03:01,  1.02it/s]
+Batches:  24%|██▎       | 57/241 [01:22<03:04,  1.00s/it]
+Batches:  24%|██▍       | 58/241 [01:23<03:09,  1.04s/it]
+Batches:  24%|██▍       | 59/241 [01:24<03:06,  1.02s/it]
+Batches:  25%|██▍       | 60/241 [01:25<03:01,  1.00s/it]
+Batches:  25%|██▌       | 61/241 [01:26<02:55,  1.03it/s]
+Batches:  26%|██▌       | 62/241 [01:27<03:03,  1.02s/it]
+Batches:  26%|██▌       | 63/241 [01:28<03:05,  1.04s/it]
+Batches:  27%|██▋       | 64/241 [01:29<03:02,  1.03s/it]
+Batches:  27%|██▋       | 65/241 [01:30<03:19,  1.13s/it]
+Batches:  27%|██▋       | 66/241 [01:32<03:16,  1.12s/it]
+Batches:  28%|██▊       | 67/241 [01:33<03:32,  1.22s/it]
+Batches:  28%|██▊       | 68/241 [01:34<03:33,  1.24s/it]
+Batches:  29%|██▊       | 69/241 [01:36<04:22,  1.52s/it]
+Batches:  29%|██▉       | 70/241 [01:37<03:47,  1.33s/it]
+Batches:  29%|██▉       | 71/241 [01:38<03:35,  1.27s/it]
+Batches:  30%|██▉       | 72/241 [01:39<03:16,  1.16s/it]
+Batches:  30%|███       | 73/241 [01:41<03:29,  1.24s/it]
+Batches:  31%|███       | 74/241 [01:42<03:07,  1.12s/it]
+Batches:  31%|███       | 75/241 [01:43<03:10,  1.15s/it]
+Batches:  32%|███▏      | 76/241 [01:44<02:51,  1.04s/it]
+Batches:  32%|███▏      | 77/241 [01:44<02:41,  1.01it/s]
+Batches:  32%|███▏      | 78/241 [01:46<02:42,  1.00it/s]
+Batches:  33%|███▎      | 79/241 [01:46<02:34,  1.05it/s]
+Batches:  33%|███▎      | 80/241 [01:47<02:27,  1.09it/s]
+Batches:  34%|███▎      | 81/241 [01:48<02:27,  1.09it/s]
+Batches:  34%|███▍      | 82/241 [01:49<02:25,  1.10it/s]
+Batches:  34%|███▍      | 83/241 [01:50<02:17,  1.15it/s]
+Batches:  35%|███▍      | 84/241 [01:51<02:12,  1.18it/s]
+Batches:  35%|███▌      | 85/241 [01:51<02:12,  1.18it/s]
+Batches:  36%|███▌      | 86/241 [01:52<02:14,  1.15it/s]
+Batches:  36%|███▌      | 87/241 [01:53<02:19,  1.10it/s]
+Batches:  37%|███▋      | 88/241 [01:54<02:10,  1.17it/s]
+Batches:  37%|███▋      | 89/241 [01:55<02:09,  1.17it/s]
+Batches:  37%|███▋      | 90/241 [01:56<02:17,  1.10it/s]
+Batches:  38%|███▊      | 91/241 [01:57<02:08,  1.16it/s]
+Batches:  38%|███▊      | 92/241 [01:57<02:00,  1.24it/s]
+Batches:  39%|███▊      | 93/241 [01:59<02:20,  1.05it/s]
+Batches:  39%|███▉      | 94/241 [01:59<02:06,  1.16it/s]
+Batches:  39%|███▉      | 95/241 [02:02<03:12,  1.32s/it]
+Batches:  40%|███▉      | 96/241 [02:03<02:54,  1.20s/it]
+Batches:  40%|████      | 97/241 [02:04<02:45,  1.15s/it]
+Batches:  41%|████      | 98/241 [02:04<02:22,  1.00it/s]
+Batches:  41%|████      | 99/241 [02:05<02:06,  1.12it/s]
+Batches:  41%|████▏     | 100/241 [02:06<01:57,  1.20it/s]
+Batches:  42%|████▏     | 101/241 [02:07<02:15,  1.04it/s]
+Batches:  42%|████▏     | 102/241 [02:08<02:00,  1.15it/s]
+Batches:  43%|████▎     | 103/241 [02:08<01:53,  1.22it/s]
+Batches:  43%|████▎     | 104/241 [02:09<01:51,  1.22it/s]
+Batches:  44%|████▎     | 105/241 [02:10<01:47,  1.27it/s]
+Batches:  44%|████▍     | 106/241 [02:11<01:43,  1.31it/s]
+Batches:  44%|████▍     | 107/241 [02:11<01:39,  1.35it/s]
+Batches:  45%|████▍     | 108/241 [02:12<01:35,  1.39it/s]
+Batches:  45%|████▌     | 109/241 [02:13<01:32,  1.42it/s]
+Batches:  46%|████▌     | 110/241 [02:13<01:30,  1.45it/s]
+Batches:  46%|████▌     | 111/241 [02:14<01:29,  1.45it/s]
+Batches:  46%|████▋     | 112/241 [02:15<01:27,  1.47it/s]
+Batches:  47%|████▋     | 113/241 [02:15<01:28,  1.45it/s]
+Batches:  47%|████▋     | 114/241 [02:16<01:26,  1.46it/s]
+Batches:  48%|████▊     | 115/241 [02:17<01:30,  1.39it/s]
+Batches:  48%|████▊     | 116/241 [02:18<01:43,  1.20it/s]
+Batches:  49%|████▊     | 117/241 [02:19<01:42,  1.21it/s]
+Batches:  49%|████▉     | 118/241 [02:19<01:37,  1.26it/s]
+Batches:  49%|████▉     | 119/241 [02:20<01:45,  1.16it/s]
+Batches:  50%|████▉     | 120/241 [02:22<02:22,  1.18s/it]
+Batches:  50%|█████     | 121/241 [02:23<02:13,  1.11s/it]
+Batches:  51%|█████     | 122/241 [02:24<02:07,  1.07s/it]
+Batches:  51%|█████     | 123/241 [02:25<01:51,  1.06it/s]
+Batches:  51%|█████▏    | 124/241 [02:26<01:40,  1.17it/s]
+Batches:  52%|█████▏    | 125/241 [02:26<01:38,  1.18it/s]
+Batches:  52%|█████▏    | 126/241 [02:27<01:30,  1.26it/s]
+Batches:  53%|█████▎    | 127/241 [02:28<01:30,  1.26it/s]
+Batches:  53%|█████▎    | 128/241 [02:29<01:47,  1.05it/s]
+Batches:  54%|█████▎    | 129/241 [02:30<01:44,  1.07it/s]
+Batches:  54%|█████▍    | 130/241 [02:31<01:40,  1.10it/s]
+Batches:  54%|█████▍    | 131/241 [02:31<01:28,  1.24it/s]
+Batches:  55%|█████▍    | 132/241 [02:32<01:20,  1.36it/s]
+Batches:  55%|█████▌    | 133/241 [02:33<01:18,  1.37it/s]
+Batches:  56%|█████▌    | 134/241 [02:33<01:13,  1.45it/s]
+Batches:  56%|█████▌    | 135/241 [02:34<01:25,  1.24it/s]
+Batches:  56%|█████▋    | 136/241 [02:35<01:16,  1.37it/s]
+Batches:  57%|█████▋    | 137/241 [02:36<01:11,  1.45it/s]
+Batches:  57%|█████▋    | 138/241 [02:36<01:04,  1.59it/s]
+Batches:  58%|█████▊    | 139/241 [02:37<01:04,  1.59it/s]
+Batches:  58%|█████▊    | 140/241 [02:37<00:59,  1.69it/s]
+Batches:  59%|█████▊    | 141/241 [02:38<00:58,  1.71it/s]
+Batches:  59%|█████▉    | 142/241 [02:38<01:01,  1.60it/s]
+Batches:  59%|█████▉    | 143/241 [02:39<00:58,  1.69it/s]
+Batches:  60%|█████▉    | 144/241 [02:40<00:57,  1.69it/s]
+Batches:  60%|██████    | 145/241 [02:40<00:55,  1.72it/s]
+Batches:  61%|██████    | 146/241 [02:41<00:53,  1.78it/s]
+Batches:  61%|██████    | 147/241 [02:41<00:52,  1.79it/s]
+Batches:  61%|██████▏   | 148/241 [02:42<00:51,  1.81it/s]
+Batches:  62%|██████▏   | 149/241 [02:42<00:49,  1.87it/s]
+Batches:  62%|██████▏   | 150/241 [02:43<00:48,  1.87it/s]
+Batches:  63%|██████▎   | 151/241 [02:44<01:01,  1.47it/s]
+Batches:  63%|██████▎   | 152/241 [02:45<01:07,  1.32it/s]
+Batches:  63%|██████▎   | 153/241 [02:45<01:00,  1.46it/s]
+Batches:  64%|██████▍   | 154/241 [02:46<00:54,  1.61it/s]
+Batches:  64%|██████▍   | 155/241 [02:46<00:51,  1.68it/s]
+Batches:  65%|██████▍   | 156/241 [02:47<00:49,  1.71it/s]
+Batches:  65%|██████▌   | 157/241 [02:47<00:46,  1.81it/s]
+Batches:  66%|██████▌   | 158/241 [02:48<00:43,  1.90it/s]
+Batches:  66%|██████▌   | 159/241 [02:48<00:42,  1.95it/s]
+Batches:  66%|██████▋   | 160/241 [02:49<00:42,  1.90it/s]
+Batches:  67%|██████▋   | 161/241 [02:49<00:40,  1.98it/s]
+Batches:  67%|██████▋   | 162/241 [02:50<00:38,  2.03it/s]
+Batches:  68%|██████▊   | 163/241 [02:50<00:37,  2.09it/s]
+Batches:  68%|██████▊   | 164/241 [02:51<00:37,  2.03it/s]
+Batches:  68%|██████▊   | 165/241 [02:51<00:36,  2.11it/s]
+Batches:  69%|██████▉   | 166/241 [02:52<00:40,  1.84it/s]
+Batches:  69%|██████▉   | 167/241 [02:52<00:38,  1.92it/s]
+Batches:  70%|██████▉   | 168/241 [02:53<00:34,  2.09it/s]
+Batches:  70%|███████   | 169/241 [02:53<00:35,  2.04it/s]
+Batches:  71%|███████   | 170/241 [02:54<00:38,  1.84it/s]
+Batches:  71%|███████   | 171/241 [02:54<00:36,  1.90it/s]
+Batches:  71%|███████▏  | 172/241 [02:55<00:33,  2.04it/s]
+Batches:  72%|███████▏  | 173/241 [02:55<00:32,  2.07it/s]
+Batches:  72%|███████▏  | 174/241 [02:56<00:31,  2.13it/s]
+Batches:  73%|███████▎  | 175/241 [02:56<00:30,  2.18it/s]
+Batches:  73%|███████▎  | 176/241 [02:56<00:28,  2.26it/s]
+Batches:  73%|███████▎  | 177/241 [02:57<00:31,  2.04it/s]
+Batches:  74%|███████▍  | 178/241 [02:57<00:29,  2.13it/s]
+Batches:  74%|███████▍  | 179/241 [02:58<00:29,  2.08it/s]
+Batches:  75%|███████▍  | 180/241 [02:59<00:32,  1.87it/s]
+Batches:  75%|███████▌  | 181/241 [02:59<00:28,  2.11it/s]
+Batches:  76%|███████▌  | 182/241 [02:59<00:25,  2.34it/s]
+Batches:  76%|███████▌  | 183/241 [03:00<00:24,  2.34it/s]
+Batches:  76%|███████▋  | 184/241 [03:00<00:24,  2.34it/s]
+Batches:  77%|███████▋  | 185/241 [03:00<00:22,  2.47it/s]
+Batches:  77%|███████▋  | 186/241 [03:01<00:21,  2.52it/s]
+Batches:  78%|███████▊  | 187/241 [03:01<00:20,  2.58it/s]
+Batches:  78%|███████▊  | 188/241 [03:02<00:21,  2.41it/s]
+Batches:  78%|███████▊  | 189/241 [03:02<00:20,  2.60it/s]
+Batches:  79%|███████▉  | 190/241 [03:02<00:18,  2.76it/s]
+Batches:  79%|███████▉  | 191/241 [03:03<00:17,  2.84it/s]
+Batches:  80%|███████▉  | 192/241 [03:03<00:18,  2.69it/s]
+Batches:  80%|████████  | 193/241 [03:03<00:16,  2.83it/s]
+Batches:  80%|████████  | 194/241 [03:04<00:16,  2.86it/s]
+Batches:  81%|████████  | 195/241 [03:04<00:16,  2.72it/s]
+Batches:  81%|████████▏ | 196/241 [03:04<00:15,  2.82it/s]
+Batches:  82%|████████▏ | 197/241 [03:05<00:24,  1.83it/s]
+Batches:  82%|████████▏ | 198/241 [03:06<00:23,  1.81it/s]
+Batches:  83%|████████▎ | 199/241 [03:07<00:24,  1.69it/s]
+Batches:  83%|████████▎ | 200/241 [03:07<00:20,  2.01it/s]
+Batches:  83%|████████▎ | 201/241 [03:07<00:17,  2.24it/s]
+Batches:  84%|████████▍ | 202/241 [03:08<00:16,  2.35it/s]
+Batches:  84%|████████▍ | 203/241 [03:08<00:14,  2.62it/s]
+Batches:  85%|████████▍ | 204/241 [03:08<00:13,  2.74it/s]
+Batches:  85%|████████▌ | 205/241 [03:09<00:12,  2.99it/s]
+Batches:  85%|████████▌ | 206/241 [03:09<00:13,  2.65it/s]
+Batches:  86%|████████▌ | 207/241 [03:09<00:12,  2.64it/s]
+Batches:  86%|████████▋ | 208/241 [03:10<00:12,  2.57it/s]
+Batches:  87%|████████▋ | 209/241 [03:10<00:12,  2.50it/s]
+Batches:  87%|████████▋ | 210/241 [03:11<00:11,  2.59it/s]
+Batches:  88%|████████▊ | 211/241 [03:11<00:11,  2.72it/s]
+Batches:  88%|████████▊ | 212/241 [03:11<00:11,  2.56it/s]
+Batches:  88%|████████▊ | 213/241 [03:12<00:10,  2.62it/s]
+Batches:  89%|████████▉ | 214/241 [03:12<00:09,  2.82it/s]
+Batches:  89%|████████▉ | 215/241 [03:12<00:08,  3.18it/s]
+Batches:  90%|████████▉ | 216/241 [03:13<00:07,  3.29it/s]
+Batches:  90%|█████████ | 217/241 [03:13<00:07,  3.41it/s]
+Batches:  90%|█████████ | 218/241 [03:13<00:06,  3.66it/s]
+Batches:  91%|█████████ | 219/241 [03:13<00:05,  3.82it/s]
+Batches:  91%|█████████▏| 220/241 [03:14<00:06,  3.12it/s]
+Batches:  92%|█████████▏| 221/241 [03:14<00:06,  3.28it/s]
+Batches:  92%|█████████▏| 222/241 [03:14<00:05,  3.57it/s]
+Batches:  93%|█████████▎| 223/241 [03:15<00:05,  3.37it/s]
+Batches:  93%|█████████▎| 224/241 [03:15<00:05,  3.14it/s]
+Batches:  93%|█████████▎| 225/241 [03:15<00:05,  3.02it/s]
+Batches:  94%|█████████▍| 226/241 [03:16<00:05,  2.62it/s]
+Batches:  94%|█████████▍| 227/241 [03:16<00:04,  3.05it/s]
+Batches:  95%|█████████▍| 228/241 [03:16<00:03,  3.36it/s]
+Batches:  95%|█████████▌| 229/241 [03:16<00:03,  3.64it/s]
+Batches:  95%|█████████▌| 230/241 [03:17<00:02,  3.82it/s]
+Batches:  96%|█████████▌| 231/241 [03:17<00:02,  4.10it/s]
+Batches:  96%|█████████▋| 232/241 [03:17<00:02,  4.25it/s]
+Batches:  97%|█████████▋| 233/241 [03:17<00:01,  4.02it/s]
+Batches:  97%|█████████▋| 234/241 [03:18<00:01,  3.62it/s]
+Batches:  98%|█████████▊| 235/241 [03:18<00:01,  4.05it/s]
+Batches:  98%|█████████▊| 236/241 [03:18<00:01,  4.40it/s]
+Batches:  98%|█████████▊| 237/241 [03:18<00:01,  4.00it/s]
+Batches:  99%|█████████▉| 238/241 [03:19<00:00,  4.42it/s]
+Batches:  99%|█████████▉| 239/241 [03:19<00:00,  4.51it/s]
+Batches: 100%|█████████▉| 240/241 [03:19<00:00,  4.81it/s]
+Batches: 100%|██████████| 241/241 [03:19<00:00,  5.13it/s]
+Batches: 100%|██████████| 241/241 [03:19<00:00,  1.21it/s]
+task2: 1/300 | prediction='Fungi' | 1.46s
+task2: 10/300 | prediction='Charles II of England' | 1.91s
+task2: 20/300 | prediction='stamp collection' | 1.75s
+task2: 30/300 | prediction='Roy' | 1.49s
+task2: 40/300 | prediction='Titian' | 1.86s
+task2: 50/300 | prediction='' | 1.57s
+task2: 60/300 | prediction='epilepsy' | 1.68s
+task2: 70/300 | prediction='Lithuanian litas' | 2.23s
+task2: 80/300 | prediction='Rob Renzetti' | 5.75s
+task2: 90/300 | prediction='Alien' | 2.22s
+task2: 100/300 | prediction='' | 2.72s
+task2: 110/300 | prediction='Luxembourg' | 1.70s
+task2: 120/300 | prediction='quantitative finance' | 1.86s
+task2: 130/300 | prediction='slavery' | 1.31s
+task2: 140/300 | prediction='cirrus clouds' | 1.76s
+task2: 150/300 | prediction='Nattergalen' | 1.54s
+task2: 160/300 | prediction='You Sexy Thing' | 1.63s
+task2: 170/300 | prediction='' | 1.73s
+task2: 180/300 | prediction='Israelite' | 1.88s
+task2: 190/300 | prediction='Aidan' | 3.28s
+task2: 200/300 | prediction='whey' | 1.78s
+task2: 210/300 | prediction='Cindy Crawford named her first son after Richard Gere.' | 2.84s
+task2: 220/300 | prediction='Argentina' | 2.73s
+task2: 230/300 | prediction='buried alive' | 1.46s
+task2: 240/300 | prediction='London' | 1.20s
+task2: 250/300 | prediction='Basso' | 1.78s
+task2: 260/300 | prediction='A sterlet is a type of fish.' | 3.18s
+task2: 270/300 | prediction='Buzzard' | 1.59s
+task2: 280/300 | prediction='' | 1.67s
+task2: 290/300 | prediction='' | 3.86s
+task2: 300/300 | prediction='Holy See' | 1.76s
+{'n': 300, 'em': 19.333333333333332, 'f1': 26.395735677005025, 'recall@1': 30.0, 'recall@3': 40.666666666666664, 'recall@5': 45.333333333333336, 'recall@10': 50.666666666666664, 'task': 'task2', 'run_identity': 'ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb', 'config': {'seed': 42, 'sample_size': 300, 'dataset': 'mandarjoshi/trivia_qa', 'dataset_config': 'rc.nocontext', 'dataset_revision': '0f7faf33a3908546c6fd5b73a660e0f8ff173c2f', 'encoder': 'sentence-transformers/all-MiniLM-L6-v2', 'encoder_revision': '1110a243fdf4706b3f48f1d95db1a4f5529b4d41', 'generator': 'Qwen/Qwen2.5-0.5B-Instruct', 'generator_revision': '7ae557604adf67be50417f59c2c2f167def9a775', 'search_pages_per_question': 1, 'passage_words': 120, 'min_passage_words': 20, 'bm25_k1': 1.5, 'bm25_b': 0.75, 'retrieval_depth': 50, 'answer_top_k': 5, 'passage_token_limit': 200, 'max_new_tokens': 64, 'temperature': 0, 'rrf_constant': 60, 'overlap_threshold': 0.8, 'threads': 8}, 'environment': {'python': '3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]', 'torch': '2.6.0+cpu', 'cuda': False, 'threads': 8, 'PYTHONHASHSEED': '42'}, 'corpus_content_digest': 'fbb916f9ce36645301d205409bb8b0c6f02f16d4f4878acc20301d57a285c782', 'questions_content_digest': 'ea8a4f5ce2fe2fc21eb010ab9f205de576d4a50e70f8b4a80cffe1380ea9d8ee', 'wall_seconds_this_invocation': 1011.3142817909998, 'sum_question_seconds': 797.9258140889988, 'abstentions': 44, 'retrieval_metric': 'answer-containing passage success@k (alias-matching proxy)', 'finished_utc': '2026-10-29T06:33:18.734996+00:00'}
+task3: 1/300 | prediction='Fungi' | 1.86s
+task3: 10/300 | prediction='Charles II of England' | 2.28s
+task3: 20/300 | prediction='stamp collecting' | 1.96s
+task3: 30/300 | prediction='Roy' | 5.21s
+task3: 40/300 | prediction='Titian' | 2.73s
+task3: 50/300 | prediction='' | 1.95s
+task3: 60/300 | prediction='Creutzfeldt–Jakob disease' | 2.39s
+task3: 70/300 | prediction='litras' | 2.32s
+task3: 80/300 | prediction="Inspector Gadget's arch enemy is Butch Hartman." | 6.56s
+task3: 90/300 | prediction='Dune' | 2.48s
+task3: 100/300 | prediction='' | 1.82s
+task3: 110/300 | prediction='Luxembourg' | 1.76s
+task3: 120/300 | prediction='quantitative finance' | 3.60s
+task3: 130/300 | prediction='robbers' | 1.64s
+task3: 140/300 | prediction='cirrocumulus' | 2.82s
+task3: 150/300 | prediction='nightingale' | 2.95s
+task3: 160/300 | prediction='You Sexy Thing' | 1.60s
+task3: 170/300 | prediction='' | 1.81s
+task3: 180/300 | prediction='Gaza' | 2.78s
+task3: 190/300 | prediction='Cuthbert' | 2.80s
+task3: 200/300 | prediction='whey' | 1.76s
+task3: 210/300 | prediction='' | 1.42s
+task3: 220/300 | prediction='Argentina' | 2.69s
+task3: 230/300 | prediction='buried alive' | 2.07s
+task3: 240/300 | prediction='Yarra Park' | 1.73s
+task3: 250/300 | prediction='Basso' | 2.37s
+task3: 260/300 | prediction='sterling' | 3.30s
+task3: 270/300 | prediction='Bulls' | 1.64s
+task3: 280/300 | prediction='Linda Ronstadt' | 1.88s
+task3: 290/300 | prediction='' | 1.70s
+task3: 300/300 | prediction='Holy See' | 1.98s
+{'n': 300, 'em': 19.666666666666668, 'f1': 28.61025572867678, 'recall@1': 31.0, 'recall@3': 41.666666666666664, 'recall@5': 46.333333333333336, 'recall@10': 52.0, 'task': 'task3', 'run_identity': 'a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae', 'config': {'seed': 42, 'sample_size': 300, 'dataset': 'mandarjoshi/trivia_qa', 'dataset_config': 'rc.nocontext', 'dataset_revision': '0f7faf33a3908546c6fd5b73a660e0f8ff173c2f', 'encoder': 'sentence-transformers/all-MiniLM-L6-v2', 'encoder_revision': '1110a243fdf4706b3f48f1d95db1a4f5529b4d41', 'generator': 'Qwen/Qwen2.5-0.5B-Instruct', 'generator_revision': '7ae557604adf67be50417f59c2c2f167def9a775', 'search_pages_per_question': 1, 'passage_words': 120, 'min_passage_words': 20, 'bm25_k1': 1.5, 'bm25_b': 0.75, 'retrieval_depth': 50, 'answer_top_k': 5, 'passage_token_limit': 200, 'max_new_tokens': 64, 'temperature': 0, 'rrf_constant': 60, 'overlap_threshold': 0.8, 'threads': 8}, 'environment': {'python': '3.12.14 (main, Aug 25 2026, 14:00:49) [Clang 22.1.3 ]', 'torch': '2.6.0+cpu', 'cuda': False, 'threads': 8, 'PYTHONHASHSEED': '42'}, 'corpus_content_digest': 'fbb916f9ce36645301d205409bb8b0c6f02f16d4f4878acc20301d57a285c782', 'questions_content_digest': 'ea8a4f5ce2fe2fc21eb010ab9f205de576d4a50e70f8b4a80cffe1380ea9d8ee', 'wall_seconds_this_invocation': 759.6513059229997, 'sum_question_seconds': 758.9448262219985, 'abstentions': 32, 'retrieval_metric': 'answer-containing passage success@k (alias-matching proxy)', 'finished_utc': '2026-10-29T06:45:58.548045+00:00'}
+| System | N | EM | F1 | Recall@1 | Recall@3 | Recall@5 | Recall@10 |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| task1 | 300 | 0.00 | 5.03 | 26.00 | 36.67 | 42.67 | 48.00 |
+| task2 | 300 | 19.33 | 26.40 | 30.00 | 40.67 | 45.33 | 50.67 |
+| task3 | 300 | 19.67 | 28.61 | 31.00 | 41.67 | 46.33 | 52.00 |
+Wrote /workspace/scratch/5a7bce3a8e10/nlp_qa_project/report.pdf
+EXPERIMENT_COMPLETE
+
+FINAL POSTPROCESSING
+The assistant-reviewed audit and final report were regenerated after execution.
+See verification.json and support_labels.csv for the final checks and labels.

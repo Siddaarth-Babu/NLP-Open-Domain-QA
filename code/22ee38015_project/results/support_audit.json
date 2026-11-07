@@ -1,0 +1,1042 @@
+[
+  {
+    "task": "task2",
+    "question_id": "wh_2365",
+    "question": "Which English king was married to Catherine of Braganza from 1662 to 1685?",
+    "prediction": "Charles II of England",
+    "evidence": [
+      {
+        "passage_id": "206492:0000",
+        "title": "Catherine of Braganza",
+        "pageid": 206492,
+        "revision_id": 1378488004,
+        "text": "Catherine of Braganza (25 November 1638 – 31 December 1705) was Queen of England , Scotland and Ireland from 21 May 1662 to 6 February 1685, through her marriage to Charles II of England . After his death, Catherine returned to Portugal and served as regent for her brother Peter II in 1701, and again in 1704–1705.",
+        "url": "https://en.wikipedia.org/?curid=206492"
+      },
+      {
+        "passage_id": "206492:0006",
+        "title": "Catherine of Braganza",
+        "pageid": 206492,
+        "revision_id": 1378488004,
+        "text": "Following the outbreak of the Portuguese Restoration War , the Duke of Braganza became John IV of Portugal on 1 December 1640, making his daughters suitable spouses for foreign royalty. By 1644, Charles I of England , father of the future Charles II of England , was the only European power to have recognised the Braganza monarchy, and John suggested a marriage alliance with Catherine, which was rejected. After Joana's death in 1653, her younger sister was offered to John of Austria , the duc de Beaufort , and Louis XIV of France.",
+        "url": "https://en.wikipedia.org/?curid=206492"
+      },
+      {
+        "passage_id": "574756:0045",
+        "title": "Nell Gwyn",
+        "pageid": 574756,
+        "revision_id": 1382489164,
+        "text": "King Charles had a considerable number of mistresses during his life, both short affairs and committed arrangements. He also had a wife, Portuguese princess Catherine of Braganza , whose pregnancies all ended in miscarriages, and who had little or no say over the King's choice to have mistresses. This had come to a head shortly after their marriage in 1662, in a confrontation between Catherine and Barbara Palmer, which became known as the \"Bedchamber crisis\". Ostracised at court and with most of her retinue sent back to Portugal , Catherine had little choice but to acquiesce to the King's mistresses being granted semi-official standing.",
+        "url": "https://en.wikipedia.org/?curid=574756"
+      },
+      {
+        "passage_id": "206492:0003",
+        "title": "Catherine of Braganza",
+        "pageid": 206492,
+        "revision_id": 1378488004,
+        "text": "Catherine produced no heirs for Charles, having suffered three miscarriages. Her husband kept many mistresses, most notably Barbara Palmer, 1st Duchess of Cleveland , whom Catherine was forced to accept as one of her Ladies of the Bedchamber . By his mistresses, Charles fathered many children, whom he acknowledged. She is credited with popularising tea drinking in England.",
+        "url": "https://en.wikipedia.org/?curid=206492"
+      },
+      {
+        "passage_id": "206492:0004",
+        "title": "Catherine of Braganza",
+        "pageid": 206492,
+        "revision_id": 1378488004,
+        "text": "Catherine was born on 25 November 1638 in the Ducal Palace of Vila Viçosa , daughter of Luisa de Guzmán and her husband, the Duke of Braganza . She had an older sister, Joana (1636–1653), and three brothers, Teodósio (1634–1653), Afonso (1643–1683), and Peter (1648–1706).",
+        "url": "https://en.wikipedia.org/?curid=206492"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "b7a4ce6c29adeb3ca37c192ba8b740bcb76c9706267fec113c1fba068607bfdf",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "tb_1933",
+    "question": "Scientist Ernest Rutherford once said all science is just what subject while comparing the rest to stamp collection?",
+    "prediction": "stamp collection",
+    "evidence": [
+      {
+        "passage_id": "171118:0046",
+        "title": "Galápagos Islands",
+        "pageid": 171118,
+        "revision_id": 1381185353,
+        "text": "Over the course of a whole year, from September 1904, an expedition of the Academy of Sciences of California, led by Rollo Beck , stayed in the Galápagos collecting scientific material on geology, entomology , ornithology , botany , zoology , and herpetology . Another expedition from that Academy was done in 1932 (Templeton Crocker Expedition) to collect insects, fish, shells , fossils , birds, and plants.",
+        "url": "https://en.wikipedia.org/?curid=171118"
+      },
+      {
+        "passage_id": "9239:0071",
+        "title": "Europe",
+        "pageid": 9239,
+        "revision_id": 1382027231,
+        "text": "The Renaissance and the New Monarchs marked the start of an Age of Discovery, a period of exploration, invention and scientific development. Important figures of the Scientific Revolution during the 16th and 17th centuries included Copernicus , Kepler , Galileo , and Isaac Newton . According to Peter Barrett, \"It is widely accepted that 'modern science' arose in the Europe of the 17th century (towards the end of the Renaissance), introducing a new understanding of the natural world.\"",
+        "url": "https://en.wikipedia.org/?curid=9239"
+      },
+      {
+        "passage_id": "100796:0005",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "the public, but there was no book in the world with which to settle arguments about records. He realised then that a book supplying the answers to this sort of question might prove successful.",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "1607990:0016",
+        "title": "Early flying machines",
+        "pageid": 1607990,
+        "revision_id": 1379041111,
+        "text": "Eventually some investigators began to discover and define some of the basics of scientific aircraft design. Powered designs were either still driven by man-power or used a metal spring. In his 1250 book De mirabili potestate artis et naturae (Secrets of Art and Nature), the Englishman Roger Bacon predicted future designs for a balloon filled with an unspecified aether as well as a man-powered ornithopter , claiming to know someone who had invented the latter.",
+        "url": "https://en.wikipedia.org/?curid=1607990"
+      },
+      {
+        "passage_id": "2654186:0020",
+        "title": "Zodiac (film)",
+        "pageid": 2654186,
+        "revision_id": 1382489267,
+        "text": "Fincher, Fischer and Vanderbilt spent months interviewing witnesses, family members of suspects, retired and current investigators, the two surviving victims, and the mayors of San Francisco and Vallejo. Fincher said, \"Even when we did our own interviews, we would talk to two people. One would confirm some aspects of it and another would deny it. Plus, so much time had passed, memories are affected and the different telling of the stories would change perception. So when there was any doubt we always went with the police reports.\" During the course of their research, Fincher and Fischer hired Gerald McMenamin, a forensic linguistics expert and professor of linguistics at California State University Fresno , to analyze the Zodiac's letters. Unlike document",
+        "url": "https://en.wikipedia.org/?curid=2654186"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "f6de1f875a4b9c81128e24be1c242c7001441bac9e09ce71de007a09d90b3637",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "sfq_9248",
+    "question": "How many Copa de America winners medals did Pele and Maradona win between them?",
+    "prediction": "",
+    "evidence": [
+      {
+        "passage_id": "24953:0013",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "During the 1960 season, Pelé scored 34 goals as Santos regained the Campeonato Paulista trophy. During the 1961 season, Pelé scored 47 goals as his team won both the Campeonato Paulista and the Taça Brasil . The Taça victory allowed Santos to participate in the Copa Libertadores , the most prestigious club tournament in the Western hemisphere. In 1961, the government of Brazil under President Jânio Quadros declared Pelé an \"official national treasure\" to prevent him from being transferred out of the country.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0080",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "The tables below record every goal Pelé scored in official club competitions for Santos FC and all matches and goals for the New York Cosmos.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0018",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "Santos was eliminated from the 1964 Copa Libertadores in the semi-finals by Independiente , but managed to win the 1964 Campeonato Paulista, with Pelé scoring 34 goals. The club won the Taça Brasil for the fourth consecutive year and shared the 1964 Rio-São Paulo title with Botafogo. Pelé was the top scorer of the 1965 Copa Libertadores with eight goals, although Santos was eliminated by Peñarol.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0032",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "Pelé was the top scorer at the 1959 South American Championship with eight goals, and was named the best player of the tournament. Brazil finished second despite being undefeated in the tournament.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0022",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "At the end of 1974, Pelé retired from Brazilian club football during his 19th season with Santos, after declining requests to represent Brazil in the 1974 World Cup . Afterwards, he would occasionally play for Santos in friendly and commemorative matches . His 643 goals for Santos were the most goals scored for a single club until the record was surpassed by Lionel Messi of Barcelona in December 2020.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "896874d2382891cd2e5ab8587df5369245956f0366a8dcb0f5cf55aa15e47340",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "qb_5431",
+    "question": "Brazilian football legend Pele wore which number on his shirt?",
+    "prediction": "10",
+    "evidence": [
+      {
+        "passage_id": "24953:0031",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "It was during the 1958 World Cup that Pelé began wearing a shirt with the number 10, which was the result of disorganization: the Brazilian Federation did not allocate shirt numbers for players, so FIFA chose the number 10 for him. In 2026, the shirt he wore during the 1958 World Cup final sold for $4.9 million at a Sotheby's auction in New York.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0081",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "With 77 goals in 92 official appearances, Pelé is the second-highest goalscorer of the Brazilian national team. He scored twelve goals and is credited with ten assists in fourteen World Cup matches.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0043",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "On 19 December 1973, Pelé played for a Brazil XI team against the Rest of The World in a farewell game for Garrincha, scoring the equalizer in an eventual 2–1 win. In July 1983, the 42-year-old Pelé played for another Brazil XI squad against a South Brazil team in a friendly to benefit the victims of a flood in Santa Catarina ; he scored a free kick in a 1–2 loss.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0022",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "At the end of 1974, Pelé retired from Brazilian club football during his 19th season with Santos, after declining requests to represent Brazil in the 1974 World Cup . Afterwards, he would occasionally play for Santos in friendly and commemorative matches . His 643 goals for Santos were the most goals scored for a single club until the record was surpassed by Lionel Messi of Barcelona in December 2020.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0053",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "Pelé is ranked among the leading scorers in football history in both official and total matches. According to the RSSSF , Pelé scored 538 league goals, and a total of 775 goals in 840 official games. The RSSSF put Pelé's grand total at 1,301 goals in 1,390 appearances during his professional senior career, which included friendlies and tour games. When he scored his 1,000th goal in November 1969, the Brazilian postal service issued a commemorative stamp.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "385c4cb6449df36c6caf77ab8bdc1a058f25266399602045c6b0cf11a5e19d8e",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "sfq_707",
+    "question": "The 2010 Winter Olympics will be held where?",
+    "prediction": "",
+    "evidence": [
+      {
+        "passage_id": "178749:0038",
+        "title": "2010 Winter Olympics",
+        "pageid": 178749,
+        "revision_id": 1381356020,
+        "text": "There were a number of events that were proposed to be included in the 2010 Winter Olympics. On November 28, 2006, the IOC Executive Board at their meeting in Kuwait voted to include ski cross in the official program. The Vancouver Olympic Committee (VANOC) subsequently approved the event to officially be part of the Games program.",
+        "url": "https://en.wikipedia.org/?curid=178749"
+      },
+      {
+        "passage_id": "178749:0001",
+        "title": "2010 Winter Olympics",
+        "pageid": 178749,
+        "revision_id": 1381356020,
+        "text": "Vancouver Organizing Committee (VANOC), headed by John Furlong . The 2010 Winter Games were the third Olympics to be hosted by Canada, and the first to be held within the province of British Columbia. Canada had hosted the 1976 Summer Olympics in Montreal , Quebec, and the 1988 Winter Olympics in Calgary , Alberta.",
+        "url": "https://en.wikipedia.org/?curid=178749"
+      },
+      {
+        "passage_id": "34069:0000",
+        "title": "Winter Olympic Games",
+        "pageid": 34069,
+        "revision_id": 1376929654,
+        "text": "The Winter Olympic Games ( French: Jeux olympiques d'hiver ), also known as the Olympic Winter Games or simply the Winter Olympics , are a major international multi-sport event held once every four years for sports practiced on snow and ice. The Winter Olympics are usually held in February, during the winter season of the Northern Hemisphere. The IOC is the governing body of the Olympic Movement , with the Olympic Charter defining its structure and authority. Milan and Cortina d'Ampezzo of Italy hosted in 2026. The next games are scheduled to be held between 1 and 17 February 2030 at the French Alps .",
+        "url": "https://en.wikipedia.org/?curid=34069"
+      },
+      {
+        "passage_id": "3434750:0165",
+        "title": "United States",
+        "pageid": 3434750,
+        "revision_id": 1382544225,
+        "text": "Eight Olympic Games have taken place in the United States, beginning with the 1904 Summer Olympics in St. Louis , Missouri. The U.S. is scheduled to host the 2028 Summer Olympics in Los Angeles and the 2034 Winter Olympics in Salt Lake City . U.S. athletes have won a total of 2,968 medals (1,179 gold) at the Olympic Games, the most of any country.",
+        "url": "https://en.wikipedia.org/?curid=3434750"
+      },
+      {
+        "passage_id": "178749:0003",
+        "title": "2010 Winter Olympics",
+        "pageid": 178749,
+        "revision_id": 1381356020,
+        "text": "Vancouver was selected to host the 2010 Winter Olympics on July 2, 2003, at the 115th IOC Session held in Prague , Czech Republic . The final host city selection was determined by a secret ballot of the active members of the International Olympic Committee (IOC), led by the organization's President, Jacques Rogge . Vancouver secured the hosting rights in the second round of voting, narrowly defeating the bid from Pyeongchang , South Korea , by a margin of 56 to 53 votes, after Salzburg , Austria , was eliminated in the opening round.",
+        "url": "https://en.wikipedia.org/?curid=178749"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "edf2fe4fbba068262b752ee7b569c89f8ef91f2ded70dbc5c61b2779746e5790",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "wh_1998",
+    "question": "Which saint established a monastery and Christian community on the island of Lindisfarne in the year 635 ?",
+    "prediction": "Aidan",
+    "evidence": [
+      {
+        "passage_id": "18454:0011",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "Lindisfarne Priory was first established in 634 AD by Irish monks. The island served as the site of a monastery for roughly 900 years. The site, most of which has fallen into a state of ruin, has since become a popular tourist destination and focus of pilgrimage journeys. The church of St Mary the Virgin is the only original building that has been more or less continually maintained and which remains standing within the original monastic compound. Remains from the pre-Norman/Anglo-Saxon era can be found in the chancel wall of this church. The monastery was described as an abbey by Bede but when it was rebuilt after the Norman Conquest it was described as a (relatively smaller) priory.",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      },
+      {
+        "passage_id": "18454:0000",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "Lindisfarne , also known as Holy Island , is a tidal island off the northeast coast of England , which constitutes the civil parish of Holy Island in Northumberland . Holy Island has a recorded history from the 6th century AD; it was an important centre of Celtic Christianity under Saints Aidan , Cuthbert , Eadfrith , and Eadberht of Lindisfarne . The island was originally home to a monastery, which was destroyed during the Viking invasions but re-established as a priory following the Norman Conquest of England. Other notable sites built on the island are St Mary the Virgin parish church (originally built in AD 635 and restored in 1860), Lindisfarne Castle , several lighthouses and other navigational markers,",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      },
+      {
+        "passage_id": "18454:0037",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "Even with the closure of the island's priory in 1536, the tradition of making religious pilgrimages to the island never ceased. In the 20th century ( c. 1980~1990), religious author and cleric David Adam reported that he had ministered to thousands of pilgrims and other visitors as rector of Holy Island. In the 21st century the tradition of making pilgrimage to Lindisfarne continues to be observed annually, as can be attested to by the Northern Cross Pilgrimage amongst others. The priory ruins which make for a popular tourist and pilgrimage destination, were built just after the Norman conquest, and date back to nearly 1,000 years ago. The chancel wall of the church dates back even further into Anglo-Saxon times.",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      },
+      {
+        "passage_id": "18454:0004",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "In the present day, Holy Island is the name of the civil parish and native inhabitants are known as Islanders. The Ordnance Survey uses Holy Island for both the island and the village, with Lindisfarne listed either as an alternative name for the island or as a name of 'non-Roman antiquity'. \"Locally the island is rarely referred to by its Anglo-Saxon name of Lindisfarne\" (according to the local community website). More widely, the two names are used somewhat interchangeably. Lindisfarne is invariably used when referring to the pre-conquest monastic settlement, the priory ruins and the castle. The combined phrase \"the Holy Island of Lindisfarne\" has begun to be used more frequently in recent times, particularly when promoting the island as",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      },
+      {
+        "passage_id": "18454:0012",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "The monastery of Lindisfarne was founded around 634 by the Irish monk Aidan , who had been sent from Iona off the west coast of Scotland to Northumbria at the request of King Oswald . The abbey was founded before the end of 634 and Aidan remained there until his death in 651 and it acted as a centre of the Christianisation of Northumbria . The abbey and its church remained the only seat of a bishopric in Northumbria for nearly thirty years. Finan (bishop 651–661) built a timber church \"suitable for a bishop's seat \". Bede , however, was critical of the fact that the church was not built of stone but only of hewn oak thatched with reeds.",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "aec2f211d8618b2c17f28cb0d689ba5b4a51f177bdfc65c9293dee085387b11a",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "sfq_6598",
+    "question": "Which country has provinces including Masvingo, Midlands and Manicaland?",
+    "prediction": "Mozambique",
+    "evidence": [
+      {
+        "passage_id": "447925:0001",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo Province is bordered by Matabeleland South Province to the southwest, Midlands Province to the northwest, Manicaland Province to the northeast, and Mozambique to the southeast. It has an area of 56,566 square kilometres (21,840 mi ) , equal to 14.48% of the total area of Zimbabwe. It is the third-largest in area of Zimbabwe's provinces, after Matabeleland North and Mashonaland West . A diverse province, the Karanga , a Shona subgroup, form the majority, with communities of Tsonga people in the southeast and Ndebele people in the west. Its economy is largely centred around agriculture and tourism . Masvingo Province is home to the Great Zimbabwe ruins, a World Heritage Site and major tourist attraction.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      },
+      {
+        "passage_id": "447925:0005",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo province has a tropical savannah climate and is located in the low veld of the country where rainfall is minimal and uncertain. A large part of the southern area of the province is drought prone, set as region 5 in the country's climatic regions. Most parts of the province, therefore, are generally unfit for agriculture, apart from cattle ranching Hippo Valley estates in Chiredzi and Triangle use the water from Lake Kyle for irrigation.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      },
+      {
+        "passage_id": "447925:0004",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo (formerly Fort Victoria) is the capital of the province. Chiredzi and Triangle are other major towns in the province. Other towns include Mashava and the newly upgraded Mpandawana which used to be a growth point. The province is dominated by the Save , Runde , Mwenezi and Limpopo river systems which all either join or drain directly into the Indian Ocean . Kopjes , grey and bald in the hot sun, dot the countryside with mopane trees, which are drought tolerant and sturdy, found throughout the province.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      },
+      {
+        "passage_id": "447925:0010",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo is divided into seven administrative districts, although these can be further divided by the delimitation committee during elections depending on population figures. The districts are Bikita , Chivi , Zaka and Masvingo in the center of the province, Gutu in the north, and Mwenezi , and Chiredzi in the south and east respectively. All these seven districts have business centres known as growth points except for Mpandawana (recently granted town status), and they are as follows with estimation of distance from Masvingo city centre: Masvingo- Nemanwa (30 km), Bikita- Nyika (82 km), Zaka- Jerera (96 km), Gutu- Mupandawana (94 km).",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      },
+      {
+        "passage_id": "447925:0000",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo , previously named Victoria , is a province in southeastern Zimbabwe . It has a population of 1.638 million as of the 2022 census, ranking fifth out of Zimbabwe's ten provinces. Established by the British South Africa Company , it was one of the five original provinces of Southern Rhodesia . In 1982, two years after Zimbabwean independence, it was renamed Masvingo Province. The province is divided into seven districts, including Masvingo District , which contains the provincial capital Masvingo City.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "cd52ffdadbb0be781afaeac06728f38b9b50766efb10361cf549566cd111ce84",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "qf_1632",
+    "question": "The Guinness Book of Records was first published in what year?",
+    "prediction": "1955",
+    "evidence": [
+      {
+        "passage_id": "100796:0000",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "Guinness World Records ( / ˈ ɡ ɪ n ɪ s / ), known from its inception in 1955 until 1999 as The Guinness Book of Records and in previous United States editions as The Guinness Book of World Records , is a British reference book published annually, listing world records both of human achievements and the extremes of the natural world. Sir Hugh Beaver created the concept in order to settle arguments debated in pubs , and twin brothers Norris and Ross McWhirter co-founded the book in London in late August 1955.",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "100796:0006",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "A thousand copies of The Guinness Book of Records were distributed for free to pubs across Britain and Ireland as a promotional asset for the Guinness brand, and they became immensely popular with customers; as a result a proper book of records for retail was commissioned. Guinness employee Christopher Chataway recommended university friends Norris and Ross McWhirter , who had been running a fact-finding agency in London. On 14 September 1954 the twin brothers were commissioned to compile The Guinness Book of Records .",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "100796:0007",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "After the founding of The Guinness Book of Records office at the top of Ludgate House, 107 Fleet Street , London, the first 198-page edition was bound on 27 August 1955 and went to the top of the British bestseller list by Christmas. The following year, it was introduced into the United States by New York publisher David Boehm and sold 70,000 copies. Since then, Guinness World Records has sold more than 150 million copies in 100 countries and 40 languages. Due to the book's surprise success, many further editions were printed, eventually settling into a pattern of one revision a year, published in September/October, in time for Christmas.",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "100796:0010",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "Guinness Superlatives, later Guinness World Records Limited , was incorporated in London in 1954 to publish the first book. In 1975, the first licensed product produced, Guinness Game of World Records , was launched by Denys Fisher Toys UK . Sterling Publishing owned the rights to the Guinness book in the US for decades until it was repurchased by Guinness in 1989 after an 18-month long lawsuit. The group was owned by Guinness PLC and subsequently Diageo until 2001, when it was purchased by Gullane Entertainment for £45.5 million ($65 million). Gullane was itself purchased by HIT Entertainment in 2002. In 2006, Apax Partners purchased HIT and subsequently sold Guinness World Records in early 2008 to the Jim Pattison Group",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "100796:0013",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "Each edition contains a selection of the records from the Guinness World Records database, as well as select new records, with the criteria for inclusion changing from year to year. The latest edition is the 72nd, published in August 2025.",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "9e958e06781a9d1a27c9a9b575d7321f6fbf8ea6287fda7b944460900cb7d157",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "odql_14829",
+    "question": "What is the stage name of musician Marvin Lee Aday?",
+    "prediction": "M.L.",
+    "evidence": [
+      {
+        "passage_id": "21026:0003",
+        "title": "Meat Loaf",
+        "pageid": 21026,
+        "revision_id": 1382196887,
+        "text": "Marvin Lee Aday was born in Dallas , Texas , on September 27, 1947, the son of Wilma Artie ( née Hukel), a schoolteacher and member of the Vo-di-o-do Girls gospel music quartet, and Orvis Wesley Aday, a former police officer who went into business selling a homemade cough remedy with his wife and a friend under the name of the Griffin Grocery Company. He stated in an interview that when he was born, he was \"bright red and stayed that way for days\"; his father said he looked like \"nine pounds of ground chuck\" and convinced hospital staff to put the name \"Meat\" on his crib. He was later called \"M.L.\" in reference to his initials, but when his",
+        "url": "https://en.wikipedia.org/?curid=21026"
+      },
+      {
+        "passage_id": "4637590:0008",
+        "title": "Bob Dylan",
+        "pageid": 4637590,
+        "revision_id": 1382503791,
+        "text": "In 1959, Dylan's high school yearbook carried the caption \"Robert Zimmerman: to join 'Little Richard ' \" . That year, as Elston Gunnn , he performed twice with Bobby Vee , playing piano and clapping. In September 1959, Dylan enrolled at the University of Minnesota . and began to perform at the Ten O'Clock Scholar, a coffeehouse near campus, becoming part of the Dinkytown folk music circuit. His focus on rock and roll gave way to American folk music , as he explained in a 1985 interview:",
+        "url": "https://en.wikipedia.org/?curid=4637590"
+      },
+      {
+        "passage_id": "1247675:0009",
+        "title": "CeCe Peniston",
+        "pageid": 1247675,
+        "revision_id": 1379221685,
+        "text": "Her music career began in January 1991, when Felipe \"DJ Wax Dawg\" Delgado , her friend and a record producer based also in Phoenix, asked Peniston to record back-up vocals for Tonya Davis , a black female rapper known as Overweight Pooch after her childhood nickname.",
+        "url": "https://en.wikipedia.org/?curid=1247675"
+      },
+      {
+        "passage_id": "336811:0041",
+        "title": "Earl Hines",
+        "pageid": 336811,
+        "revision_id": 1375616928,
+        "text": "in its piano category. Jazz voted him \"Jazzman of the Year\" and picked him for its number 1 and number 2 places in the category Piano Recordings. Hines was invited to appear on TV shows hosted by Johnny Carson and Mike Douglas .",
+        "url": "https://en.wikipedia.org/?curid=336811"
+      },
+      {
+        "passage_id": "1247675:0012",
+        "title": "CeCe Peniston",
+        "pageid": 1247675,
+        "revision_id": 1379221685,
+        "text": "to this spot.\" Ironically enough, Sallard eventually threw in a few back-up vocals for Peniston on a song with a significant title, \"You Win, I Win, We Lose\", while Peniston, who in return played an agent to get a record deal also for Malaika (whose album Sugar Time scored in 1993 two Top 5 hits on the US Dance chart, including the No. 1 single \" Gotta Know (Your Name) \") mentioned the Pooch's name on her own debut album in addition, leaving Davis a note saying \"thanks for letting me be a part of Female Preacher\" .",
+        "url": "https://en.wikipedia.org/?curid=1247675"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "f158da187f3d0b3a8084a297820d3386d942e511c4e5c2e90c3a2f4492788b9e",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task2",
+    "question_id": "sfq_9793",
+    "question": "Ur was a major city of which ancient civilization?",
+    "prediction": "Ancient Rome",
+    "evidence": [
+      {
+        "passage_id": "710778:0078",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "There is academic consensus that Ancient Greece and Ancient Rome were major historical cultures that provided a foundation for modern Western culture because of the formative role they had in politics, administration, art, literature, theatre, architecture, ethics, metaphysics, epistemology, philosophy, republicanism , law, warfare, Western Christianity , Eastern Christianity , democracy , aesthetics, engineering, and science. For this reason, they are known as the cradles of Western Civilization.",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      },
+      {
+        "passage_id": "710778:0003",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "The earliest proto-urban settlements with several thousand inhabitants emerged in the Neolithic which began in Western Asia in 10,000 BC. The first cities to house several tens of thousands were Uruk , Ur , Kish and Eridu in Mesopotamia , followed by Susa in Elam and Memphis in Egypt, all by the 31st century BC (see Historical urban community sizes ).",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      },
+      {
+        "passage_id": "710778:0005",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "In the absence of written documents, most aspects of the rise of early civilizations are contained in archaeological assessments that document the development of formal institutions and the material culture. A \"civilized\" way of life is ultimately linked to conditions coming almost exclusively from agriculture . Gordon Childe defined the development of civilization as the result of two successive revolutions: the Neolithic Revolution of Western Asia, triggering the development of settled communities, and the urban revolution which also first emerged in Western Asia, which enhanced tendencies towards dense settlements, specialized occupational groups, social classes, exploitation of surpluses, monumental public buildings and writing. Few of those conditions, however, are unchallenged by the records: dense cities were not attested in Egypt's Old",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      },
+      {
+        "passage_id": "710778:0000",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "The earliest human civilizations developed independently of each other and a cradle of civilization is a location and a culture from which one of them emerged. A civilization is any complex society characterized by the development of a state , social stratification , urbanization , and symbolic systems of communication beyond signed or spoken languages (namely, writing systems and graphic arts ).",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      },
+      {
+        "passage_id": "710778:0014",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "Around 6000 BC, Neolithic settlements began to appear all over Egypt. Studies based on morphological , genetic , and archaeological data have attributed these settlements to migrants from the Fertile Crescent in the Near East arriving in Egypt and North Africa during the Egyptian and North African Neolithic Revolution and bringing agriculture to the region. Tell el-'Oueili is the oldest Sumerian site settled during this period, around 5400 BC, and the city of Ur also first dates to the end of this period. In the south, the Ubaid period lasted from around 6500 to 3800 BC.",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      }
+    ],
+    "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+    "claim_digest": "9a30960773e9d5471e0be0be60209c775301dee1dbd4082a7aa285ccf5b12399",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "wh_2365",
+    "question": "Which English king was married to Catherine of Braganza from 1662 to 1685?",
+    "prediction": "Charles II of England",
+    "evidence": [
+      {
+        "passage_id": "206492:0000",
+        "title": "Catherine of Braganza",
+        "pageid": 206492,
+        "revision_id": 1378488004,
+        "text": "Catherine of Braganza (25 November 1638 – 31 December 1705) was Queen of England , Scotland and Ireland from 21 May 1662 to 6 February 1685, through her marriage to Charles II of England . After his death, Catherine returned to Portugal and served as regent for her brother Peter II in 1701, and again in 1704–1705.",
+        "url": "https://en.wikipedia.org/?curid=206492"
+      },
+      {
+        "passage_id": "574756:0045",
+        "title": "Nell Gwyn",
+        "pageid": 574756,
+        "revision_id": 1382489164,
+        "text": "King Charles had a considerable number of mistresses during his life, both short affairs and committed arrangements. He also had a wife, Portuguese princess Catherine of Braganza , whose pregnancies all ended in miscarriages, and who had little or no say over the King's choice to have mistresses. This had come to a head shortly after their marriage in 1662, in a confrontation between Catherine and Barbara Palmer, which became known as the \"Bedchamber crisis\". Ostracised at court and with most of her retinue sent back to Portugal , Catherine had little choice but to acquiesce to the King's mistresses being granted semi-official standing.",
+        "url": "https://en.wikipedia.org/?curid=574756"
+      },
+      {
+        "passage_id": "206492:0006",
+        "title": "Catherine of Braganza",
+        "pageid": 206492,
+        "revision_id": 1378488004,
+        "text": "Following the outbreak of the Portuguese Restoration War , the Duke of Braganza became John IV of Portugal on 1 December 1640, making his daughters suitable spouses for foreign royalty. By 1644, Charles I of England , father of the future Charles II of England , was the only European power to have recognised the Braganza monarchy, and John suggested a marriage alliance with Catherine, which was rejected. After Joana's death in 1653, her younger sister was offered to John of Austria , the duc de Beaufort , and Louis XIV of France.",
+        "url": "https://en.wikipedia.org/?curid=206492"
+      },
+      {
+        "passage_id": "206492:0001",
+        "title": "Catherine of Braganza",
+        "pageid": 206492,
+        "revision_id": 1378488004,
+        "text": "She was the daughter of John IV of Portugal , who became the first king from the House of Braganza in 1640, after overthrowing the 60-year rule of the Spanish Habsburgs over Portugal. Her Catholicism made her unpopular in England, and she became an object of attack during the 1678 Popish Plot . The chief instigator, Titus Oates , accused her of plotting to poison the king. These charges, the absurdity of which was soon shown by cross-examination, nevertheless placed Catherine for some time in great danger.",
+        "url": "https://en.wikipedia.org/?curid=206492"
+      },
+      {
+        "passage_id": "206492:0008",
+        "title": "Catherine of Braganza",
+        "pageid": 206492,
+        "revision_id": 1378488004,
+        "text": "Catherine arrived at Portsmouth on the evening of 13 May 1662, but did not meet her future husband until 20 May, with varying accounts of the impression she made upon him. Despite suggestions to the contrary, Charles wrote to his chief advisor, Edward Hyde, 1st Earl of Clarendon , that he was \"very well satisfied\". The following day, 21 May 1662, they were married in two ceremonies, a Catholic one conducted in secret, followed by a public Church of England service.",
+        "url": "https://en.wikipedia.org/?curid=206492"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "d5a9c19462d9cdc3b583edfe08dbe3bc7dbaa80faa47c090e9998bace5687ebe",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "tb_1933",
+    "question": "Scientist Ernest Rutherford once said all science is just what subject while comparing the rest to stamp collection?",
+    "prediction": "stamp collecting",
+    "evidence": [
+      {
+        "passage_id": "15992:0125",
+        "title": "Jimmy Carter",
+        "pageid": 15992,
+        "revision_id": 1382163796,
+        "text": "In July 2001, Carter said he was \"disappointed in almost everything\" President George W. Bush had done, but after the September 11 attacks , he offered only praise, calling on Americans to support Bush with \"complete unity\". Later, Carter opposed the Iraq War and what he considered an attempt by Bush and Tony Blair to oust Saddam Hussein with \"lies and misinterpretations\". In 2004, Carter said he believed Bush had exploited the September 11 attacks. In 2007, Carter said the Bush administration \"has been the worst in history\" on foreign affairs; he later said he was just comparing Bush's tenure to Nixon's. On the Bush administration's behalf, Tony Fratto responded that Carter's comments increased his irrelevance.",
+        "url": "https://en.wikipedia.org/?curid=15992"
+      },
+      {
+        "passage_id": "171118:0046",
+        "title": "Galápagos Islands",
+        "pageid": 171118,
+        "revision_id": 1381185353,
+        "text": "Over the course of a whole year, from September 1904, an expedition of the Academy of Sciences of California, led by Rollo Beck , stayed in the Galápagos collecting scientific material on geology, entomology , ornithology , botany , zoology , and herpetology . Another expedition from that Academy was done in 1932 (Templeton Crocker Expedition) to collect insects, fish, shells , fossils , birds, and plants.",
+        "url": "https://en.wikipedia.org/?curid=171118"
+      },
+      {
+        "passage_id": "9239:0071",
+        "title": "Europe",
+        "pageid": 9239,
+        "revision_id": 1382027231,
+        "text": "The Renaissance and the New Monarchs marked the start of an Age of Discovery, a period of exploration, invention and scientific development. Important figures of the Scientific Revolution during the 16th and 17th centuries included Copernicus , Kepler , Galileo , and Isaac Newton . According to Peter Barrett, \"It is widely accepted that 'modern science' arose in the Europe of the 17th century (towards the end of the Renaissance), introducing a new understanding of the natural world.\"",
+        "url": "https://en.wikipedia.org/?curid=9239"
+      },
+      {
+        "passage_id": "61958:0047",
+        "title": "The Red Badge of Courage",
+        "pageid": 61958,
+        "revision_id": 1359593647,
+        "text": "Since the resurgence of Crane's popularity in the 1920s, The Red Badge of Courage has been deemed a major American text and Crane's most important work. While modern critics have noted Crane's \"anticipation of the modern spectacle of war\", others, such as Crane scholar Stanley Wertheim, believe the work to be \"unquestionably the most realistic novel about the American Civil War\". Donald Gibson called the novel \"ahead of its time\" because it did \"not conform to very many contemporary notions about what literature should be and do.\" The novel has been anthologized numerous times, including in Ernest Hemingway 's 1942 collection Men at War: The Best War Stories of All Time . In the introduction, Hemingway wrote that the novel",
+        "url": "https://en.wikipedia.org/?curid=61958"
+      },
+      {
+        "passage_id": "73412:0015",
+        "title": "North by Northwest",
+        "pageid": 73412,
+        "revision_id": 1382125074,
+        "text": "Alfred Hitchcock had agreed to do a film for MGM and they had chosen an adaptation of the novel The Wreck of the Mary Deare by Hammond Innes . Composer Bernard Herrmann had recommended that Hitchcock work with his friend Ernest Lehman . After a couple of weeks, Lehman offered to quit saying he didn't know what to do with the story. Hitchcock told him they got along great together and they would just write something else. Lehman said that he wanted to make the ultimate Hitchcock film. Hitchcock thought for a moment then said he had always wanted to do a chase across Mount Rushmore . Lehman and Hitchcock brainstormed more ideas: a murder at the United Nations headquarters;",
+        "url": "https://en.wikipedia.org/?curid=73412"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "a3f97eaa52f3ce1b70de3637f118a011105f404b03c3ef930cd21333ae7f784a",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "sfq_9248",
+    "question": "How many Copa de America winners medals did Pele and Maradona win between them?",
+    "prediction": "",
+    "evidence": [
+      {
+        "passage_id": "24953:0082",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "In December 2000, Pelé and Diego Maradona shared the prize of FIFA Player of the Century. The award was originally intended to be based upon votes in an online poll. However, when it became apparent that the poll favoured Maradona due to a wave of voting by his fans, a committee of FIFA members was appointed to choose the winner, along with readers of the FIFA magazine. The committee chose Pelé. Since Maradona was winning the Internet poll, however, it was decided he and Pelé should share the award.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "11370:0065",
+        "title": "FIFA World Cup",
+        "pageid": 11370,
+        "revision_id": 1381627832,
+        "text": "In November 2007, FIFA announced that all members of World Cup-winning squads between 1930 and 1974 were to be retroactively awarded winners' medals. This made Brazil's Pelé the only player to have won three World Cup winners' medals (1958, 1962, and 1970, although he did not play in the 1962 final due to injury), with 20 other players who have won two winners' medals . Seven players have collected all three types of World Cup medals (winners', runners-up, and third-place); five players were from West Germany's squad of 1966–1974: Franz Beckenbauer, Jürgen Grabowski , Horst-Dieter Höttges , Sepp Maier , and Wolfgang Overath (1966–1974), Italy's Franco Baresi (1",
+        "url": "https://en.wikipedia.org/?curid=11370"
+      },
+      {
+        "passage_id": "24953:0001",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "History & Statistics (IFFHS) and was one of the two joint winners of the FIFA Player of the Century , alongside Diego Maradona .",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0018",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "Santos was eliminated from the 1964 Copa Libertadores in the semi-finals by Independiente , but managed to win the 1964 Campeonato Paulista, with Pelé scoring 34 goals. The club won the Taça Brasil for the fourth consecutive year and shared the 1964 Rio-São Paulo title with Botafogo. Pelé was the top scorer of the 1965 Copa Libertadores with eight goals, although Santos was eliminated by Peñarol.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0017",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "As the defending champions, Santos qualified automatically to the semi-final stage of the 1963 Copa Libertadores . They overcame a Botafogo team that featured the Brazilian superstars Garrincha and Jairzinho , and with five goals from Pelé throughout the tournament, Santos claimed the title once again. Santos lost the Campeonato Paulista after finishing in third place, but went on to win the Rio-São Paulo tournament. Pelé also helped Santos retain the Intercontinental Cup and the Taça Brasil.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "d94e64c39c79427564d299e3c9faeff5b80dcbe169c7e57abd2059f8cebee996",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "qb_5431",
+    "question": "Brazilian football legend Pele wore which number on his shirt?",
+    "prediction": "10",
+    "evidence": [
+      {
+        "passage_id": "24953:0031",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "It was during the 1958 World Cup that Pelé began wearing a shirt with the number 10, which was the result of disorganization: the Brazilian Federation did not allocate shirt numbers for players, so FIFA chose the number 10 for him. In 2026, the shirt he wore during the 1958 World Cup final sold for $4.9 million at a Sotheby's auction in New York.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0053",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "Pelé is ranked among the leading scorers in football history in both official and total matches. According to the RSSSF , Pelé scored 538 league goals, and a total of 775 goals in 840 official games. The RSSSF put Pelé's grand total at 1,301 goals in 1,390 appearances during his professional senior career, which included friendlies and tour games. When he scored his 1,000th goal in November 1969, the Brazilian postal service issued a commemorative stamp.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0022",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "At the end of 1974, Pelé retired from Brazilian club football during his 19th season with Santos, after declining requests to represent Brazil in the 1974 World Cup . Afterwards, he would occasionally play for Santos in friendly and commemorative matches . His 643 goals for Santos were the most goals scored for a single club until the record was surpassed by Lionel Messi of Barcelona in December 2020.",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0000",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "Edson Arantes do Nascimento (23 October 1940 – 29 December 2022), better known by his nickname Pelé , was a Brazilian professional footballer who played as a forward . Widely regarded as one of the greatest players in history, he was among the most successful and popular sports figures of the 20th century. His 1,279 goals in 1,363 games, which includes exhibition games , is recognised as a Guinness World Record . In 1999, he was named Athlete of the Century by the International Olympic Committee and was included in the Time list of the 100 most important people of the 20th century . In 2000, Pelé was voted World Player of the Century by the International Federation of Football",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      },
+      {
+        "passage_id": "24953:0060",
+        "title": "Pelé",
+        "pageid": 24953,
+        "revision_id": 1382313456,
+        "text": "In January 1995, Pelé was appointed Brazil's Minister of Sport by President Fernando Cardoso . During his tenure, Pelé proposed legislation to reduce corruption in Brazilian football, which became known as the \" Pelé law \". He left office on 29 April 1998, when the ministry was abolished. In 1997, Pelé received an honorary knighthood from Queen Elizabeth II in a ceremony at Buckingham Palace .",
+        "url": "https://en.wikipedia.org/?curid=24953"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "d575ca212569bce04ad2a6492a8b6f61001c4bcadd036b137dc664bfc06ed561",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "sfq_707",
+    "question": "The 2010 Winter Olympics will be held where?",
+    "prediction": "Vancouver, Canada",
+    "evidence": [
+      {
+        "passage_id": "178749:0001",
+        "title": "2010 Winter Olympics",
+        "pageid": 178749,
+        "revision_id": 1381356020,
+        "text": "Vancouver Organizing Committee (VANOC), headed by John Furlong . The 2010 Winter Games were the third Olympics to be hosted by Canada, and the first to be held within the province of British Columbia. Canada had hosted the 1976 Summer Olympics in Montreal , Quebec, and the 1988 Winter Olympics in Calgary , Alberta.",
+        "url": "https://en.wikipedia.org/?curid=178749"
+      },
+      {
+        "passage_id": "34069:0000",
+        "title": "Winter Olympic Games",
+        "pageid": 34069,
+        "revision_id": 1376929654,
+        "text": "The Winter Olympic Games ( French: Jeux olympiques d'hiver ), also known as the Olympic Winter Games or simply the Winter Olympics , are a major international multi-sport event held once every four years for sports practiced on snow and ice. The Winter Olympics are usually held in February, during the winter season of the Northern Hemisphere. The IOC is the governing body of the Olympic Movement , with the Olympic Charter defining its structure and authority. Milan and Cortina d'Ampezzo of Italy hosted in 2026. The next games are scheduled to be held between 1 and 17 February 2030 at the French Alps .",
+        "url": "https://en.wikipedia.org/?curid=34069"
+      },
+      {
+        "passage_id": "178749:0000",
+        "title": "2010 Winter Olympics",
+        "pageid": 178749,
+        "revision_id": 1381356020,
+        "text": "The 2010 Winter Olympics , officially known as the XXI Olympic Winter Games ( French : XXI Jeux olympiques d'hiver ) and also known as Vancouver 2010 , were an international winter multi-sport event held from February 12 to 28, 2010 in Vancouver , Canada, with some events held in the surrounding suburbs of Richmond , West Vancouver and the University of British Columbia , and in the nearby resort town of Whistler . It was regarded by the Olympic Committee to be among the most successful Olympic games in history, in both attendance and coverage. Approximately 2,600 athletes from 82 nations participated in 86 events in fifteen disciplines. Both the Winter Olympic and Paralympic Games were organized by the",
+        "url": "https://en.wikipedia.org/?curid=178749"
+      },
+      {
+        "passage_id": "34069:0075",
+        "title": "Winter Olympic Games",
+        "pageid": 34069,
+        "revision_id": 1376929654,
+        "text": "The 2026 Winter Olympics was held in Milan - Cortina d'Ampezzo , Italy, and took place from 6 to 22 February 2026. At the 142nd IOC Session in July 2024, it was confirmed that the 2030 Winter Olympics will be hosted by France in the French Alps . Alpes 2030 will be the first Winter Olympics in history to reach full gender parity on the field of play, with equal numbers of male and female athletes. The 2034 Winter Olympics was also awarded to be hosted by the United States in Utah ; the state previously hosted the 2002 Olympics in Salt Lake City .",
+        "url": "https://en.wikipedia.org/?curid=34069"
+      },
+      {
+        "passage_id": "178749:0038",
+        "title": "2010 Winter Olympics",
+        "pageid": 178749,
+        "revision_id": 1381356020,
+        "text": "There were a number of events that were proposed to be included in the 2010 Winter Olympics. On November 28, 2006, the IOC Executive Board at their meeting in Kuwait voted to include ski cross in the official program. The Vancouver Olympic Committee (VANOC) subsequently approved the event to officially be part of the Games program.",
+        "url": "https://en.wikipedia.org/?curid=178749"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "1078721d0f75793621bfb1661b615ca965026fe1b700e3dfb5dd1bc3073a923e",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "wh_1998",
+    "question": "Which saint established a monastery and Christian community on the island of Lindisfarne in the year 635 ?",
+    "prediction": "Cuthbert",
+    "evidence": [
+      {
+        "passage_id": "18454:0000",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "Lindisfarne , also known as Holy Island , is a tidal island off the northeast coast of England , which constitutes the civil parish of Holy Island in Northumberland . Holy Island has a recorded history from the 6th century AD; it was an important centre of Celtic Christianity under Saints Aidan , Cuthbert , Eadfrith , and Eadberht of Lindisfarne . The island was originally home to a monastery, which was destroyed during the Viking invasions but re-established as a priory following the Norman Conquest of England. Other notable sites built on the island are St Mary the Virgin parish church (originally built in AD 635 and restored in 1860), Lindisfarne Castle , several lighthouses and other navigational markers,",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      },
+      {
+        "passage_id": "18454:0011",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "Lindisfarne Priory was first established in 634 AD by Irish monks. The island served as the site of a monastery for roughly 900 years. The site, most of which has fallen into a state of ruin, has since become a popular tourist destination and focus of pilgrimage journeys. The church of St Mary the Virgin is the only original building that has been more or less continually maintained and which remains standing within the original monastic compound. Remains from the pre-Norman/Anglo-Saxon era can be found in the chancel wall of this church. The monastery was described as an abbey by Bede but when it was rebuilt after the Norman Conquest it was described as a (relatively smaller) priory.",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      },
+      {
+        "passage_id": "18454:0004",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "In the present day, Holy Island is the name of the civil parish and native inhabitants are known as Islanders. The Ordnance Survey uses Holy Island for both the island and the village, with Lindisfarne listed either as an alternative name for the island or as a name of 'non-Roman antiquity'. \"Locally the island is rarely referred to by its Anglo-Saxon name of Lindisfarne\" (according to the local community website). More widely, the two names are used somewhat interchangeably. Lindisfarne is invariably used when referring to the pre-conquest monastic settlement, the priory ruins and the castle. The combined phrase \"the Holy Island of Lindisfarne\" has begun to be used more frequently in recent times, particularly when promoting the island as",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      },
+      {
+        "passage_id": "18454:0051",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "In response to the perceived lack of affordable housing on the isle of Lindisfarne, in 1996 a group of islanders established a charitable foundation known as the Holy Island of Lindisfarne Community Development Trust. They built a visitor centre on the island using the profits from sales. In addition, 11 community houses were built and are rented out to community members who want to continue to live on the island. The trust is also responsible for management of the inner harbour. The Holy Island Partnership was formed in 2009 by members of the community as well as organisations and groups operating on the island.",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      },
+      {
+        "passage_id": "18454:0017",
+        "title": "Lindisfarne",
+        "pageid": 18454,
+        "revision_id": 1380740673,
+        "text": "Northumbria's patron saint , Cuthbert , was a monk and later abbot of the monastery. St Cuthbert has been described as \"possibly the most venerated saint in England\". Cuthbert's miracles and life are recorded by Bede. Cuthbert was Bishop of Lindisfarne from 684 until 686, shortly before his death. An anonymous \"Life of Cuthbert\" written at Lindisfarne is the oldest extant piece of English historical writing.",
+        "url": "https://en.wikipedia.org/?curid=18454"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "3009fefa3821244e26694d73585a563115a8e8761c0c0256fec755878c0ee0c5",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "sfq_6598",
+    "question": "Which country has provinces including Masvingo, Midlands and Manicaland?",
+    "prediction": "Mozambique",
+    "evidence": [
+      {
+        "passage_id": "447925:0001",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo Province is bordered by Matabeleland South Province to the southwest, Midlands Province to the northwest, Manicaland Province to the northeast, and Mozambique to the southeast. It has an area of 56,566 square kilometres (21,840 mi ) , equal to 14.48% of the total area of Zimbabwe. It is the third-largest in area of Zimbabwe's provinces, after Matabeleland North and Mashonaland West . A diverse province, the Karanga , a Shona subgroup, form the majority, with communities of Tsonga people in the southeast and Ndebele people in the west. Its economy is largely centred around agriculture and tourism . Masvingo Province is home to the Great Zimbabwe ruins, a World Heritage Site and major tourist attraction.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      },
+      {
+        "passage_id": "447925:0000",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo , previously named Victoria , is a province in southeastern Zimbabwe . It has a population of 1.638 million as of the 2022 census, ranking fifth out of Zimbabwe's ten provinces. Established by the British South Africa Company , it was one of the five original provinces of Southern Rhodesia . In 1982, two years after Zimbabwean independence, it was renamed Masvingo Province. The province is divided into seven districts, including Masvingo District , which contains the provincial capital Masvingo City.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      },
+      {
+        "passage_id": "447925:0005",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo province has a tropical savannah climate and is located in the low veld of the country where rainfall is minimal and uncertain. A large part of the southern area of the province is drought prone, set as region 5 in the country's climatic regions. Most parts of the province, therefore, are generally unfit for agriculture, apart from cattle ranching Hippo Valley estates in Chiredzi and Triangle use the water from Lake Kyle for irrigation.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      },
+      {
+        "passage_id": "447925:0012",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo has two universities, namely Great Zimbabwe University (GZU) and Reformed Church University . The province also has Masvingo Polytechnic.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      },
+      {
+        "passage_id": "447925:0007",
+        "title": "Masvingo Province",
+        "pageid": 447925,
+        "revision_id": 1381432220,
+        "text": "Masvingo has an area of 56,566 km and a population of approximately 1.3 million (2002). The Karanga form a majority of the province's population and Shona is the primary language. In Chiredzi District , there are communities of Tsonga people while those of the Ndebele are found on the western edge of the province. To the north-east, are found the Ndau . The white population has declined since independence, especially during the invasions of commercial farms in 2000. In fact, the first farm invasion occurred in Masvingo Province and the rest of the country followed suit.",
+        "url": "https://en.wikipedia.org/?curid=447925"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "44e488edb6963fb2517c05f3b2ae1f4701dba8515ba1e85bfa467ad555d3e12e",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "qf_1632",
+    "question": "The Guinness Book of Records was first published in what year?",
+    "prediction": "1955",
+    "evidence": [
+      {
+        "passage_id": "100796:0000",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "Guinness World Records ( / ˈ ɡ ɪ n ɪ s / ), known from its inception in 1955 until 1999 as The Guinness Book of Records and in previous United States editions as The Guinness Book of World Records , is a British reference book published annually, listing world records both of human achievements and the extremes of the natural world. Sir Hugh Beaver created the concept in order to settle arguments debated in pubs , and twin brothers Norris and Ross McWhirter co-founded the book in London in late August 1955.",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "100796:0007",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "After the founding of The Guinness Book of Records office at the top of Ludgate House, 107 Fleet Street , London, the first 198-page edition was bound on 27 August 1955 and went to the top of the British bestseller list by Christmas. The following year, it was introduced into the United States by New York publisher David Boehm and sold 70,000 copies. Since then, Guinness World Records has sold more than 150 million copies in 100 countries and 40 languages. Due to the book's surprise success, many further editions were printed, eventually settling into a pattern of one revision a year, published in September/October, in time for Christmas.",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "100796:0006",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "A thousand copies of The Guinness Book of Records were distributed for free to pubs across Britain and Ireland as a promotional asset for the Guinness brand, and they became immensely popular with customers; as a result a proper book of records for retail was commissioned. Guinness employee Christopher Chataway recommended university friends Norris and Ross McWhirter , who had been running a fact-finding agency in London. On 14 September 1954 the twin brothers were commissioned to compile The Guinness Book of Records .",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "100796:0035",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "The Guinness Book of British Hit Singles was a music reference book first published in 1977. It was compiled by BBC Radio 1 DJs Paul Gambaccini and Mike Read with brothers Tim Rice and Jonathan Rice. It was the first in a number of music reference books that were to be published by Guinness Publishing with sister publication The Guinness Book of British Hit Albums coming in 1983. After being sold to Hit Entertainment, the data concerning the Official Chart Company's singles and albums charts were combined under the title British Hit Singles & Albums , with Hit Entertainment publishing the book from 2003 to 2006 (under the Guinness World Records brand). After Guinness World Records was sold to The",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      },
+      {
+        "passage_id": "100796:0010",
+        "title": "Guinness World Records",
+        "pageid": 100796,
+        "revision_id": 1382041542,
+        "text": "Guinness Superlatives, later Guinness World Records Limited , was incorporated in London in 1954 to publish the first book. In 1975, the first licensed product produced, Guinness Game of World Records , was launched by Denys Fisher Toys UK . Sterling Publishing owned the rights to the Guinness book in the US for decades until it was repurchased by Guinness in 1989 after an 18-month long lawsuit. The group was owned by Guinness PLC and subsequently Diageo until 2001, when it was purchased by Gullane Entertainment for £45.5 million ($65 million). Gullane was itself purchased by HIT Entertainment in 2002. In 2006, Apax Partners purchased HIT and subsequently sold Guinness World Records in early 2008 to the Jim Pattison Group",
+        "url": "https://en.wikipedia.org/?curid=100796"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "6431782ba458eb43ac7a5c9c6ce6ae2ed04d716bca8e135d58893c649fc7e85c",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "odql_14829",
+    "question": "What is the stage name of musician Marvin Lee Aday?",
+    "prediction": "Michael Lee Aday",
+    "evidence": [
+      {
+        "passage_id": "21026:0003",
+        "title": "Meat Loaf",
+        "pageid": 21026,
+        "revision_id": 1382196887,
+        "text": "Marvin Lee Aday was born in Dallas , Texas , on September 27, 1947, the son of Wilma Artie ( née Hukel), a schoolteacher and member of the Vo-di-o-do Girls gospel music quartet, and Orvis Wesley Aday, a former police officer who went into business selling a homemade cough remedy with his wife and a friend under the name of the Griffin Grocery Company. He stated in an interview that when he was born, he was \"bright red and stayed that way for days\"; his father said he looked like \"nine pounds of ground chuck\" and convinced hospital staff to put the name \"Meat\" on his crib. He was later called \"M.L.\" in reference to his initials, but when his",
+        "url": "https://en.wikipedia.org/?curid=21026"
+      },
+      {
+        "passage_id": "21026:0000",
+        "title": "Meat Loaf",
+        "pageid": 21026,
+        "revision_id": 1382196887,
+        "text": "Michael Lee Aday (born Marvin Lee Aday ; September 27, 1947 – January 20, 2022), known professionally as Meat Loaf , was an American singer and actor. He was known for his powerful, wide-ranging voice and theatrical live shows. His Bat Out of Hell album trilogy— Bat Out of Hell (1977), Bat Out of Hell II: Back into Hell (1993), and Bat Out of Hell III: The Monster Is Loose (2006)—has sold more than 100 million records worldwide, making him one of the best-selling music artists of all time . The first album stayed on the charts for over nine years and is one of the best-selling albums in history , still selling an estimated 200,000 copies annually as of",
+        "url": "https://en.wikipedia.org/?curid=21026"
+      },
+      {
+        "passage_id": "4637590:0008",
+        "title": "Bob Dylan",
+        "pageid": 4637590,
+        "revision_id": 1382503791,
+        "text": "In 1959, Dylan's high school yearbook carried the caption \"Robert Zimmerman: to join 'Little Richard ' \" . That year, as Elston Gunnn , he performed twice with Bobby Vee , playing piano and clapping. In September 1959, Dylan enrolled at the University of Minnesota . and began to perform at the Ten O'Clock Scholar, a coffeehouse near campus, becoming part of the Dinkytown folk music circuit. His focus on rock and roll gave way to American folk music , as he explained in a 1985 interview:",
+        "url": "https://en.wikipedia.org/?curid=4637590"
+      },
+      {
+        "passage_id": "21026:0064",
+        "title": "Meat Loaf",
+        "pageid": 21026,
+        "revision_id": 1382196887,
+        "text": "In 1984, Meat Loaf legally changed his first name from Marvin to Michael because he was \"haunted\" by a Levi Strauss & Co. commercial which, according to him, contained the line \"Poor fat Marvin can't wear Levi's.\"",
+        "url": "https://en.wikipedia.org/?curid=21026"
+      },
+      {
+        "passage_id": "1247675:0009",
+        "title": "CeCe Peniston",
+        "pageid": 1247675,
+        "revision_id": 1379221685,
+        "text": "Her music career began in January 1991, when Felipe \"DJ Wax Dawg\" Delgado , her friend and a record producer based also in Phoenix, asked Peniston to record back-up vocals for Tonya Davis , a black female rapper known as Overweight Pooch after her childhood nickname.",
+        "url": "https://en.wikipedia.org/?curid=1247675"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "ca61dd32275946ff27b2cd7eb79fc1c05b978fcfc9a292da1320cc795105f2d5",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  },
+  {
+    "task": "task3",
+    "question_id": "sfq_9793",
+    "question": "Ur was a major city of which ancient civilization?",
+    "prediction": "Ancient Egypt",
+    "evidence": [
+      {
+        "passage_id": "710778:0078",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "There is academic consensus that Ancient Greece and Ancient Rome were major historical cultures that provided a foundation for modern Western culture because of the formative role they had in politics, administration, art, literature, theatre, architecture, ethics, metaphysics, epistemology, philosophy, republicanism , law, warfare, Western Christianity , Eastern Christianity , democracy , aesthetics, engineering, and science. For this reason, they are known as the cradles of Western Civilization.",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      },
+      {
+        "passage_id": "710778:0001",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "Scholars generally acknowledge six cradles of civilization: Mesopotamia , Ancient Egypt , Ancient India and Ancient China are believed to be the earliest in Afro-Eurasia , while the Caral–Supe civilization of coastal Peru and the Olmec civilization of Mexico are believed to be the earliest in the Americas . All of the cradles of civilization depended upon agriculture for sustenance (except possibly Caral–Supe which may have depended initially on marine resources ). All depended upon farmers producing an agricultural surplus to support the centralized government, political leaders, religious leaders, and public works of the urban centers of the early civilizations.",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      },
+      {
+        "passage_id": "710778:0000",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "The earliest human civilizations developed independently of each other and a cradle of civilization is a location and a culture from which one of them emerged. A civilization is any complex society characterized by the development of a state , social stratification , urbanization , and symbolic systems of communication beyond signed or spoken languages (namely, writing systems and graphic arts ).",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      },
+      {
+        "passage_id": "18950900:0007",
+        "title": "Brand",
+        "pageid": 18950900,
+        "revision_id": 1382039135,
+        "text": "numbers of seals survive from the Harappan civilization of the Indus Valley (3,300–1,300 BCE) where the local community depended heavily on trade; cylinder seals came into use in Ur in Mesopotamia in around 3,000 BCE, and facilitated the labelling of goods and property; and the use of maker's marks on pottery was commonplace in both ancient Greece and Rome. Identity marks, such as stamps on ceramics, were also used in ancient Egypt.",
+        "url": "https://en.wikipedia.org/?curid=18950900"
+      },
+      {
+        "passage_id": "710778:0069",
+        "title": "Cradle of civilization",
+        "pageid": 710778,
+        "revision_id": 1382172399,
+        "text": "The emergence of the Olmec civilization has traditionally been dated to around 1600 to 1500 BC. Olmec features first emerged in the city of San Lorenzo Tenochtitlán , fully coalescing around 1400 BC. The rise of civilization was assisted by the local ecology of well-watered alluvial soil, as well as by the transportation network provided by the Coatzacoalcos River basin. This environment encouraged a densely concentrated population, which in turn triggered the rise of an elite class and an associated demand for the production of the symbolic and sophisticated luxury artifacts that define Olmec culture. Many of these luxury artifacts were made from materials such as jade , obsidian , and magnetite , which came from distant locations and suggest",
+        "url": "https://en.wikipedia.org/?curid=710778"
+      }
+    ],
+    "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+    "claim_digest": "cdae3ea4d4887edda3348659e40ae13b228abecd2a7b99dc6ee91bfc95919243",
+    "supported": null,
+    "annotation_rule": "Does the evidence entail the proposed answer to this question? Empty answers = 0."
+  }
+]

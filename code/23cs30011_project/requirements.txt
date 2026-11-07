@@ -1,0 +1,16 @@
+datasets==5.1.0
+rank-bm25==0.2.2
+nltk==3.10.4
+pandas==3.0.6
+numpy==2.5.4
+tqdm==4.70.1
+regex==2026.9.29
+requests==2.34.2
+ipykernel
+jupyter
+
+# Task 2 (install torch CPU-only wheel first to avoid pulling CUDA deps on a
+# GPU-less machine: pip install torch --index-url https://download.pytorch.org/whl/cpu)
+torch
+sentence-transformers
+faiss-cpu

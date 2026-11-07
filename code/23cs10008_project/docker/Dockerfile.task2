@@ -1,0 +1,29 @@
+# CUDA is supplied by the PyTorch wheel; the NVIDIA Container Toolkit exposes
+# the host driver when the container is started with --gpus all.
+FROM python:3.13-slim
+
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    PIP_NO_CACHE_DIR=1 \
+    HF_HOME=/app/data/model_cache
+
+WORKDIR /app
+
+COPY requirements.txt pyproject.toml ./
+# Keep the multi-gigabyte CUDA wheel in its own layer. If a later Python
+# dependency needs adjustment, Docker can reuse this completed download.
+RUN python -m pip install --upgrade pip \
+    && python -m pip install torch==2.13.0 --index-url https://download.pytorch.org/whl/cu130
+RUN python -m pip install -r requirements.txt
+
+# Triton JIT-compiles small CUDA kernels on first generation. The runtime image
+# therefore needs a C compiler even though the project itself has no C code.
+RUN apt-get update \
+    && apt-get install -y --no-install-recommends build-essential \
+    && rm -rf /var/lib/apt/lists/*
+
+COPY code/ ./code/
+COPY configs/ ./configs/
+RUN python -m pip install --no-build-isolation -e .
+
+CMD ["python", "code/run_all.py"]

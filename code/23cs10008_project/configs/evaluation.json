@@ -1,0 +1,8 @@
+{
+  "dataset": "mandarjoshi/trivia_qa",
+  "configuration": "rc.nocontext",
+  "split": "validation",
+  "sample_size": 300,
+  "seed": 42,
+  "metrics": ["exact_match", "f1", "recall_at_k"]
+}

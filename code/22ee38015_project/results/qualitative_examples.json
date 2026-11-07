@@ -1,0 +1,5114 @@
+{
+  "task1": {
+    "correct": [],
+    "incorrect": [
+      {
+        "question_id": "jp_1371",
+        "question": "What are fairy rings made of?",
+        "answers": [
+          "Mushrooms",
+          "Psychoactive mushroom",
+          "Bacidocarp",
+          "Macrofungi",
+          "Mushroom",
+          "Toadstools",
+          "Mushroom Curry",
+          "Psychoactive fungi",
+          "Toadstool",
+          "Psychoactive fungus",
+          "Psychoactive mushrooms",
+          "Mushroom curry",
+          "🍄",
+          "Fungophobia"
+        ],
+        "prediction": "A great deal",
+        "em": 0.0,
+        "f1": 0.0,
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "449924:0012",
+            "score": 24.86034665949829
+          },
+          {
+            "passage_id": "449924:0015",
+            "score": 24.073904928810077
+          },
+          {
+            "passage_id": "449924:0013",
+            "score": 23.17043139704129
+          },
+          {
+            "passage_id": "449924:0040",
+            "score": 22.865430801164596
+          },
+          {
+            "passage_id": "449924:0000",
+            "score": 22.737452425823317
+          },
+          {
+            "passage_id": "449924:0014",
+            "score": 22.718280180987726
+          },
+          {
+            "passage_id": "449924:0003",
+            "score": 22.32835326436503
+          },
+          {
+            "passage_id": "449924:0036",
+            "score": 22.31310771616403
+          },
+          {
+            "passage_id": "449924:0001",
+            "score": 21.621519063247764
+          },
+          {
+            "passage_id": "449924:0009",
+            "score": 20.06164290991002
+          },
+          {
+            "passage_id": "449924:0038",
+            "score": 18.818465672145898
+          },
+          {
+            "passage_id": "449924:0017",
+            "score": 18.72113309833981
+          },
+          {
+            "passage_id": "449924:0011",
+            "score": 18.690006215207926
+          },
+          {
+            "passage_id": "44475:0089",
+            "score": 17.915705703831673
+          },
+          {
+            "passage_id": "449924:0006",
+            "score": 17.624670620219355
+          },
+          {
+            "passage_id": "449924:0018",
+            "score": 17.30154539610201
+          },
+          {
+            "passage_id": "44475:0092",
+            "score": 17.23129816699187
+          },
+          {
+            "passage_id": "449924:0016",
+            "score": 16.232901625399144
+          },
+          {
+            "passage_id": "449924:0033",
+            "score": 15.598736600249868
+          },
+          {
+            "passage_id": "449924:0027",
+            "score": 14.921863880250033
+          },
+          {
+            "passage_id": "44475:0093",
+            "score": 14.81923372559684
+          },
+          {
+            "passage_id": "449924:0041",
+            "score": 13.938896691391623
+          },
+          {
+            "passage_id": "44475:0094",
+            "score": 12.686615405948091
+          },
+          {
+            "passage_id": "10025:0023",
+            "score": 12.486775491151446
+          },
+          {
+            "passage_id": "449924:0039",
+            "score": 12.385152438336396
+          },
+          {
+            "passage_id": "449924:0032",
+            "score": 12.160847606383705
+          },
+          {
+            "passage_id": "449924:0037",
+            "score": 11.93265749856231
+          },
+          {
+            "passage_id": "449924:0019",
+            "score": 11.93014931387886
+          },
+          {
+            "passage_id": "44475:0095",
+            "score": 11.882921865398275
+          },
+          {
+            "passage_id": "449924:0031",
+            "score": 11.77983756343356
+          },
+          {
+            "passage_id": "449924:0021",
+            "score": 11.772367060131456
+          },
+          {
+            "passage_id": "47510:0031",
+            "score": 11.716070435544445
+          },
+          {
+            "passage_id": "44475:0002",
+            "score": 11.549812948333738
+          },
+          {
+            "passage_id": "453182:0043",
+            "score": 11.506857124773772
+          },
+          {
+            "passage_id": "7770:0019",
+            "score": 11.498077955490645
+          },
+          {
+            "passage_id": "449924:0002",
+            "score": 11.417340593943955
+          },
+          {
+            "passage_id": "449924:0008",
+            "score": 11.277622424514828
+          },
+          {
+            "passage_id": "242172:0014",
+            "score": 11.14443625374444
+          },
+          {
+            "passage_id": "47510:0003",
+            "score": 10.78852558773346
+          },
+          {
+            "passage_id": "44475:0090",
+            "score": 10.744271689386068
+          },
+          {
+            "passage_id": "61577:0010",
+            "score": 10.71540663077553
+          },
+          {
+            "passage_id": "449924:0004",
+            "score": 10.696922810909452
+          },
+          {
+            "passage_id": "1740284:0001",
+            "score": 10.672248341468478
+          },
+          {
+            "passage_id": "193436:0010",
+            "score": 10.665766863868036
+          },
+          {
+            "passage_id": "730274:0017",
+            "score": 10.658659301425377
+          },
+          {
+            "passage_id": "449924:0020",
+            "score": 10.572491642512006
+          },
+          {
+            "passage_id": "23487440:0013",
+            "score": 10.472787626740796
+          },
+          {
+            "passage_id": "47510:0030",
+            "score": 10.459459117074452
+          },
+          {
+            "passage_id": "1404388:0016",
+            "score": 10.353194961826219
+          },
+          {
+            "passage_id": "7770:0052",
+            "score": 10.336036288251258
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "449924:0012",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "A great deal of folklore surrounds fairy rings. Their names in European languages often allude to supernatural origins; they are known as ronds de sorcières (\"witches' circles\") in French, and Hexenringe (\"witches' rings\") in German. In German tradition, fairy rings were thought to mark the site of witches' dancing on Walpurgis Night , and Dutch superstition claimed that the circles show where the Devil set his milk churn. In Tyrol , folklore attributed fairy rings to the fiery tails of flying dragons; once a dragon had created such a circle, nothing but toadstools could grow there for seven years. European superstitions routinely warned against entering a fairy ring. French tradition reported that fairy rings were guarded by giant bug-eyed toads",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0015",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "The folklores of Britain and Ireland contain a wealth of fairy lore, including the idea from which fairy rings take their name: the phenomena result from the dancing of fairies. In 19th-century Wales, where the rings are known as cylch y Tylwyth Teg , fairies were almost invariably described as dancing in a group when encountered, and in Scotland and Wales in the late 20th century, stories about fairy rings were still common; some Welshmen even claimed to have joined a fairy dance. Victorian folklorists regarded fairies and witches as related, based in part on the idea that both were believed to dance in circles. These revels are particularly associated with moonlit nights, the rings becoming visible to mortals only",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0013",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "that cursed those who violated the circles. In other parts of Europe, entering a fairy ring would result in losing an eye. Fairy rings are associated with diminutive spirits in the Philippines .",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0040",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "In The Spiderwick Chronicles (2008) film a giant fairy ring surrounds and protects the house from goblins. In RuneScape 3 and Old School RuneScape , fairy rings are used as a form of teleportation transportation.",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0000",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "A fairy ring , also known as fairy circle , elf circle , elf ring or pixie ring , is a naturally occurring ring or arc of mushrooms . They are found mainly in forested areas, but also appear in grasslands or rangelands . Fairy rings are detectable by sporocarps (fungal spore pods) in rings or arcs, as well as by a necrotic zone (dead grass), or a ring of dark green grass. Fungus mycelium is present in the ring or arc underneath. The rings may grow to over 10 metres (33 ft) in diameter, and they become stable over time as the fungus grows and seeks food underground.",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          }
+        ],
+        "selected_sentence": "A great deal of folklore surrounds fairy rings.",
+        "input_tokens": null,
+        "seconds": 0.05465955199997552,
+        "run_identity": "d8557c7011d39889b89f3473228e422286643e3128e09411046d52b3bc666557",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      },
+      {
+        "question_id": "bb_5443",
+        "question": "What is the short metonymic name of the chief usher of the Lord Chamberlain's department of the UK House of Lords?",
+        "answers": [
+          "Black Rod",
+          "Gentleman Usher of Black Rod",
+          "Irish Gentleman Usher of the Black Rod",
+          "Black rod",
+          "Usher of the black rod",
+          "The Gentleman Usher of the Black Rod",
+          "Serjeant at Arms of the British House of Lords",
+          "Usher of the Black Rod",
+          "Gentleman Usher of the Black Rod"
+        ],
+        "prediction": "the Lord Chamberlain's Office",
+        "em": 0.0,
+        "f1": 0.0,
+        "recall@1": 0.0,
+        "recall@3": 0.0,
+        "recall@5": 0.0,
+        "recall@10": 0.0,
+        "ranking": [
+          {
+            "passage_id": "1707613:0001",
+            "score": 55.17992687804733
+          },
+          {
+            "passage_id": "1707613:0005",
+            "score": 55.01225140600204
+          },
+          {
+            "passage_id": "77007126:0001",
+            "score": 54.2219286331479
+          },
+          {
+            "passage_id": "337870:0083",
+            "score": 53.383711563020896
+          },
+          {
+            "passage_id": "145930:0041",
+            "score": 51.50806735592559
+          },
+          {
+            "passage_id": "337870:0085",
+            "score": 50.13811647912637
+          },
+          {
+            "passage_id": "1707613:0000",
+            "score": 49.81044552505714
+          },
+          {
+            "passage_id": "1707613:0003",
+            "score": 49.67592853433885
+          },
+          {
+            "passage_id": "337870:0001",
+            "score": 49.330768958543544
+          },
+          {
+            "passage_id": "3434750:0075",
+            "score": 48.48624260432662
+          },
+          {
+            "passage_id": "8236080:0006",
+            "score": 48.121021438333315
+          },
+          {
+            "passage_id": "31994546:0136",
+            "score": 47.19167105616652
+          },
+          {
+            "passage_id": "5859:0023",
+            "score": 46.89397212908243
+          },
+          {
+            "passage_id": "625125:0025",
+            "score": 46.22994926798575
+          },
+          {
+            "passage_id": "154189:0052",
+            "score": 46.21533442589299
+          },
+          {
+            "passage_id": "337870:0098",
+            "score": 45.86024698753002
+          },
+          {
+            "passage_id": "145930:0022",
+            "score": 45.78936090072095
+          },
+          {
+            "passage_id": "15992:0055",
+            "score": 45.51489688840624
+          },
+          {
+            "passage_id": "20958:0099",
+            "score": 45.385538788332916
+          },
+          {
+            "passage_id": "22614:0071",
+            "score": 45.030542257742134
+          },
+          {
+            "passage_id": "24135:0029",
+            "score": 44.99970755276028
+          },
+          {
+            "passage_id": "90578:0008",
+            "score": 44.49336437600615
+          },
+          {
+            "passage_id": "669724:0040",
+            "score": 44.09068470786125
+          },
+          {
+            "passage_id": "24859540:0010",
+            "score": 43.91543361515017
+          },
+          {
+            "passage_id": "4642635:0147",
+            "score": 43.883344325429675
+          },
+          {
+            "passage_id": "145930:0043",
+            "score": 43.63044869595544
+          },
+          {
+            "passage_id": "90578:0001",
+            "score": 43.56789743593599
+          },
+          {
+            "passage_id": "1048323:0014",
+            "score": 43.52920625129955
+          },
+          {
+            "passage_id": "9282173:0006",
+            "score": 43.50231157934413
+          },
+          {
+            "passage_id": "337870:0036",
+            "score": 43.47771088888005
+          },
+          {
+            "passage_id": "7105:0024",
+            "score": 43.24279342813076
+          },
+          {
+            "passage_id": "42097:0040",
+            "score": 43.14799450563953
+          },
+          {
+            "passage_id": "145930:0004",
+            "score": 43.10461514021754
+          },
+          {
+            "passage_id": "984:0016",
+            "score": 43.08382850776781
+          },
+          {
+            "passage_id": "39356:0096",
+            "score": 42.95523029070845
+          },
+          {
+            "passage_id": "206492:0023",
+            "score": 42.92851074699447
+          },
+          {
+            "passage_id": "337870:0017",
+            "score": 42.89852844199954
+          },
+          {
+            "passage_id": "69328:0056",
+            "score": 42.86932251721473
+          },
+          {
+            "passage_id": "19729548:0063",
+            "score": 42.78369866541631
+          },
+          {
+            "passage_id": "145930:0030",
+            "score": 42.67207912647761
+          },
+          {
+            "passage_id": "145930:0023",
+            "score": 42.585548392140396
+          },
+          {
+            "passage_id": "4446:0034",
+            "score": 42.55447764797308
+          },
+          {
+            "passage_id": "206492:0001",
+            "score": 42.5289125329312
+          },
+          {
+            "passage_id": "159361:0016",
+            "score": 42.454837214023904
+          },
+          {
+            "passage_id": "39356:0040",
+            "score": 41.97150563319566
+          },
+          {
+            "passage_id": "24859540:0006",
+            "score": 41.90718062970913
+          },
+          {
+            "passage_id": "337870:0004",
+            "score": 41.900211902323676
+          },
+          {
+            "passage_id": "154189:0135",
+            "score": 41.78118332403032
+          },
+          {
+            "passage_id": "22614:0054",
+            "score": 41.75719153735109
+          },
+          {
+            "passage_id": "13011:0015",
+            "score": 41.73494596607258
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "1707613:0001",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "As the Lord Chamberlain is a part-time position, the day-to-day work of the Office is conducted by the Comptroller of the Lord Chamberlain's Office.",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "1707613:0005",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "question theatre censorship as a whole. This is precisely what happened after the Royal Court Theatre was prosecuted. Director William Gaskill was discharged and the company were fined but the publicity surrounding the case called into question the necessity of the Lord Chamberlain's role in theatre. The 1966 Joint Select Committee was set up to discuss possible changes to the Theatres Act following the dissatisfaction with how theatre censorship was being handled. It included eight representatives of the House of Lords , eight MPs , and witnesses of varying theatrical backgrounds, including Peter Hall . The committee met between 1966 and 1967 over the course of sixteen meetings and it eventually resulted in the abolition of the role of official",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "77007126:0001",
+            "title": "List of MPs elected in the 2024 United Kingdom general election",
+            "pageid": 77007126,
+            "revision_id": 1382129315,
+            "text": "The UK Parliament consists of the elected House of Commons, the House of Lords , and the Sovereign. The new Parliament first met on 9 July 2024. Of the 650 MPs elected, more than half (335) were new to Parliament.",
+            "url": "https://en.wikipedia.org/?curid=77007126"
+          },
+          {
+            "passage_id": "337870:0083",
+            "title": "Court dress",
+            "pageid": 337870,
+            "revision_id": 1379419888,
+            "text": "The Irish Free State , established in 1922 , continued largely with the courts and court system inherited from the United Kingdom , albeit pared down and shorn of some of its imperial grandeur. To fit with the reorganization of the courts, the judiciary all but abandoned the wearing of their former ceremonial costumes. Prior to Independence , the Lord Chancellor , Master of the Rolls and the Lords Justice of Appeal in Ireland would have worn full ceremonial dress identical to their English equivalents, viz. long black damask robes with wide bands of gold lace and ornaments. The Lord Chief Justice , Lord Chief Baron (up to the extinction of the office on the retirement of Christopher Palles in",
+            "url": "https://en.wikipedia.org/?curid=337870"
+          },
+          {
+            "passage_id": "145930:0041",
+            "title": "Arthur Balfour",
+            "pageid": 145930,
+            "revision_id": 1379642537,
+            "text": "After the general election of 1906 Balfour remained party leader, his position strengthened by Joseph Chamberlain's absence from the House of Commons after his stroke in July 1906, but he was unable to make much headway against the huge Liberal majority in the Commons. An early attempt to score a debating triumph over the government, made in Balfour's usual abstruse, theoretical style, saw Campbell-Bannerman respond with: \"Enough of this foolery,\" to the delight of his supporters. Balfour made the controversial decision, with Lord Lansdowne , to use the heavily Unionist House of Lords as a check on the political programme and legislation of the Liberal party in the Commons. Legislation was vetoed or altered by amendments between 1906 and 1909,",
+            "url": "https://en.wikipedia.org/?curid=145930"
+          }
+        ],
+        "selected_sentence": "As the Lord Chamberlain is a part-time position, the day-to-day work of the Office is conducted by the Comptroller of the Lord Chamberlain's Office.",
+        "input_tokens": null,
+        "seconds": 0.1425744369998938,
+        "run_identity": "d8557c7011d39889b89f3473228e422286643e3128e09411046d52b3bc666557",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      }
+    ],
+    "high_overlap_incorrect": [
+      {
+        "question_id": "jp_1371",
+        "question": "What are fairy rings made of?",
+        "answers": [
+          "Mushrooms",
+          "Psychoactive mushroom",
+          "Bacidocarp",
+          "Macrofungi",
+          "Mushroom",
+          "Toadstools",
+          "Mushroom Curry",
+          "Psychoactive fungi",
+          "Toadstool",
+          "Psychoactive fungus",
+          "Psychoactive mushrooms",
+          "Mushroom curry",
+          "🍄",
+          "Fungophobia"
+        ],
+        "prediction": "A great deal",
+        "em": 0.0,
+        "f1": 0.0,
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "449924:0012",
+            "score": 24.86034665949829
+          },
+          {
+            "passage_id": "449924:0015",
+            "score": 24.073904928810077
+          },
+          {
+            "passage_id": "449924:0013",
+            "score": 23.17043139704129
+          },
+          {
+            "passage_id": "449924:0040",
+            "score": 22.865430801164596
+          },
+          {
+            "passage_id": "449924:0000",
+            "score": 22.737452425823317
+          },
+          {
+            "passage_id": "449924:0014",
+            "score": 22.718280180987726
+          },
+          {
+            "passage_id": "449924:0003",
+            "score": 22.32835326436503
+          },
+          {
+            "passage_id": "449924:0036",
+            "score": 22.31310771616403
+          },
+          {
+            "passage_id": "449924:0001",
+            "score": 21.621519063247764
+          },
+          {
+            "passage_id": "449924:0009",
+            "score": 20.06164290991002
+          },
+          {
+            "passage_id": "449924:0038",
+            "score": 18.818465672145898
+          },
+          {
+            "passage_id": "449924:0017",
+            "score": 18.72113309833981
+          },
+          {
+            "passage_id": "449924:0011",
+            "score": 18.690006215207926
+          },
+          {
+            "passage_id": "44475:0089",
+            "score": 17.915705703831673
+          },
+          {
+            "passage_id": "449924:0006",
+            "score": 17.624670620219355
+          },
+          {
+            "passage_id": "449924:0018",
+            "score": 17.30154539610201
+          },
+          {
+            "passage_id": "44475:0092",
+            "score": 17.23129816699187
+          },
+          {
+            "passage_id": "449924:0016",
+            "score": 16.232901625399144
+          },
+          {
+            "passage_id": "449924:0033",
+            "score": 15.598736600249868
+          },
+          {
+            "passage_id": "449924:0027",
+            "score": 14.921863880250033
+          },
+          {
+            "passage_id": "44475:0093",
+            "score": 14.81923372559684
+          },
+          {
+            "passage_id": "449924:0041",
+            "score": 13.938896691391623
+          },
+          {
+            "passage_id": "44475:0094",
+            "score": 12.686615405948091
+          },
+          {
+            "passage_id": "10025:0023",
+            "score": 12.486775491151446
+          },
+          {
+            "passage_id": "449924:0039",
+            "score": 12.385152438336396
+          },
+          {
+            "passage_id": "449924:0032",
+            "score": 12.160847606383705
+          },
+          {
+            "passage_id": "449924:0037",
+            "score": 11.93265749856231
+          },
+          {
+            "passage_id": "449924:0019",
+            "score": 11.93014931387886
+          },
+          {
+            "passage_id": "44475:0095",
+            "score": 11.882921865398275
+          },
+          {
+            "passage_id": "449924:0031",
+            "score": 11.77983756343356
+          },
+          {
+            "passage_id": "449924:0021",
+            "score": 11.772367060131456
+          },
+          {
+            "passage_id": "47510:0031",
+            "score": 11.716070435544445
+          },
+          {
+            "passage_id": "44475:0002",
+            "score": 11.549812948333738
+          },
+          {
+            "passage_id": "453182:0043",
+            "score": 11.506857124773772
+          },
+          {
+            "passage_id": "7770:0019",
+            "score": 11.498077955490645
+          },
+          {
+            "passage_id": "449924:0002",
+            "score": 11.417340593943955
+          },
+          {
+            "passage_id": "449924:0008",
+            "score": 11.277622424514828
+          },
+          {
+            "passage_id": "242172:0014",
+            "score": 11.14443625374444
+          },
+          {
+            "passage_id": "47510:0003",
+            "score": 10.78852558773346
+          },
+          {
+            "passage_id": "44475:0090",
+            "score": 10.744271689386068
+          },
+          {
+            "passage_id": "61577:0010",
+            "score": 10.71540663077553
+          },
+          {
+            "passage_id": "449924:0004",
+            "score": 10.696922810909452
+          },
+          {
+            "passage_id": "1740284:0001",
+            "score": 10.672248341468478
+          },
+          {
+            "passage_id": "193436:0010",
+            "score": 10.665766863868036
+          },
+          {
+            "passage_id": "730274:0017",
+            "score": 10.658659301425377
+          },
+          {
+            "passage_id": "449924:0020",
+            "score": 10.572491642512006
+          },
+          {
+            "passage_id": "23487440:0013",
+            "score": 10.472787626740796
+          },
+          {
+            "passage_id": "47510:0030",
+            "score": 10.459459117074452
+          },
+          {
+            "passage_id": "1404388:0016",
+            "score": 10.353194961826219
+          },
+          {
+            "passage_id": "7770:0052",
+            "score": 10.336036288251258
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "449924:0012",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "A great deal of folklore surrounds fairy rings. Their names in European languages often allude to supernatural origins; they are known as ronds de sorcières (\"witches' circles\") in French, and Hexenringe (\"witches' rings\") in German. In German tradition, fairy rings were thought to mark the site of witches' dancing on Walpurgis Night , and Dutch superstition claimed that the circles show where the Devil set his milk churn. In Tyrol , folklore attributed fairy rings to the fiery tails of flying dragons; once a dragon had created such a circle, nothing but toadstools could grow there for seven years. European superstitions routinely warned against entering a fairy ring. French tradition reported that fairy rings were guarded by giant bug-eyed toads",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0015",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "The folklores of Britain and Ireland contain a wealth of fairy lore, including the idea from which fairy rings take their name: the phenomena result from the dancing of fairies. In 19th-century Wales, where the rings are known as cylch y Tylwyth Teg , fairies were almost invariably described as dancing in a group when encountered, and in Scotland and Wales in the late 20th century, stories about fairy rings were still common; some Welshmen even claimed to have joined a fairy dance. Victorian folklorists regarded fairies and witches as related, based in part on the idea that both were believed to dance in circles. These revels are particularly associated with moonlit nights, the rings becoming visible to mortals only",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0013",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "that cursed those who violated the circles. In other parts of Europe, entering a fairy ring would result in losing an eye. Fairy rings are associated with diminutive spirits in the Philippines .",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0040",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "In The Spiderwick Chronicles (2008) film a giant fairy ring surrounds and protects the house from goblins. In RuneScape 3 and Old School RuneScape , fairy rings are used as a form of teleportation transportation.",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0000",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "A fairy ring , also known as fairy circle , elf circle , elf ring or pixie ring , is a naturally occurring ring or arc of mushrooms . They are found mainly in forested areas, but also appear in grasslands or rangelands . Fairy rings are detectable by sporocarps (fungal spore pods) in rings or arcs, as well as by a necrotic zone (dead grass), or a ring of dark green grass. Fungus mycelium is present in the ring or arc underneath. The rings may grow to over 10 metres (33 ft) in diameter, and they become stable over time as the fungus grows and seeks food underground.",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          }
+        ],
+        "selected_sentence": "A great deal of folklore surrounds fairy rings.",
+        "input_tokens": null,
+        "seconds": 0.05465955199997552,
+        "run_identity": "d8557c7011d39889b89f3473228e422286643e3128e09411046d52b3bc666557",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      },
+      {
+        "question_id": "bb_5443",
+        "question": "What is the short metonymic name of the chief usher of the Lord Chamberlain's department of the UK House of Lords?",
+        "answers": [
+          "Black Rod",
+          "Gentleman Usher of Black Rod",
+          "Irish Gentleman Usher of the Black Rod",
+          "Black rod",
+          "Usher of the black rod",
+          "The Gentleman Usher of the Black Rod",
+          "Serjeant at Arms of the British House of Lords",
+          "Usher of the Black Rod",
+          "Gentleman Usher of the Black Rod"
+        ],
+        "prediction": "the Lord Chamberlain's Office",
+        "em": 0.0,
+        "f1": 0.0,
+        "recall@1": 0.0,
+        "recall@3": 0.0,
+        "recall@5": 0.0,
+        "recall@10": 0.0,
+        "ranking": [
+          {
+            "passage_id": "1707613:0001",
+            "score": 55.17992687804733
+          },
+          {
+            "passage_id": "1707613:0005",
+            "score": 55.01225140600204
+          },
+          {
+            "passage_id": "77007126:0001",
+            "score": 54.2219286331479
+          },
+          {
+            "passage_id": "337870:0083",
+            "score": 53.383711563020896
+          },
+          {
+            "passage_id": "145930:0041",
+            "score": 51.50806735592559
+          },
+          {
+            "passage_id": "337870:0085",
+            "score": 50.13811647912637
+          },
+          {
+            "passage_id": "1707613:0000",
+            "score": 49.81044552505714
+          },
+          {
+            "passage_id": "1707613:0003",
+            "score": 49.67592853433885
+          },
+          {
+            "passage_id": "337870:0001",
+            "score": 49.330768958543544
+          },
+          {
+            "passage_id": "3434750:0075",
+            "score": 48.48624260432662
+          },
+          {
+            "passage_id": "8236080:0006",
+            "score": 48.121021438333315
+          },
+          {
+            "passage_id": "31994546:0136",
+            "score": 47.19167105616652
+          },
+          {
+            "passage_id": "5859:0023",
+            "score": 46.89397212908243
+          },
+          {
+            "passage_id": "625125:0025",
+            "score": 46.22994926798575
+          },
+          {
+            "passage_id": "154189:0052",
+            "score": 46.21533442589299
+          },
+          {
+            "passage_id": "337870:0098",
+            "score": 45.86024698753002
+          },
+          {
+            "passage_id": "145930:0022",
+            "score": 45.78936090072095
+          },
+          {
+            "passage_id": "15992:0055",
+            "score": 45.51489688840624
+          },
+          {
+            "passage_id": "20958:0099",
+            "score": 45.385538788332916
+          },
+          {
+            "passage_id": "22614:0071",
+            "score": 45.030542257742134
+          },
+          {
+            "passage_id": "24135:0029",
+            "score": 44.99970755276028
+          },
+          {
+            "passage_id": "90578:0008",
+            "score": 44.49336437600615
+          },
+          {
+            "passage_id": "669724:0040",
+            "score": 44.09068470786125
+          },
+          {
+            "passage_id": "24859540:0010",
+            "score": 43.91543361515017
+          },
+          {
+            "passage_id": "4642635:0147",
+            "score": 43.883344325429675
+          },
+          {
+            "passage_id": "145930:0043",
+            "score": 43.63044869595544
+          },
+          {
+            "passage_id": "90578:0001",
+            "score": 43.56789743593599
+          },
+          {
+            "passage_id": "1048323:0014",
+            "score": 43.52920625129955
+          },
+          {
+            "passage_id": "9282173:0006",
+            "score": 43.50231157934413
+          },
+          {
+            "passage_id": "337870:0036",
+            "score": 43.47771088888005
+          },
+          {
+            "passage_id": "7105:0024",
+            "score": 43.24279342813076
+          },
+          {
+            "passage_id": "42097:0040",
+            "score": 43.14799450563953
+          },
+          {
+            "passage_id": "145930:0004",
+            "score": 43.10461514021754
+          },
+          {
+            "passage_id": "984:0016",
+            "score": 43.08382850776781
+          },
+          {
+            "passage_id": "39356:0096",
+            "score": 42.95523029070845
+          },
+          {
+            "passage_id": "206492:0023",
+            "score": 42.92851074699447
+          },
+          {
+            "passage_id": "337870:0017",
+            "score": 42.89852844199954
+          },
+          {
+            "passage_id": "69328:0056",
+            "score": 42.86932251721473
+          },
+          {
+            "passage_id": "19729548:0063",
+            "score": 42.78369866541631
+          },
+          {
+            "passage_id": "145930:0030",
+            "score": 42.67207912647761
+          },
+          {
+            "passage_id": "145930:0023",
+            "score": 42.585548392140396
+          },
+          {
+            "passage_id": "4446:0034",
+            "score": 42.55447764797308
+          },
+          {
+            "passage_id": "206492:0001",
+            "score": 42.5289125329312
+          },
+          {
+            "passage_id": "159361:0016",
+            "score": 42.454837214023904
+          },
+          {
+            "passage_id": "39356:0040",
+            "score": 41.97150563319566
+          },
+          {
+            "passage_id": "24859540:0006",
+            "score": 41.90718062970913
+          },
+          {
+            "passage_id": "337870:0004",
+            "score": 41.900211902323676
+          },
+          {
+            "passage_id": "154189:0135",
+            "score": 41.78118332403032
+          },
+          {
+            "passage_id": "22614:0054",
+            "score": 41.75719153735109
+          },
+          {
+            "passage_id": "13011:0015",
+            "score": 41.73494596607258
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "1707613:0001",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "As the Lord Chamberlain is a part-time position, the day-to-day work of the Office is conducted by the Comptroller of the Lord Chamberlain's Office.",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "1707613:0005",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "question theatre censorship as a whole. This is precisely what happened after the Royal Court Theatre was prosecuted. Director William Gaskill was discharged and the company were fined but the publicity surrounding the case called into question the necessity of the Lord Chamberlain's role in theatre. The 1966 Joint Select Committee was set up to discuss possible changes to the Theatres Act following the dissatisfaction with how theatre censorship was being handled. It included eight representatives of the House of Lords , eight MPs , and witnesses of varying theatrical backgrounds, including Peter Hall . The committee met between 1966 and 1967 over the course of sixteen meetings and it eventually resulted in the abolition of the role of official",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "77007126:0001",
+            "title": "List of MPs elected in the 2024 United Kingdom general election",
+            "pageid": 77007126,
+            "revision_id": 1382129315,
+            "text": "The UK Parliament consists of the elected House of Commons, the House of Lords , and the Sovereign. The new Parliament first met on 9 July 2024. Of the 650 MPs elected, more than half (335) were new to Parliament.",
+            "url": "https://en.wikipedia.org/?curid=77007126"
+          },
+          {
+            "passage_id": "337870:0083",
+            "title": "Court dress",
+            "pageid": 337870,
+            "revision_id": 1379419888,
+            "text": "The Irish Free State , established in 1922 , continued largely with the courts and court system inherited from the United Kingdom , albeit pared down and shorn of some of its imperial grandeur. To fit with the reorganization of the courts, the judiciary all but abandoned the wearing of their former ceremonial costumes. Prior to Independence , the Lord Chancellor , Master of the Rolls and the Lords Justice of Appeal in Ireland would have worn full ceremonial dress identical to their English equivalents, viz. long black damask robes with wide bands of gold lace and ornaments. The Lord Chief Justice , Lord Chief Baron (up to the extinction of the office on the retirement of Christopher Palles in",
+            "url": "https://en.wikipedia.org/?curid=337870"
+          },
+          {
+            "passage_id": "145930:0041",
+            "title": "Arthur Balfour",
+            "pageid": 145930,
+            "revision_id": 1379642537,
+            "text": "After the general election of 1906 Balfour remained party leader, his position strengthened by Joseph Chamberlain's absence from the House of Commons after his stroke in July 1906, but he was unable to make much headway against the huge Liberal majority in the Commons. An early attempt to score a debating triumph over the government, made in Balfour's usual abstruse, theoretical style, saw Campbell-Bannerman respond with: \"Enough of this foolery,\" to the delight of his supporters. Balfour made the controversial decision, with Lord Lansdowne , to use the heavily Unionist House of Lords as a check on the political programme and legislation of the Liberal party in the Commons. Legislation was vetoed or altered by amendments between 1906 and 1909,",
+            "url": "https://en.wikipedia.org/?curid=145930"
+          }
+        ],
+        "selected_sentence": "As the Lord Chamberlain is a part-time position, the day-to-day work of the Office is conducted by the Comptroller of the Lord Chamberlain's Office.",
+        "input_tokens": null,
+        "seconds": 0.1425744369998938,
+        "run_identity": "d8557c7011d39889b89f3473228e422286643e3128e09411046d52b3bc666557",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      }
+    ],
+    "low_overlap_correct": []
+  },
+  "task2": {
+    "correct": [
+      {
+        "question_id": "bb_6164",
+        "question": "Which one of the seven member territories is also capital of UAE (United Arab Emirates)?",
+        "answers": [
+          "Abu Dhabi",
+          "Abu Dhabi, United Arab Emirates",
+          "Abu dhabi",
+          "Municipality of Abu Dhabi City",
+          "Abû Zabi",
+          "Abou Dhabi",
+          "Abu Zabi",
+          "Abu Dhaby",
+          "Capital of the United Arab Emirates",
+          "Abu Dhabi (city)",
+          "Abu Dhabi, U.A.E.",
+          "Abu-Dabi",
+          "Abu Dabhi",
+          "Abu-Zabi",
+          "Abu Ẓaby",
+          "Abu Dabi",
+          "أبوظبي",
+          "Abu-Zaby",
+          "أبو ظب",
+          "Abu Zaby",
+          "Abū Z̧aby",
+          "Abou-Dhabi",
+          "Alu Zaly",
+          "Abu-Dhabi"
+        ],
+        "prediction": "Abu Dhabi",
+        "em": 1.0,
+        "f1": 1.0,
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "69328:0000",
+            "score": 0.7590034008026123
+          },
+          {
+            "passage_id": "69328:0061",
+            "score": 0.7334997653961182
+          },
+          {
+            "passage_id": "69328:0054",
+            "score": 0.7097102999687195
+          },
+          {
+            "passage_id": "69328:0006",
+            "score": 0.703126072883606
+          },
+          {
+            "passage_id": "69328:0003",
+            "score": 0.6733338236808777
+          },
+          {
+            "passage_id": "69328:0044",
+            "score": 0.6390324234962463
+          },
+          {
+            "passage_id": "69328:0042",
+            "score": 0.631399929523468
+          },
+          {
+            "passage_id": "69328:0063",
+            "score": 0.6304408311843872
+          },
+          {
+            "passage_id": "69328:0062",
+            "score": 0.6248142123222351
+          },
+          {
+            "passage_id": "69328:0066",
+            "score": 0.6202359199523926
+          },
+          {
+            "passage_id": "69328:0045",
+            "score": 0.6115522384643555
+          },
+          {
+            "passage_id": "69328:0048",
+            "score": 0.606812596321106
+          },
+          {
+            "passage_id": "69328:0043",
+            "score": 0.6057925224304199
+          },
+          {
+            "passage_id": "69328:0049",
+            "score": 0.60508793592453
+          },
+          {
+            "passage_id": "69328:0031",
+            "score": 0.600532054901123
+          },
+          {
+            "passage_id": "69328:0132",
+            "score": 0.5932846069335938
+          },
+          {
+            "passage_id": "69328:0067",
+            "score": 0.5844141244888306
+          },
+          {
+            "passage_id": "69328:0164",
+            "score": 0.5832415819168091
+          },
+          {
+            "passage_id": "69328:0145",
+            "score": 0.5795148611068726
+          },
+          {
+            "passage_id": "69328:0046",
+            "score": 0.5781188011169434
+          },
+          {
+            "passage_id": "69328:0004",
+            "score": 0.5749022960662842
+          },
+          {
+            "passage_id": "69328:0056",
+            "score": 0.5746704339981079
+          },
+          {
+            "passage_id": "69328:0168",
+            "score": 0.5731695294380188
+          },
+          {
+            "passage_id": "69328:0150",
+            "score": 0.5703908205032349
+          },
+          {
+            "passage_id": "69328:0002",
+            "score": 0.5696849822998047
+          },
+          {
+            "passage_id": "69328:0065",
+            "score": 0.5659449100494385
+          },
+          {
+            "passage_id": "69328:0032",
+            "score": 0.5623852014541626
+          },
+          {
+            "passage_id": "69328:0037",
+            "score": 0.5548487901687622
+          },
+          {
+            "passage_id": "69328:0116",
+            "score": 0.5525925755500793
+          },
+          {
+            "passage_id": "69328:0033",
+            "score": 0.5507036447525024
+          },
+          {
+            "passage_id": "69328:0131",
+            "score": 0.5494272112846375
+          },
+          {
+            "passage_id": "69328:0151",
+            "score": 0.5436207056045532
+          },
+          {
+            "passage_id": "69328:0178",
+            "score": 0.5406609773635864
+          },
+          {
+            "passage_id": "69328:0072",
+            "score": 0.5404428243637085
+          },
+          {
+            "passage_id": "69328:0001",
+            "score": 0.5398459434509277
+          },
+          {
+            "passage_id": "69328:0058",
+            "score": 0.5360318422317505
+          },
+          {
+            "passage_id": "69328:0055",
+            "score": 0.5339741706848145
+          },
+          {
+            "passage_id": "69328:0112",
+            "score": 0.5320362448692322
+          },
+          {
+            "passage_id": "69328:0146",
+            "score": 0.5319748520851135
+          },
+          {
+            "passage_id": "69328:0183",
+            "score": 0.5319292545318604
+          },
+          {
+            "passage_id": "69328:0022",
+            "score": 0.5313262939453125
+          },
+          {
+            "passage_id": "69328:0138",
+            "score": 0.529767632484436
+          },
+          {
+            "passage_id": "69328:0141",
+            "score": 0.5279914140701294
+          },
+          {
+            "passage_id": "69328:0149",
+            "score": 0.5279239416122437
+          },
+          {
+            "passage_id": "69328:0152",
+            "score": 0.5273512601852417
+          },
+          {
+            "passage_id": "69328:0028",
+            "score": 0.5268021821975708
+          },
+          {
+            "passage_id": "69328:0057",
+            "score": 0.5235797762870789
+          },
+          {
+            "passage_id": "69328:0111",
+            "score": 0.520896315574646
+          },
+          {
+            "passage_id": "69328:0133",
+            "score": 0.519504964351654
+          },
+          {
+            "passage_id": "69328:0035",
+            "score": 0.5182435512542725
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "69328:0000",
+            "title": "United Arab Emirates",
+            "pageid": 69328,
+            "revision_id": 1380745114,
+            "text": "The United Arab Emirates ( UAE ), also known simply as the Emirates , is a country in West Asia , situated at the eastern end of the Arabian Peninsula . It is a federal semi-constitutional monarchy made up of seven emirates , with Abu Dhabi serving as its national capital. The UAE borders Oman to the east and northeast, and Saudi Arabia to the south and southwest. It shares maritime borders with Saudi Arabia, Qatar , and Iran in the Persian Gulf , and with Oman in the Gulf of Oman . In 2024, the UAE had an estimated population of over 11 million. Dubai is the country's largest city . Islam is the state religion . Arabic is",
+            "url": "https://en.wikipedia.org/?curid=69328"
+          },
+          {
+            "passage_id": "69328:0061",
+            "title": "United Arab Emirates",
+            "pageid": 69328,
+            "revision_id": 1380745114,
+            "text": "The United Arab Emirates comprises seven emirates. The Emirate of Dubai is the most populous emirate with 35.6% of the UAE population. The Emirate of Abu Dhabi has 31.2%, meaning that over two-thirds of the UAE population lives in either Abu Dhabi or Dubai.",
+            "url": "https://en.wikipedia.org/?curid=69328"
+          },
+          {
+            "passage_id": "69328:0054",
+            "title": "United Arab Emirates",
+            "pageid": 69328,
+            "revision_id": 1380745114,
+            "text": "The United Arab Emirates is a federal semi-presidential state under a semi-constitutional monarchy made up of seven hereditary tribal monarchy -styled political units called Sheikhdoms . It is governed by a Federal Supreme Council made up of the ruling Sheikhs of Abu Dhabi , Ajman , Fujairah , Sharjah , Dubai , Ras Al Khaimah , and Umm Al Quwain . All responsibilities not granted to the federal government are reserved to the individual emirate. A percentage of revenues from each emirate is allocated to the UAE's central budget.",
+            "url": "https://en.wikipedia.org/?curid=69328"
+          },
+          {
+            "passage_id": "69328:0006",
+            "title": "United Arab Emirates",
+            "pageid": 69328,
+            "revision_id": 1380745114,
+            "text": "The United Arab Emirates is named after the seven emirates that formed a federation: the Emirate of Abu Dhabi , the Emirate of Dubai , the Emirate of Ajman , the Emirate of Sharjah , the Emirate of Ras Al Khaimah , the Emirate of Umm Al Quwain , and the Emirate of Fujairah .",
+            "url": "https://en.wikipedia.org/?curid=69328"
+          },
+          {
+            "passage_id": "69328:0003",
+            "title": "United Arab Emirates",
+            "pageid": 69328,
+            "revision_id": 1380745114,
+            "text": "The United Arab Emirates is considered a middle power in global affairs; Dubai serves as an international hub of finance, tourism, and commerce. Only 11% of the population are native Emiratis ; the vast majority of inhabitants are expatriates and migrant workers , most of whom are from South Asia . The UAE has the world's seventh-largest oil reserves and seventh-largest natural gas reserves . The UAE has the most diversified economy among the members of the Gulf Cooperation Council (GCC), having become less reliant on natural resources in the 21st century and increasingly focusing on tourism and business. The UAE is a member of the United Nations , Arab League , Organisation of Islamic Cooperation , Non-Aligned Movement ,",
+            "url": "https://en.wikipedia.org/?curid=69328"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 616,
+        "seconds": 1.7012545110001156,
+        "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      },
+      {
+        "question_id": "qb_365",
+        "question": "Aconcagua is the highest mountain in which mountain range?",
+        "answers": [
+          "Andes",
+          "Northern Andes",
+          "Andean mountains",
+          "Andean",
+          "Geology of the Andes",
+          "Andean orogeny",
+          "Andes Range",
+          "South american andes",
+          "Andean highland",
+          "High Andes",
+          "Andes mountains",
+          "The Andes Mountains",
+          "Andes Mountain",
+          "The andes",
+          "Andes range",
+          "Andes Mountains",
+          "South American Andes",
+          "The Andes Mountain",
+          "Andes of Peru",
+          "Andean Mountain System"
+        ],
+        "prediction": "Andes range",
+        "em": 1.0,
+        "f1": 1.0,
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "220167:0000",
+            "score": 0.8458356261253357
+          },
+          {
+            "passage_id": "220167:0021",
+            "score": 0.7603156566619873
+          },
+          {
+            "passage_id": "220167:0013",
+            "score": 0.7157752513885498
+          },
+          {
+            "passage_id": "220167:0007",
+            "score": 0.7082766890525818
+          },
+          {
+            "passage_id": "220167:0003",
+            "score": 0.707490086555481
+          },
+          {
+            "passage_id": "220167:0024",
+            "score": 0.6979777812957764
+          },
+          {
+            "passage_id": "220167:0005",
+            "score": 0.6697262525558472
+          },
+          {
+            "passage_id": "220167:0001",
+            "score": 0.6680628061294556
+          },
+          {
+            "passage_id": "220167:0002",
+            "score": 0.6558375358581543
+          },
+          {
+            "passage_id": "220167:0016",
+            "score": 0.5721829533576965
+          },
+          {
+            "passage_id": "220167:0020",
+            "score": 0.5515689849853516
+          },
+          {
+            "passage_id": "48768:0073",
+            "score": 0.511311411857605
+          },
+          {
+            "passage_id": "3434750:0047",
+            "score": 0.5077171921730042
+          },
+          {
+            "passage_id": "220167:0018",
+            "score": 0.4474143385887146
+          },
+          {
+            "passage_id": "220167:0010",
+            "score": 0.4359125792980194
+          },
+          {
+            "passage_id": "220167:0006",
+            "score": 0.4314134120941162
+          },
+          {
+            "passage_id": "23399213:0016",
+            "score": 0.4287935495376587
+          },
+          {
+            "passage_id": "220167:0015",
+            "score": 0.42687514424324036
+          },
+          {
+            "passage_id": "90578:0010",
+            "score": 0.424718976020813
+          },
+          {
+            "passage_id": "3810742:0068",
+            "score": 0.42308980226516724
+          },
+          {
+            "passage_id": "6481319:0029",
+            "score": 0.4162694215774536
+          },
+          {
+            "passage_id": "3810742:0066",
+            "score": 0.4132167100906372
+          },
+          {
+            "passage_id": "48768:0072",
+            "score": 0.4069683253765106
+          },
+          {
+            "passage_id": "468224:0013",
+            "score": 0.39783796668052673
+          },
+          {
+            "passage_id": "220167:0017",
+            "score": 0.39554092288017273
+          },
+          {
+            "passage_id": "48768:0079",
+            "score": 0.3900219202041626
+          },
+          {
+            "passage_id": "468224:0011",
+            "score": 0.3899165987968445
+          },
+          {
+            "passage_id": "23399213:0040",
+            "score": 0.38737013936042786
+          },
+          {
+            "passage_id": "683036:0077",
+            "score": 0.3810976445674896
+          },
+          {
+            "passage_id": "468224:0010",
+            "score": 0.37313324213027954
+          },
+          {
+            "passage_id": "468224:0008",
+            "score": 0.3727615475654602
+          },
+          {
+            "passage_id": "143752:0021",
+            "score": 0.3717610538005829
+          },
+          {
+            "passage_id": "62468857:0054",
+            "score": 0.3686214089393616
+          },
+          {
+            "passage_id": "47510:0009",
+            "score": 0.3667389154434204
+          },
+          {
+            "passage_id": "48768:0077",
+            "score": 0.3646700382232666
+          },
+          {
+            "passage_id": "171118:0010",
+            "score": 0.3623588979244232
+          },
+          {
+            "passage_id": "62468857:0030",
+            "score": 0.3615795373916626
+          },
+          {
+            "passage_id": "48768:0074",
+            "score": 0.36029085516929626
+          },
+          {
+            "passage_id": "19201:0074",
+            "score": 0.3578534722328186
+          },
+          {
+            "passage_id": "6481319:0018",
+            "score": 0.35738587379455566
+          },
+          {
+            "passage_id": "35940793:0000",
+            "score": 0.3545491099357605
+          },
+          {
+            "passage_id": "220167:0004",
+            "score": 0.3527492880821228
+          },
+          {
+            "passage_id": "220167:0019",
+            "score": 0.3502713143825531
+          },
+          {
+            "passage_id": "62468857:0094",
+            "score": 0.344944030046463
+          },
+          {
+            "passage_id": "171118:0008",
+            "score": 0.3439024090766907
+          },
+          {
+            "passage_id": "3434750:0048",
+            "score": 0.3430408239364624
+          },
+          {
+            "passage_id": "90578:0009",
+            "score": 0.34292057156562805
+          },
+          {
+            "passage_id": "47510:0008",
+            "score": 0.3425445258617401
+          },
+          {
+            "passage_id": "62468857:0057",
+            "score": 0.34149736166000366
+          },
+          {
+            "passage_id": "468224:0007",
+            "score": 0.33781886100769043
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "220167:0000",
+            "title": "Aconcagua",
+            "pageid": 220167,
+            "revision_id": 1373517716,
+            "text": "Aconcagua ( Spanish pronunciation: [ akoŋˈkaɣwa ] ) is a mountain in the Principal Cordillera of the Andes range, located in Mendoza Province , Argentina. With a summit elevation of 6,967.15 metres (22,858.1 feet) , it is the highest mountain outside Asia . It is the second-most topographically prominent peak in the world and one of the Seven Summits , the highest mountains on each of the seven continents.",
+            "url": "https://en.wikipedia.org/?curid=220167"
+          },
+          {
+            "passage_id": "220167:0021",
+            "title": "Aconcagua",
+            "pageid": 220167,
+            "revision_id": 1373517716,
+            "text": "At nearly 7,000 m (23,000 ft) , Aconcagua is the highest peak outside Asia. It is believed to have the highest death rate of any mountain in South America — around three a year — which has earned it the nickname \"Mountain of Death\". More than 100 people have died on Aconcagua since records began.",
+            "url": "https://en.wikipedia.org/?curid=220167"
+          },
+          {
+            "passage_id": "220167:0013",
+            "title": "Aconcagua",
+            "pageid": 220167,
+            "revision_id": 1373517716,
+            "text": "The first attempt to summit Aconcagua by Europeans was made in 1883 by a party led by the German geologist and explorer Paul Güssfeldt . Bribing porters with the story of treasure on the mountain, he approached the mountain via the Rio Volcan, making two attempts on the peak by the northwest ridge and reaching an elevation of 6,500 metres (21,300 ft) . The route that he prospected is now the standard route up the mountain.",
+            "url": "https://en.wikipedia.org/?curid=220167"
+          },
+          {
+            "passage_id": "220167:0007",
+            "title": "Aconcagua",
+            "pageid": 220167,
+            "revision_id": 1373517716,
+            "text": "In mountaineering terms, Aconcagua is technically an easy mountain if approached from the north, via the normal route . Aconcagua is arguably the highest non-technical mountain in the world since the northern route does not absolutely require ropes, axes, and pins. Although the effects of altitude are severe (atmospheric pressure is 40% of sea level at the summit), the use of supplemental oxygen is not common. Altitude sickness will affect most climbers to some extent, depending on the degree of acclimatization . Although the normal climb is technically easy, multiple casualties occur every year on this mountain (in January 2009 alone, five climbers died). This is due to the large numbers of climbers who attempt the ascent and because many",
+            "url": "https://en.wikipedia.org/?curid=220167"
+          },
+          {
+            "passage_id": "220167:0003",
+            "title": "Aconcagua",
+            "pageid": 220167,
+            "revision_id": 1373517716,
+            "text": "From the north via the normal route, Aconcagua is considered technically straightforward and is often described as the highest non-technical mountain in the world, requiring no ropes or specialized equipment. Nevertheless, the extreme altitude—where atmospheric pressure is roughly 40% of sea level—means altitude sickness affects most climbers, and the mountain records approximately three deaths per year, earning it the nickname \"Mountain of Death.\" Summit success rates are estimated at 30–40%.",
+            "url": "https://en.wikipedia.org/?curid=220167"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 622,
+        "seconds": 1.6696587989999898,
+        "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      }
+    ],
+    "incorrect": [
+      {
+        "question_id": "jp_1371",
+        "question": "What are fairy rings made of?",
+        "answers": [
+          "Mushrooms",
+          "Psychoactive mushroom",
+          "Bacidocarp",
+          "Macrofungi",
+          "Mushroom",
+          "Toadstools",
+          "Mushroom Curry",
+          "Psychoactive fungi",
+          "Toadstool",
+          "Psychoactive fungus",
+          "Psychoactive mushrooms",
+          "Mushroom curry",
+          "🍄",
+          "Fungophobia"
+        ],
+        "prediction": "Fungi",
+        "em": 0.0,
+        "f1": 0.6666666666666666,
+        "recall@1": 0.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "449924:0001",
+            "score": 0.6889565587043762
+          },
+          {
+            "passage_id": "449924:0000",
+            "score": 0.6712919473648071
+          },
+          {
+            "passage_id": "449924:0003",
+            "score": 0.6071237921714783
+          },
+          {
+            "passage_id": "449924:0036",
+            "score": 0.5994718670845032
+          },
+          {
+            "passage_id": "449924:0011",
+            "score": 0.5400603413581848
+          },
+          {
+            "passage_id": "449924:0012",
+            "score": 0.5203292965888977
+          },
+          {
+            "passage_id": "449924:0013",
+            "score": 0.5201988220214844
+          },
+          {
+            "passage_id": "449924:0016",
+            "score": 0.5159646272659302
+          },
+          {
+            "passage_id": "449924:0010",
+            "score": 0.5001707077026367
+          },
+          {
+            "passage_id": "449924:0038",
+            "score": 0.49374911189079285
+          },
+          {
+            "passage_id": "449924:0031",
+            "score": 0.48895013332366943
+          },
+          {
+            "passage_id": "449924:0015",
+            "score": 0.4849785268306732
+          },
+          {
+            "passage_id": "7770:0063",
+            "score": 0.48351505398750305
+          },
+          {
+            "passage_id": "449924:0017",
+            "score": 0.48350590467453003
+          },
+          {
+            "passage_id": "7770:0064",
+            "score": 0.4792611300945282
+          },
+          {
+            "passage_id": "449924:0040",
+            "score": 0.47573918104171753
+          },
+          {
+            "passage_id": "449924:0039",
+            "score": 0.4620790481567383
+          },
+          {
+            "passage_id": "449924:0004",
+            "score": 0.45953914523124695
+          },
+          {
+            "passage_id": "449924:0002",
+            "score": 0.4578186273574829
+          },
+          {
+            "passage_id": "449924:0033",
+            "score": 0.4566222131252289
+          },
+          {
+            "passage_id": "449924:0009",
+            "score": 0.4558424949645996
+          },
+          {
+            "passage_id": "449924:0018",
+            "score": 0.43583738803863525
+          },
+          {
+            "passage_id": "449924:0006",
+            "score": 0.4327458143234253
+          },
+          {
+            "passage_id": "449924:0021",
+            "score": 0.42893916368484497
+          },
+          {
+            "passage_id": "449924:0025",
+            "score": 0.4277336597442627
+          },
+          {
+            "passage_id": "449924:0014",
+            "score": 0.41541987657546997
+          },
+          {
+            "passage_id": "449924:0037",
+            "score": 0.4002954363822937
+          },
+          {
+            "passage_id": "44475:0089",
+            "score": 0.3993240296840668
+          },
+          {
+            "passage_id": "449924:0024",
+            "score": 0.3982667922973633
+          },
+          {
+            "passage_id": "449924:0020",
+            "score": 0.3797250986099243
+          },
+          {
+            "passage_id": "7770:0001",
+            "score": 0.3772895336151123
+          },
+          {
+            "passage_id": "7770:0016",
+            "score": 0.37464240193367004
+          },
+          {
+            "passage_id": "1320974:0002",
+            "score": 0.3643794059753418
+          },
+          {
+            "passage_id": "7770:0065",
+            "score": 0.36241838335990906
+          },
+          {
+            "passage_id": "2223628:0003",
+            "score": 0.3622681498527527
+          },
+          {
+            "passage_id": "449924:0027",
+            "score": 0.3620719909667969
+          },
+          {
+            "passage_id": "449924:0030",
+            "score": 0.35587257146835327
+          },
+          {
+            "passage_id": "449924:0019",
+            "score": 0.35504186153411865
+          },
+          {
+            "passage_id": "453182:0048",
+            "score": 0.33518046140670776
+          },
+          {
+            "passage_id": "1184660:0003",
+            "score": 0.3333682417869568
+          },
+          {
+            "passage_id": "449924:0032",
+            "score": 0.3328796327114105
+          },
+          {
+            "passage_id": "274142:0007",
+            "score": 0.33171361684799194
+          },
+          {
+            "passage_id": "156754:0062",
+            "score": 0.33152708411216736
+          },
+          {
+            "passage_id": "449924:0029",
+            "score": 0.3301800489425659
+          },
+          {
+            "passage_id": "69237937:0001",
+            "score": 0.32971179485321045
+          },
+          {
+            "passage_id": "453182:0047",
+            "score": 0.329045832157135
+          },
+          {
+            "passage_id": "52389:0044",
+            "score": 0.32677507400512695
+          },
+          {
+            "passage_id": "2223628:0002",
+            "score": 0.3243960738182068
+          },
+          {
+            "passage_id": "47510:0004",
+            "score": 0.323093980550766
+          },
+          {
+            "passage_id": "7770:0052",
+            "score": 0.32288265228271484
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "449924:0001",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "Fairy rings are the subject of much folklore and myth worldwide, particularly in Western Europe. They are alternately seen as hazardous or dangerous places linked with witches or the Devil, or as a sign of good fortune.",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0000",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "A fairy ring , also known as fairy circle , elf circle , elf ring or pixie ring , is a naturally occurring ring or arc of mushrooms . They are found mainly in forested areas, but also appear in grasslands or rangelands . Fairy rings are detectable by sporocarps (fungal spore pods) in rings or arcs, as well as by a necrotic zone (dead grass), or a ring of dark green grass. Fungus mycelium is present in the ring or arc underneath. The rings may grow to over 10 metres (33 ft) in diameter, and they become stable over time as the fungus grows and seeks food underground.",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0003",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "There are two theories regarding the process involved in creating fairy rings. One states that the fairy ring is begun by a spore from the sporocarpus . The underground presence of the fungus can also cause withering or varying colour or growth of the grass above. The second theory, which is presented in the investigations of Japanese scientists on the Tricholoma matsutake species, shows that fairy rings could be established by connecting neighbouring oval genets of these mushrooms. If they make an arc or a ring, they continuously grow about the centre of this object.",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0036",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "Shakespeare's contemporary Thomas Randolph speaks of fairy rings in his Amyntas, or the Impossible Dowry (1638), and Michael Drayton describes one in Nymphidia: The Court of Fairy :",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          },
+          {
+            "passage_id": "449924:0011",
+            "title": "Fairy ring",
+            "pageid": 449924,
+            "revision_id": 1358878270,
+            "text": "One of the largest rings ever found is near Belfort in northeastern France. Formed by Infundibulicybe geotropa , it is thought to have a radius of about 300 metres (980 ft) and to be over 700 years old. On the South Downs in southern England, Calocybe gambosa has formed huge fairy rings that also appear to be several hundred years old.",
+            "url": "https://en.wikipedia.org/?curid=449924"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 506,
+        "seconds": 1.4618392570000651,
+        "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+        "overlap": 0.0,
+        "high_overlap": false,
+        "abstained": false
+      },
+      {
+        "question_id": "bb_5443",
+        "question": "What is the short metonymic name of the chief usher of the Lord Chamberlain's department of the UK House of Lords?",
+        "answers": [
+          "Black Rod",
+          "Gentleman Usher of Black Rod",
+          "Irish Gentleman Usher of the Black Rod",
+          "Black rod",
+          "Usher of the black rod",
+          "The Gentleman Usher of the Black Rod",
+          "Serjeant at Arms of the British House of Lords",
+          "Usher of the Black Rod",
+          "Gentleman Usher of the Black Rod"
+        ],
+        "prediction": "Lord Burford",
+        "em": 0.0,
+        "f1": 0.0,
+        "recall@1": 0.0,
+        "recall@3": 0.0,
+        "recall@5": 0.0,
+        "recall@10": 0.0,
+        "ranking": [
+          {
+            "passage_id": "1707613:0000",
+            "score": 0.6694843173027039
+          },
+          {
+            "passage_id": "1707613:0001",
+            "score": 0.5694749355316162
+          },
+          {
+            "passage_id": "24095:0043",
+            "score": 0.4725416898727417
+          },
+          {
+            "passage_id": "574756:0055",
+            "score": 0.43713903427124023
+          },
+          {
+            "passage_id": "192450:0009",
+            "score": 0.42896878719329834
+          },
+          {
+            "passage_id": "154189:0052",
+            "score": 0.4274979829788208
+          },
+          {
+            "passage_id": "20958:0027",
+            "score": 0.42330026626586914
+          },
+          {
+            "passage_id": "24095:0009",
+            "score": 0.42014187574386597
+          },
+          {
+            "passage_id": "1707613:0003",
+            "score": 0.4177779257297516
+          },
+          {
+            "passage_id": "17867:0032",
+            "score": 0.41576191782951355
+          },
+          {
+            "passage_id": "28953:0084",
+            "score": 0.4156189560890198
+          },
+          {
+            "passage_id": "20958:0029",
+            "score": 0.40874791145324707
+          },
+          {
+            "passage_id": "206492:0023",
+            "score": 0.4086909294128418
+          },
+          {
+            "passage_id": "145930:0000",
+            "score": 0.4068933129310608
+          },
+          {
+            "passage_id": "24135:0027",
+            "score": 0.406577467918396
+          },
+          {
+            "passage_id": "6481319:0035",
+            "score": 0.4029783606529236
+          },
+          {
+            "passage_id": "20958:0028",
+            "score": 0.40260159969329834
+          },
+          {
+            "passage_id": "39356:0019",
+            "score": 0.4003673195838928
+          },
+          {
+            "passage_id": "574756:0071",
+            "score": 0.394906610250473
+          },
+          {
+            "passage_id": "574756:0067",
+            "score": 0.39190858602523804
+          },
+          {
+            "passage_id": "145930:0043",
+            "score": 0.39009422063827515
+          },
+          {
+            "passage_id": "574756:0038",
+            "score": 0.38943177461624146
+          },
+          {
+            "passage_id": "24859540:0025",
+            "score": 0.3871689438819885
+          },
+          {
+            "passage_id": "574756:0007",
+            "score": 0.3869854807853699
+          },
+          {
+            "passage_id": "68832:0022",
+            "score": 0.3858293890953064
+          },
+          {
+            "passage_id": "145930:0042",
+            "score": 0.38555437326431274
+          },
+          {
+            "passage_id": "145930:0015",
+            "score": 0.3854786455631256
+          },
+          {
+            "passage_id": "20958:0073",
+            "score": 0.38542041182518005
+          },
+          {
+            "passage_id": "28953:0053",
+            "score": 0.3810962438583374
+          },
+          {
+            "passage_id": "5670063:0022",
+            "score": 0.37862420082092285
+          },
+          {
+            "passage_id": "5670063:0013",
+            "score": 0.37814003229141235
+          },
+          {
+            "passage_id": "68832:0044",
+            "score": 0.37547826766967773
+          },
+          {
+            "passage_id": "39356:0091",
+            "score": 0.37470370531082153
+          },
+          {
+            "passage_id": "192450:0014",
+            "score": 0.372193843126297
+          },
+          {
+            "passage_id": "77007126:0001",
+            "score": 0.36813125014305115
+          },
+          {
+            "passage_id": "28953:0033",
+            "score": 0.3677680492401123
+          },
+          {
+            "passage_id": "1707613:0005",
+            "score": 0.36716142296791077
+          },
+          {
+            "passage_id": "145930:0041",
+            "score": 0.3663722276687622
+          },
+          {
+            "passage_id": "73412:0005",
+            "score": 0.3631172180175781
+          },
+          {
+            "passage_id": "1707613:0004",
+            "score": 0.3629096746444702
+          },
+          {
+            "passage_id": "39356:0020",
+            "score": 0.36208000779151917
+          },
+          {
+            "passage_id": "180326:0004",
+            "score": 0.3620593249797821
+          },
+          {
+            "passage_id": "19729548:0065",
+            "score": 0.36156973242759705
+          },
+          {
+            "passage_id": "20958:0015",
+            "score": 0.3606799244880676
+          },
+          {
+            "passage_id": "24859540:0018",
+            "score": 0.3602978587150574
+          },
+          {
+            "passage_id": "39356:0006",
+            "score": 0.35971808433532715
+          },
+          {
+            "passage_id": "39356:0097",
+            "score": 0.35960349440574646
+          },
+          {
+            "passage_id": "574756:0073",
+            "score": 0.35957449674606323
+          },
+          {
+            "passage_id": "574756:0054",
+            "score": 0.35936006903648376
+          },
+          {
+            "passage_id": "17867:0037",
+            "score": 0.3592301607131958
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "1707613:0000",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "The Lord Chamberlain's Office is a department within the British Royal Household . It is concerned with matters such as protocol , state visits , investitures , garden parties , royal weddings and funerals. For example, in April 2005 it organised the wedding of Charles, Prince of Wales and Camilla Parker Bowles . It is also responsible for authorising use of the Royal Arms and other royal symbols.",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "1707613:0001",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "As the Lord Chamberlain is a part-time position, the day-to-day work of the Office is conducted by the Comptroller of the Lord Chamberlain's Office.",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "24095:0043",
+            "title": "Diana, Princess of Wales",
+            "pageid": 24095,
+            "revision_id": 1381941051,
+            "text": "line with police advice, the Earl offered the Princess of Wales a number of properties including Wormleighton Manor , the Spencer family's original ancestral home\". However, he could not offer Garden House cottage on the Althorp estate to Diana as the home was intended for a member of staff.",
+            "url": "https://en.wikipedia.org/?curid=24095"
+          },
+          {
+            "passage_id": "574756:0055",
+            "title": "Nell Gwyn",
+            "pageid": 574756,
+            "revision_id": 1382489164,
+            "text": "granted a peerage. The King cried out \"God save the Earl of Burford!\" and subsequently officially created the peerage, saving his son's life. On 21 December 1676, a warrant was passed for \"a grant to Charles Beauclerc, the King's natural son, and to the heirs male of his body, of the dignities of Baron of Heddington, co. Oxford, and Earl of Burford in the same county, with remainder to his brother, James Beauclerc, and the heirs male of his body\". A few weeks later, James was given \"the title of Lord Beauclerc, with the place and precedence of the eldest son of an earl\".",
+            "url": "https://en.wikipedia.org/?curid=574756"
+          },
+          {
+            "passage_id": "192450:0009",
+            "title": "Metropolitan Police",
+            "pageid": 192450,
+            "revision_id": 1381908267,
+            "text": "The Ministry of Defence Police is responsible for policing of Ministry of Defence property throughout the United Kingdom, including its headquarters in Whitehall and other MoD establishments across the MPD.",
+            "url": "https://en.wikipedia.org/?curid=192450"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 455,
+        "seconds": 1.4854857499999525,
+        "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      }
+    ],
+    "high_overlap_incorrect": [
+      {
+        "question_id": "bb_5443",
+        "question": "What is the short metonymic name of the chief usher of the Lord Chamberlain's department of the UK House of Lords?",
+        "answers": [
+          "Black Rod",
+          "Gentleman Usher of Black Rod",
+          "Irish Gentleman Usher of the Black Rod",
+          "Black rod",
+          "Usher of the black rod",
+          "The Gentleman Usher of the Black Rod",
+          "Serjeant at Arms of the British House of Lords",
+          "Usher of the Black Rod",
+          "Gentleman Usher of the Black Rod"
+        ],
+        "prediction": "Lord Burford",
+        "em": 0.0,
+        "f1": 0.0,
+        "recall@1": 0.0,
+        "recall@3": 0.0,
+        "recall@5": 0.0,
+        "recall@10": 0.0,
+        "ranking": [
+          {
+            "passage_id": "1707613:0000",
+            "score": 0.6694843173027039
+          },
+          {
+            "passage_id": "1707613:0001",
+            "score": 0.5694749355316162
+          },
+          {
+            "passage_id": "24095:0043",
+            "score": 0.4725416898727417
+          },
+          {
+            "passage_id": "574756:0055",
+            "score": 0.43713903427124023
+          },
+          {
+            "passage_id": "192450:0009",
+            "score": 0.42896878719329834
+          },
+          {
+            "passage_id": "154189:0052",
+            "score": 0.4274979829788208
+          },
+          {
+            "passage_id": "20958:0027",
+            "score": 0.42330026626586914
+          },
+          {
+            "passage_id": "24095:0009",
+            "score": 0.42014187574386597
+          },
+          {
+            "passage_id": "1707613:0003",
+            "score": 0.4177779257297516
+          },
+          {
+            "passage_id": "17867:0032",
+            "score": 0.41576191782951355
+          },
+          {
+            "passage_id": "28953:0084",
+            "score": 0.4156189560890198
+          },
+          {
+            "passage_id": "20958:0029",
+            "score": 0.40874791145324707
+          },
+          {
+            "passage_id": "206492:0023",
+            "score": 0.4086909294128418
+          },
+          {
+            "passage_id": "145930:0000",
+            "score": 0.4068933129310608
+          },
+          {
+            "passage_id": "24135:0027",
+            "score": 0.406577467918396
+          },
+          {
+            "passage_id": "6481319:0035",
+            "score": 0.4029783606529236
+          },
+          {
+            "passage_id": "20958:0028",
+            "score": 0.40260159969329834
+          },
+          {
+            "passage_id": "39356:0019",
+            "score": 0.4003673195838928
+          },
+          {
+            "passage_id": "574756:0071",
+            "score": 0.394906610250473
+          },
+          {
+            "passage_id": "574756:0067",
+            "score": 0.39190858602523804
+          },
+          {
+            "passage_id": "145930:0043",
+            "score": 0.39009422063827515
+          },
+          {
+            "passage_id": "574756:0038",
+            "score": 0.38943177461624146
+          },
+          {
+            "passage_id": "24859540:0025",
+            "score": 0.3871689438819885
+          },
+          {
+            "passage_id": "574756:0007",
+            "score": 0.3869854807853699
+          },
+          {
+            "passage_id": "68832:0022",
+            "score": 0.3858293890953064
+          },
+          {
+            "passage_id": "145930:0042",
+            "score": 0.38555437326431274
+          },
+          {
+            "passage_id": "145930:0015",
+            "score": 0.3854786455631256
+          },
+          {
+            "passage_id": "20958:0073",
+            "score": 0.38542041182518005
+          },
+          {
+            "passage_id": "28953:0053",
+            "score": 0.3810962438583374
+          },
+          {
+            "passage_id": "5670063:0022",
+            "score": 0.37862420082092285
+          },
+          {
+            "passage_id": "5670063:0013",
+            "score": 0.37814003229141235
+          },
+          {
+            "passage_id": "68832:0044",
+            "score": 0.37547826766967773
+          },
+          {
+            "passage_id": "39356:0091",
+            "score": 0.37470370531082153
+          },
+          {
+            "passage_id": "192450:0014",
+            "score": 0.372193843126297
+          },
+          {
+            "passage_id": "77007126:0001",
+            "score": 0.36813125014305115
+          },
+          {
+            "passage_id": "28953:0033",
+            "score": 0.3677680492401123
+          },
+          {
+            "passage_id": "1707613:0005",
+            "score": 0.36716142296791077
+          },
+          {
+            "passage_id": "145930:0041",
+            "score": 0.3663722276687622
+          },
+          {
+            "passage_id": "73412:0005",
+            "score": 0.3631172180175781
+          },
+          {
+            "passage_id": "1707613:0004",
+            "score": 0.3629096746444702
+          },
+          {
+            "passage_id": "39356:0020",
+            "score": 0.36208000779151917
+          },
+          {
+            "passage_id": "180326:0004",
+            "score": 0.3620593249797821
+          },
+          {
+            "passage_id": "19729548:0065",
+            "score": 0.36156973242759705
+          },
+          {
+            "passage_id": "20958:0015",
+            "score": 0.3606799244880676
+          },
+          {
+            "passage_id": "24859540:0018",
+            "score": 0.3602978587150574
+          },
+          {
+            "passage_id": "39356:0006",
+            "score": 0.35971808433532715
+          },
+          {
+            "passage_id": "39356:0097",
+            "score": 0.35960349440574646
+          },
+          {
+            "passage_id": "574756:0073",
+            "score": 0.35957449674606323
+          },
+          {
+            "passage_id": "574756:0054",
+            "score": 0.35936006903648376
+          },
+          {
+            "passage_id": "17867:0037",
+            "score": 0.3592301607131958
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "1707613:0000",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "The Lord Chamberlain's Office is a department within the British Royal Household . It is concerned with matters such as protocol , state visits , investitures , garden parties , royal weddings and funerals. For example, in April 2005 it organised the wedding of Charles, Prince of Wales and Camilla Parker Bowles . It is also responsible for authorising use of the Royal Arms and other royal symbols.",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "1707613:0001",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "As the Lord Chamberlain is a part-time position, the day-to-day work of the Office is conducted by the Comptroller of the Lord Chamberlain's Office.",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "24095:0043",
+            "title": "Diana, Princess of Wales",
+            "pageid": 24095,
+            "revision_id": 1381941051,
+            "text": "line with police advice, the Earl offered the Princess of Wales a number of properties including Wormleighton Manor , the Spencer family's original ancestral home\". However, he could not offer Garden House cottage on the Althorp estate to Diana as the home was intended for a member of staff.",
+            "url": "https://en.wikipedia.org/?curid=24095"
+          },
+          {
+            "passage_id": "574756:0055",
+            "title": "Nell Gwyn",
+            "pageid": 574756,
+            "revision_id": 1382489164,
+            "text": "granted a peerage. The King cried out \"God save the Earl of Burford!\" and subsequently officially created the peerage, saving his son's life. On 21 December 1676, a warrant was passed for \"a grant to Charles Beauclerc, the King's natural son, and to the heirs male of his body, of the dignities of Baron of Heddington, co. Oxford, and Earl of Burford in the same county, with remainder to his brother, James Beauclerc, and the heirs male of his body\". A few weeks later, James was given \"the title of Lord Beauclerc, with the place and precedence of the eldest son of an earl\".",
+            "url": "https://en.wikipedia.org/?curid=574756"
+          },
+          {
+            "passage_id": "192450:0009",
+            "title": "Metropolitan Police",
+            "pageid": 192450,
+            "revision_id": 1381908267,
+            "text": "The Ministry of Defence Police is responsible for policing of Ministry of Defence property throughout the United Kingdom, including its headquarters in Whitehall and other MoD establishments across the MPD.",
+            "url": "https://en.wikipedia.org/?curid=192450"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 455,
+        "seconds": 1.4854857499999525,
+        "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      },
+      {
+        "question_id": "qf_1053",
+        "question": "What was the name of the island where Nelson Mandela was imprisoned for 18 years?",
+        "answers": [
+          "Robben Island",
+          "Robbeneiland",
+          "Robben's Island",
+          "Robben-Island",
+          "Robben-Island Prison",
+          "Robben Eiland",
+          "Robben Island Museum",
+          "Robin island",
+          "Robben Island Prison",
+          "Robbin Island"
+        ],
+        "prediction": "Mauritius",
+        "em": 0.0,
+        "f1": 0.0,
+        "recall@1": 0.0,
+        "recall@3": 0.0,
+        "recall@5": 0.0,
+        "recall@10": 0.0,
+        "ranking": [
+          {
+            "passage_id": "41284488:0015",
+            "score": 0.500695526599884
+          },
+          {
+            "passage_id": "41284488:0000",
+            "score": 0.48733147978782654
+          },
+          {
+            "passage_id": "41284488:0010",
+            "score": 0.46983593702316284
+          },
+          {
+            "passage_id": "19201:0017",
+            "score": 0.4246486723423004
+          },
+          {
+            "passage_id": "19201:0025",
+            "score": 0.42096221446990967
+          },
+          {
+            "passage_id": "41284488:0001",
+            "score": 0.41356658935546875
+          },
+          {
+            "passage_id": "41284488:0019",
+            "score": 0.39390328526496887
+          },
+          {
+            "passage_id": "154189:0080",
+            "score": 0.39099040627479553
+          },
+          {
+            "passage_id": "22614:0098",
+            "score": 0.39080214500427246
+          },
+          {
+            "passage_id": "171118:0040",
+            "score": 0.3900167942047119
+          },
+          {
+            "passage_id": "154189:0063",
+            "score": 0.38575899600982666
+          },
+          {
+            "passage_id": "154189:0035",
+            "score": 0.3851656913757324
+          },
+          {
+            "passage_id": "15992:0088",
+            "score": 0.37373268604278564
+          },
+          {
+            "passage_id": "154189:0115",
+            "score": 0.3715193271636963
+          },
+          {
+            "passage_id": "15992:0120",
+            "score": 0.36692947149276733
+          },
+          {
+            "passage_id": "8955445:0005",
+            "score": 0.36094123125076294
+          },
+          {
+            "passage_id": "154189:0003",
+            "score": 0.359762966632843
+          },
+          {
+            "passage_id": "41284488:0020",
+            "score": 0.35517051815986633
+          },
+          {
+            "passage_id": "154189:0107",
+            "score": 0.35499799251556396
+          },
+          {
+            "passage_id": "41284488:0016",
+            "score": 0.35258132219314575
+          },
+          {
+            "passage_id": "13277304:0004",
+            "score": 0.3505152761936188
+          },
+          {
+            "passage_id": "76227994:0063",
+            "score": 0.350301593542099
+          },
+          {
+            "passage_id": "154189:0108",
+            "score": 0.3484761714935303
+          },
+          {
+            "passage_id": "154189:0071",
+            "score": 0.3480566143989563
+          },
+          {
+            "passage_id": "13011:0018",
+            "score": 0.34727853536605835
+          },
+          {
+            "passage_id": "22614:0110",
+            "score": 0.34619346261024475
+          },
+          {
+            "passage_id": "19201:0013",
+            "score": 0.34100502729415894
+          },
+          {
+            "passage_id": "154189:0117",
+            "score": 0.3409035801887512
+          },
+          {
+            "passage_id": "19201:0062",
+            "score": 0.3393157720565796
+          },
+          {
+            "passage_id": "154189:0097",
+            "score": 0.33863750100135803
+          },
+          {
+            "passage_id": "19201:0011",
+            "score": 0.3385368883609772
+          },
+          {
+            "passage_id": "22614:0118",
+            "score": 0.33743536472320557
+          },
+          {
+            "passage_id": "171118:0045",
+            "score": 0.3372930884361267
+          },
+          {
+            "passage_id": "5030380:0089",
+            "score": 0.33596372604370117
+          },
+          {
+            "passage_id": "19201:0059",
+            "score": 0.3340457081794739
+          },
+          {
+            "passage_id": "5859:0030",
+            "score": 0.3315441906452179
+          },
+          {
+            "passage_id": "19201:0076",
+            "score": 0.3296213150024414
+          },
+          {
+            "passage_id": "19201:0051",
+            "score": 0.32897281646728516
+          },
+          {
+            "passage_id": "19201:0010",
+            "score": 0.3277233839035034
+          },
+          {
+            "passage_id": "24095:0071",
+            "score": 0.32766908407211304
+          },
+          {
+            "passage_id": "41284488:0003",
+            "score": 0.3275463581085205
+          },
+          {
+            "passage_id": "19201:0015",
+            "score": 0.32703086733818054
+          },
+          {
+            "passage_id": "39356:0115",
+            "score": 0.32598552107810974
+          },
+          {
+            "passage_id": "19201:0048",
+            "score": 0.3259475529193878
+          },
+          {
+            "passage_id": "13277304:0006",
+            "score": 0.32503029704093933
+          },
+          {
+            "passage_id": "19201:0019",
+            "score": 0.324075847864151
+          },
+          {
+            "passage_id": "19201:0014",
+            "score": 0.32208675146102905
+          },
+          {
+            "passage_id": "22614:0102",
+            "score": 0.3216423988342285
+          },
+          {
+            "passage_id": "19201:0088",
+            "score": 0.3214969038963318
+          },
+          {
+            "passage_id": "41284488:0017",
+            "score": 0.32055068016052246
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "41284488:0015",
+            "title": "Death and state funeral of Nelson Mandela",
+            "pageid": 41284488,
+            "revision_id": 1381613500,
+            "text": "Mandela's body lay in state at the Union Buildings in Pretoria from 11 to 13 December 2013. Approximately 100,000 mourners viewed Mandela's body over the three days. The crowds grew larger each day and thousands who queued on the final day could not be accommodated and were turned away. Nelson Mandela's grandson, Mandla Mandela , remained with his grandfather's body for all three days, in accordance with AbaThembu tradition, which requires an adult male family member to remain with the body until burial.",
+            "url": "https://en.wikipedia.org/?curid=41284488"
+          },
+          {
+            "passage_id": "41284488:0000",
+            "title": "Death and state funeral of Nelson Mandela",
+            "pageid": 41284488,
+            "revision_id": 1381613500,
+            "text": "On 5 December 2013, Nelson Mandela , the first president of South Africa to be elected in a fully representative democratic election , as well as the country's first black head of state, died at the age of 95 after a prolonged respiratory infection . He died at around 20:50 local time ( UTC+2 ) at his home in Houghton, Johannesburg , surrounded by family. His death was announced by President Jacob Zuma on national television at 23:45. Reactions from governments, international organisations, and notable individuals, gained worldwide media coverage.",
+            "url": "https://en.wikipedia.org/?curid=41284488"
+          },
+          {
+            "passage_id": "41284488:0010",
+            "title": "Death and state funeral of Nelson Mandela",
+            "pageid": 41284488,
+            "revision_id": 1381613500,
+            "text": "been charged, but not sentenced, for various crimes ranging from rape and housebreaking to attempted murder and kidnapping. According to the report he was sentenced to three years in prison for theft but other charges had been dropped as he had been judged mentally unfit to stand trial .",
+            "url": "https://en.wikipedia.org/?curid=41284488"
+          },
+          {
+            "passage_id": "19201:0017",
+            "title": "Mauritius",
+            "pageid": 19201,
+            "revision_id": 1381813003,
+            "text": "Under his governorship, numerous buildings were erected, a number of which are still standing. These include part of Government House, the Château de Mon Plaisir, and the Line Barracks, the headquarters of the police force . The island was under the administration of the French East India Company , which maintained its presence until 1767. During the French rule, slaves were brought from parts of Africa such as Mozambique and Zanzibar . As a result, the island's population rose dramatically from 15,000 to 49,000 within thirty years.",
+            "url": "https://en.wikipedia.org/?curid=19201"
+          },
+          {
+            "passage_id": "19201:0025",
+            "title": "Mauritius",
+            "pageid": 19201,
+            "revision_id": 1381813003,
+            "text": "The British administration, which began with Sir Robert Farquhar as its first governor , oversaw rapid social and economic changes. However, it was tainted by the Ratsitatane episode. Ratsitatane, nephew of King Radama of Madagascar , was brought to Mauritius as a political prisoner. He managed to escape from prison and plotted a rebellion that would free the island's slaves. He was betrayed by his associate Laizaf and was caught by a group of militiamen and summarily executed .",
+            "url": "https://en.wikipedia.org/?curid=19201"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 610,
+        "seconds": 2.7101121219998277,
+        "run_identity": "ae8ef6bd645f714bbf17351fe23aaaca6f41d7d97af02bb80cf0c3676d596dbb",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      }
+    ],
+    "low_overlap_correct": []
+  },
+  "task3": {
+    "correct": [
+      {
+        "question_id": "qb_1429",
+        "question": "Rodolfo and Mimi are the main characters in which opera by Giacomo Puccini?",
+        "answers": [
+          "La Boheme",
+          "Schaunard",
+          "La Bohéme",
+          "A bohemian life",
+          "Mimì (La bohème)",
+          "Bohemian Life",
+          "Boheme",
+          "La boheme",
+          "The bohemians",
+          "La Bohême",
+          "La Bohème",
+          "La bohème",
+          "Bohéme",
+          "Che Gelida Manina",
+          "O Soave Fanciulla",
+          "Rodolfo and Mimi",
+          "Che gelida manina"
+        ],
+        "prediction": "La Bohème",
+        "em": 1.0,
+        "f1": 1.0,
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "26436:0011",
+            "score": 0.03278688524590164
+          },
+          {
+            "passage_id": "238341:0030",
+            "score": 0.03200204813108039
+          },
+          {
+            "passage_id": "26436:0012",
+            "score": 0.031754032258064516
+          },
+          {
+            "passage_id": "26436:0004",
+            "score": 0.03125763125763126
+          },
+          {
+            "passage_id": "26436:0000",
+            "score": 0.0293236301369863
+          },
+          {
+            "passage_id": "65957:0042",
+            "score": 0.028381642512077296
+          },
+          {
+            "passage_id": "65957:0013",
+            "score": 0.025645240835114255
+          },
+          {
+            "passage_id": "38090:0006",
+            "score": 0.02519288301054952
+          },
+          {
+            "passage_id": "26436:0074",
+            "score": 0.02441077441077441
+          },
+          {
+            "passage_id": "65957:0014",
+            "score": 0.0242296918767507
+          },
+          {
+            "passage_id": "65957:0006",
+            "score": 0.023888428610880974
+          },
+          {
+            "passage_id": "26436:0009",
+            "score": 0.022352647352647352
+          },
+          {
+            "passage_id": "26436:0051",
+            "score": 0.020638297872340425
+          },
+          {
+            "passage_id": "65957:0054",
+            "score": 0.015384615384615385
+          },
+          {
+            "passage_id": "38090:0016",
+            "score": 0.015151515151515152
+          },
+          {
+            "passage_id": "38090:0008",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "16709386:0003",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "65957:0012",
+            "score": 0.014705882352941176
+          },
+          {
+            "passage_id": "77315100:0020",
+            "score": 0.014492753623188406
+          },
+          {
+            "passage_id": "17867:0097",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "65957:0002",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "65957:0051",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "65957:0045",
+            "score": 0.013888888888888888
+          },
+          {
+            "passage_id": "65957:0055",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "16709386:0006",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "65957:0000",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "180326:0046",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "38090:0010",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "26532740:0003",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "16709386:0094",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "38090:0018",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "16709386:0068",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "65957:0010",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "25721:0036",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "38090:0000",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "9443926:0001",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "10346664:0040",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "14403:0014",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "65957:0039",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "26436:0041",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "65957:0008",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "26436:0087",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "65957:0050",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "238341:0029",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "77315100:0040",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "26436:0065",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "38090:0012",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "441926:0021",
+            "score": 0.011494252873563218
+          },
+          {
+            "passage_id": "10346664:0043",
+            "score": 0.011363636363636364
+          },
+          {
+            "passage_id": "38090:0011",
+            "score": 0.011235955056179775
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "26436:0011",
+            "title": "Rent (musical)",
+            "pageid": 26436,
+            "revision_id": 1382506180,
+            "text": "Larson's inspiration for Rent ' s content came from several different sources. Many of the characters and plot elements are drawn directly from Giacomo Puccini's opera La Bohème , the world premiere of which was in 1896, a century before Rent ' s premiere. La Bohème was also about the lives of poor young artists. Tuberculosis , the plague of Puccini's opera, is replaced by HIV/AIDS in Rent ; 1800s Paris is replaced by New York's East Village in the late 1980s or early 1990s. The names and identities of Rent ' s characters also heavily reflect Puccini's original characters, though they are not all direct adaptations. For example, Joanne in Rent represents the character of Alcindoro in Bohème ,",
+            "url": "https://en.wikipedia.org/?curid=26436"
+          },
+          {
+            "passage_id": "238341:0030",
+            "title": "David Hockney",
+            "pageid": 238341,
+            "revision_id": 1376796197,
+            "text": "1983 exhibition Hockney Paints the Stage is a permanent installation at the Spalding House branch of the Honolulu Museum of Art . He designed sets for another triple bill of Stravinsky's Le sacre du printemps , Le rossignol , and Oedipus Rex for the Metropolitan Opera in 1981 as well as Richard Wagner's Tristan und Isolde for the Los Angeles Music Center Opera in 1987, Giacomo Puccini 's Turandot in 1991 at the Lyric Opera of Chicago , and Richard Strauss 's Die Frau ohne Schatten in 1992 at the Royal Opera House in London. In 1994, he designed costumes and scenery for twelve opera arias for the TV broadcast of Plácido Domingo 's Operalia in Mexico City. Technical advances",
+            "url": "https://en.wikipedia.org/?curid=238341"
+          },
+          {
+            "passage_id": "26436:0012",
+            "title": "Rent (musical)",
+            "pageid": 26436,
+            "revision_id": 1382506180,
+            "text": "Other examples of parallels between Larson's and Puccini's work include Larson's song \"Light My Candle\", which draws melodic content directly from \"Che gelida manina\"; \" Quando me'n vo' \" (\"Musetta's Waltz\"), a melody taken directly from Puccini's opera; and \"Goodbye Love\", a long, painful piece that reflects a confrontation and parting between characters in both Puccini's and Larson's work. \"Quando me'n vo'\" is paralleled in the first verse of \" Take Me or Leave Me \", when Maureen describes the way people stare when she walks in the street. It is also directly referred to in the scene where the characters are celebrating their bohemian life . Mark says, \"Roger will attempt to write a bittersweet, evocative song...\" Roger plays",
+            "url": "https://en.wikipedia.org/?curid=26436"
+          },
+          {
+            "passage_id": "26436:0004",
+            "title": "Rent (musical)",
+            "pageid": 26436,
+            "revision_id": 1382506180,
+            "text": "In 1988, playwright Billy Aronson wanted to create \"a musical based on Puccini 's La Bohème , in which the luscious splendor of Puccini's world would be replaced with the coarseness and noise of modern New York.\" In 1989, Jonathan Larson, a 29-year-old composer, began collaborating with Aronson on this project, and the two composed together \"Santa Fe\", \"Rent\", and \"I Should Tell You\". Larson suggested setting the play \"in the East Village neighborhood of Manhattan .\" He suggested making \"Rent\" the title; Aronson agreed. In 1991, he asked Aronson if he could use Aronson's original concept and make Rent his own. Larson had ambitious expectations for Rent ; his ultimate dream was to write a rock opera \"to bring",
+            "url": "https://en.wikipedia.org/?curid=26436"
+          },
+          {
+            "passage_id": "26436:0000",
+            "title": "Rent (musical)",
+            "pageid": 26436,
+            "revision_id": 1382506180,
+            "text": "Rent (stylized in all caps ) is a rock musical with music, lyrics, and book by Jonathan Larson . Loosely based on the 1896 opera La bohème by Giacomo Puccini , Luigi Illica , and Giuseppe Giacosa , it tells the story of a group of impoverished young artists struggling to survive and create a life in Lower Manhattan 's East Village , in the thriving days of the bohemian culture of Alphabet City , under the shadow of HIV/AIDS .",
+            "url": "https://en.wikipedia.org/?curid=26436"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 906,
+        "seconds": 3.0156648010001845,
+        "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      },
+      {
+        "question_id": "odql_7470",
+        "question": "Which film starring Will Smith, Bill Pullman and Jeff Goldblum was the world's highest grossing film of 1996?",
+        "answers": [
+          "'INDEPENDENCE DAY'",
+          "Independence day",
+          "Independence days",
+          "عيد الاستقلال",
+          "Independance day",
+          "Independance Day",
+          "The Independence Day",
+          "Independence Day",
+          "Timeline of national foundings",
+          "List of independence days",
+          "List of nations by Independence Day",
+          "List of countries by Independence Day",
+          "List of national independence days",
+          "Independents Day"
+        ],
+        "prediction": "Independence Day",
+        "em": 1.0,
+        "f1": 1.0,
+        "recall@1": 0.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "5729:0040",
+            "score": 0.03131881575727918
+          },
+          {
+            "passage_id": "20913246:0041",
+            "score": 0.03057889822595705
+          },
+          {
+            "passage_id": "52389:0038",
+            "score": 0.030117753623188408
+          },
+          {
+            "passage_id": "48544240:0046",
+            "score": 0.030017921146953404
+          },
+          {
+            "passage_id": "26940:0142",
+            "score": 0.027809742999616416
+          },
+          {
+            "passage_id": "52389:0042",
+            "score": 0.027777777777777776
+          },
+          {
+            "passage_id": "52389:0002",
+            "score": 0.02736498731424429
+          },
+          {
+            "passage_id": "26940:0003",
+            "score": 0.027271052146674038
+          },
+          {
+            "passage_id": "52389:0000",
+            "score": 0.026702720973466286
+          },
+          {
+            "passage_id": "26940:0004",
+            "score": 0.026013513513513515
+          },
+          {
+            "passage_id": "48544240:0003",
+            "score": 0.025448143405889884
+          },
+          {
+            "passage_id": "11073939:0021",
+            "score": 0.025062266500622665
+          },
+          {
+            "passage_id": "77315100:0031",
+            "score": 0.02478580171358629
+          },
+          {
+            "passage_id": "4862696:0011",
+            "score": 0.024497309544038517
+          },
+          {
+            "passage_id": "26940:0054",
+            "score": 0.02393162393162393
+          },
+          {
+            "passage_id": "1740284:0029",
+            "score": 0.023597626752966557
+          },
+          {
+            "passage_id": "26940:0000",
+            "score": 0.023222439660795825
+          },
+          {
+            "passage_id": "3920193:0085",
+            "score": 0.022948717948717952
+          },
+          {
+            "passage_id": "20913246:0064",
+            "score": 0.020668564800168723
+          },
+          {
+            "passage_id": "77315100:0032",
+            "score": 0.015625
+          },
+          {
+            "passage_id": "26940:0049",
+            "score": 0.015384615384615385
+          },
+          {
+            "passage_id": "258732:0016",
+            "score": 0.015384615384615385
+          },
+          {
+            "passage_id": "2654186:0064",
+            "score": 0.014705882352941176
+          },
+          {
+            "passage_id": "11073939:0022",
+            "score": 0.014492753623188406
+          },
+          {
+            "passage_id": "52389:0032",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "20913246:0080",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "52389:0041",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "147352:0032",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "23487440:0083",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "2654186:0051",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "66355520:0021",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "77315100:0002",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "258732:0001",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "11073939:0001",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "52389:0060",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "26940:0030",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "26940:0041",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "52389:0021",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "26940:0014",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "1091334:0020",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "3920193:0000",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "11073939:0019",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "48544240:0022",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "65957:0053",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "26940:0048",
+            "score": 0.011494252873563218
+          },
+          {
+            "passage_id": "20913246:0033",
+            "score": 0.011235955056179775
+          },
+          {
+            "passage_id": "78597803:0000",
+            "score": 0.011111111111111112
+          },
+          {
+            "passage_id": "20913246:0000",
+            "score": 0.01098901098901099
+          },
+          {
+            "passage_id": "66355520:0002",
+            "score": 0.01098901098901099
+          },
+          {
+            "passage_id": "26940:0114",
+            "score": 0.010869565217391304
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "5729:0040",
+            "title": "Chariots of Fire",
+            "pageid": 5729,
+            "revision_id": 1379043368,
+            "text": "In its first four weeks at the Odeon Haymarket it grossed £106,484. The film was the highest-grossing British film for the year with theatrical rentals of £1,859,480. Its gross of almost $59 million in the United States and Canada made it the highest-grossing film import into the US (i.e. a film without any US input) at the time, surpassing Meatballs ' $43 million.",
+            "url": "https://en.wikipedia.org/?curid=5729"
+          },
+          {
+            "passage_id": "20913246:0041",
+            "title": "Scarlett Johansson",
+            "pageid": 20913246,
+            "revision_id": 1381626866,
+            "text": "the plot nonsensical. IGN 's Jim Vejvoda attributed the film's success to her acting and Besson's style. The film grossed $458 million on a budget of $40 million to become the 18th highest-grossing film of 2014 .",
+            "url": "https://en.wikipedia.org/?curid=20913246"
+          },
+          {
+            "passage_id": "52389:0038",
+            "title": "Independence Day (1996 film)",
+            "pageid": 52389,
+            "revision_id": 1382316737,
+            "text": "Independence Day was the highest-grossing film of 1996, surpassing both Twister and Mission: Impossible . The film had its preview screenings on July 2, 1996, grossing $11.1 million from 2,433 theaters. At that point, it had the biggest pre-opening of any film, breaking the record held by Die Hard 2 six years earlier. The next day on July 3, the film officially opened to the public with $17.4 million. During its second day of release, it earned $17.3 million, which made it the highest Thursday gross, holding this record for six years until it was taken by Star Wars: Episode II – Attack of the Clones in 2002. This was also the highest non-sequel Thursday gross, which would last until",
+            "url": "https://en.wikipedia.org/?curid=52389"
+          },
+          {
+            "passage_id": "48544240:0046",
+            "title": "List of Star Wars films",
+            "pageid": 48544240,
+            "revision_id": 1381987899,
+            "text": "The Star Wars films are the third-highest-grossing film franchise of all time worldwide, behind the Marvel Cinematic Universe and Spider-Man , having grossed over $10 billion at the global box office.",
+            "url": "https://en.wikipedia.org/?curid=48544240"
+          },
+          {
+            "passage_id": "26940:0142",
+            "title": "Steven Spielberg",
+            "pageid": 26940,
+            "revision_id": 1382084470,
+            "text": "An important figure of the New Hollywood era, Spielberg is widely regarded as one of the most influential and commercially successful film directors of all time. Some of his films were in the top ten highest-grossing films of the 1970s and 1980s, with Jaws , E.T. the Extra-Terrestrial and Jurassic Park all becoming the highest-grossing film at the time of their respective releases. In 1996, Life magazine named Spielberg the most influential person of his generation. In 2003, Premiere magazine ranked him first place in the list of 100 Most Powerful People in Movies . In 2005, Empire magazine ranked him number one on a list of the greatest film directors of all time. In 2013, Time magazine listed him",
+            "url": "https://en.wikipedia.org/?curid=26940"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 663,
+        "seconds": 1.9796563280001465,
+        "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      }
+    ],
+    "incorrect": [
+      {
+        "question_id": "jp_3278",
+        "question": "What kind of bean is used to make tempeh?",
+        "answers": [
+          "Soybean",
+          "Soy Isoflavones",
+          "Soya Bean",
+          "Soy product",
+          "Soy infant formula",
+          "Soy beans",
+          "Soy flour",
+          "Soyabean nuggets",
+          "Soy-based infant formula",
+          "Soy products",
+          "Cancer risk of soy products",
+          "SBIF",
+          "Soy controversy",
+          "Soya flour",
+          "Soya nuggets",
+          "Soya beans",
+          "Soy bean",
+          "Glycine max",
+          "Soybean-based infant formula",
+          "Soybeans",
+          "Soy isoflavones",
+          "Soyabean",
+          "Soya bean",
+          "Soja bean",
+          "Soy",
+          "Soybeen"
+        ],
+        "prediction": "black soybean",
+        "em": 0.0,
+        "f1": 0.6666666666666666,
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "293037:0034",
+            "score": 0.031754032258064516
+          },
+          {
+            "passage_id": "293037:0005",
+            "score": 0.03076923076923077
+          },
+          {
+            "passage_id": "293037:0006",
+            "score": 0.03057889822595705
+          },
+          {
+            "passage_id": "293037:0001",
+            "score": 0.030303030303030304
+          },
+          {
+            "passage_id": "293037:0016",
+            "score": 0.029030910609857977
+          },
+          {
+            "passage_id": "293037:0069",
+            "score": 0.028594771241830064
+          },
+          {
+            "passage_id": "293037:0046",
+            "score": 0.027263007840342125
+          },
+          {
+            "passage_id": "293037:0015",
+            "score": 0.027031740495291244
+          },
+          {
+            "passage_id": "293037:0054",
+            "score": 0.026830135039090264
+          },
+          {
+            "passage_id": "293037:0035",
+            "score": 0.0259915611814346
+          },
+          {
+            "passage_id": "293037:0008",
+            "score": 0.02542892156862745
+          },
+          {
+            "passage_id": "293037:0036",
+            "score": 0.0250384024577573
+          },
+          {
+            "passage_id": "293037:0049",
+            "score": 0.024695121951219513
+          },
+          {
+            "passage_id": "293037:0020",
+            "score": 0.024393743722198307
+          },
+          {
+            "passage_id": "293037:0038",
+            "score": 0.02408450704225352
+          },
+          {
+            "passage_id": "293037:0070",
+            "score": 0.02357456140350877
+          },
+          {
+            "passage_id": "293037:0033",
+            "score": 0.023529411764705882
+          },
+          {
+            "passage_id": "293037:0067",
+            "score": 0.02325881896885903
+          },
+          {
+            "passage_id": "293037:0026",
+            "score": 0.023148148148148147
+          },
+          {
+            "passage_id": "293037:0023",
+            "score": 0.022862309480754326
+          },
+          {
+            "passage_id": "293037:0043",
+            "score": 0.02232142857142857
+          },
+          {
+            "passage_id": "293037:0022",
+            "score": 0.021286031042128603
+          },
+          {
+            "passage_id": "293037:0025",
+            "score": 0.02088744588744589
+          },
+          {
+            "passage_id": "293037:0021",
+            "score": 0.020669917320330716
+          },
+          {
+            "passage_id": "293037:0037",
+            "score": 0.01998409226486379
+          },
+          {
+            "passage_id": "293037:0000",
+            "score": 0.016129032258064516
+          },
+          {
+            "passage_id": "293037:0017",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "337870:0086",
+            "score": 0.014492753623188406
+          },
+          {
+            "passage_id": "293037:0047",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "26940:0046",
+            "score": 0.0136986301369863
+          },
+          {
+            "passage_id": "293037:0024",
+            "score": 0.0136986301369863
+          },
+          {
+            "passage_id": "293037:0003",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "293037:0052",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "293037:0014",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "293037:0032",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "293037:0065",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "293037:0041",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "293037:0064",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "293037:0050",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "293037:0002",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "441926:0015",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "1461:0087",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "293037:0055",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "293037:0027",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "293037:0058",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "76368:0018",
+            "score": 0.011494252873563218
+          },
+          {
+            "passage_id": "293037:0029",
+            "score": 0.011494252873563218
+          },
+          {
+            "passage_id": "49607:0021",
+            "score": 0.011363636363636364
+          },
+          {
+            "passage_id": "293037:0063",
+            "score": 0.011235955056179775
+          },
+          {
+            "passage_id": "26940:0028",
+            "score": 0.011111111111111112
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "293037:0034",
+            "title": "Tempeh",
+            "pageid": 293037,
+            "revision_id": 1368891680,
+            "text": "The most common and widely known tempeh is made from fermented soybeans, called tempeh kedele or tempeh dele , made from controlled fermentation of soybeans . However, traditionally other ingredients such as ampas tahu (tofu dregs/ okara ), ampas kelapa (coconut dregs) and peanuts may be used in a fashion similar to the tempeh-making process, although perhaps using different fungi or attracting other microbes like kara benguk or kara pedhang , which can be toxic if not prepared correctly. A related product to tempeh is oncom , which is made from peanut press cake or soy dregs and is prevalent in Sundanese culture in West Java . There are two types of oncom : a bright red-orange kind with Neurospora",
+            "url": "https://en.wikipedia.org/?curid=293037"
+          },
+          {
+            "passage_id": "293037:0005",
+            "title": "Tempeh",
+            "pageid": 293037,
+            "revision_id": 1368891680,
+            "text": "The invention of tempeh seems to have arisen through the serendipitous introduction to stored soybeans of the fungus, which is crucial in tempeh's fermentation. This fungus grows on teakwood and sea hibiscus leaves, which native Javanese people often used (and still do) as food wrappings. In fact, in traditional tempeh making, an usar (a mycelium-filled leaf) is used, instead of store-bought ragi .",
+            "url": "https://en.wikipedia.org/?curid=293037"
+          },
+          {
+            "passage_id": "293037:0006",
+            "title": "Tempeh",
+            "pageid": 293037,
+            "revision_id": 1368891680,
+            "text": "The type of soybean first used to make tempeh was the black soybean, which was a native plant. This later changed with the importation of white or yellow soybeans and the rise of the tofu industry on the island.",
+            "url": "https://en.wikipedia.org/?curid=293037"
+          },
+          {
+            "passage_id": "293037:0001",
+            "title": "Tempeh",
+            "pageid": 293037,
+            "revision_id": 1368891680,
+            "text": "It is native of the island of Java , where it is a staple source of protein. Like tofu , tempeh is made from soybeans, but it is a whole-soybean product with different nutritional characteristics and textural qualities. Tempeh's fermentation process and its retention of the whole bean give it a higher content of protein , dietary fiber , and vitamins . It has a firm texture and an earthy flavor , which becomes more pronounced as it ages.",
+            "url": "https://en.wikipedia.org/?curid=293037"
+          },
+          {
+            "passage_id": "293037:0016",
+            "title": "Tempeh",
+            "pageid": 293037,
+            "revision_id": 1368891680,
+            "text": "The principal step in making tempeh is the fermentation of soybeans which undergo inoculation with Rhizopus spp. molds, a type of filamentous fungus most widely used for the production of tempeh. A fermentation starter containing the spores of fungus Rhizopus oligosporus or Rhizopus oryzae is mixed in. The beans are spread into a thin layer and are allowed to ferment for 24 to 36 hours at a temperature around 30° C (86° F ). The soybeans have to cool down to allow spore germination and abundant growth of mycelium . Later, the temperature of the beans will naturally rise and rapid mold growth happens for around 4 hours. As mold growth declines, the soybeans should be bound into a solid",
+            "url": "https://en.wikipedia.org/?curid=293037"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 655,
+        "seconds": 2.2709373090001463,
+        "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      },
+      {
+        "question_id": "qf_3555",
+        "question": "What type of aircraft was used by Alcock and Brown when they became the first men to fly the Atlantic non stop?",
+        "answers": [
+          "Vickers Vimy",
+          "Vickers Vimy Commercial",
+          "A.N.F. 'Express Les Mureaux'",
+          "Vickers FB.27 Vimy",
+          "Vickers Vimy Ambulance",
+          "Vickers F.B.27 Vimy",
+          "Vickers Commercial"
+        ],
+        "prediction": "Vimy IV",
+        "em": 0.0,
+        "f1": 0.5,
+        "recall@1": 1.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "669724:0011",
+            "score": 0.03225806451612903
+          },
+          {
+            "passage_id": "669724:0009",
+            "score": 0.032018442622950824
+          },
+          {
+            "passage_id": "669724:0030",
+            "score": 0.032018442622950824
+          },
+          {
+            "passage_id": "669724:0004",
+            "score": 0.031746031746031744
+          },
+          {
+            "passage_id": "669724:0014",
+            "score": 0.029877369007803793
+          },
+          {
+            "passage_id": "669724:0022",
+            "score": 0.029437229437229435
+          },
+          {
+            "passage_id": "669724:0015",
+            "score": 0.028484848484848488
+          },
+          {
+            "passage_id": "669724:0008",
+            "score": 0.02803921568627451
+          },
+          {
+            "passage_id": "669724:0032",
+            "score": 0.026709401709401708
+          },
+          {
+            "passage_id": "669724:0013",
+            "score": 0.025910931174089068
+          },
+          {
+            "passage_id": "1607990:0149",
+            "score": 0.025451688923802042
+          },
+          {
+            "passage_id": "669724:0041",
+            "score": 0.024891774891774892
+          },
+          {
+            "passage_id": "669724:0024",
+            "score": 0.02484567901234568
+          },
+          {
+            "passage_id": "669724:0056",
+            "score": 0.024562989752863168
+          },
+          {
+            "passage_id": "669724:0047",
+            "score": 0.02454080096356519
+          },
+          {
+            "passage_id": "669724:0000",
+            "score": 0.023306233062330622
+          },
+          {
+            "passage_id": "1607990:0152",
+            "score": 0.023148148148148147
+          },
+          {
+            "passage_id": "669724:0051",
+            "score": 0.0225
+          },
+          {
+            "passage_id": "1607990:0118",
+            "score": 0.020539287971350326
+          },
+          {
+            "passage_id": "669724:0001",
+            "score": 0.020410288451525566
+          },
+          {
+            "passage_id": "669724:0023",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "669724:0038",
+            "score": 0.014705882352941176
+          },
+          {
+            "passage_id": "13277304:0003",
+            "score": 0.014492753623188406
+          },
+          {
+            "passage_id": "669724:0059",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "669724:0006",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "1607990:0114",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "669724:0003",
+            "score": 0.0136986301369863
+          },
+          {
+            "passage_id": "1607990:0062",
+            "score": 0.0136986301369863
+          },
+          {
+            "passage_id": "669724:0033",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "669724:0044",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "669724:0053",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "1607990:0122",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "9279:0055",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "1078371:0015",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "669724:0037",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "669724:0055",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "1607990:0143",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "669724:0018",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "29728037:0026",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "669724:0017",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "24859540:0026",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "34069:0067",
+            "score": 0.011494252873563218
+          },
+          {
+            "passage_id": "1607990:0021",
+            "score": 0.011494252873563218
+          },
+          {
+            "passage_id": "1091334:0018",
+            "score": 0.011363636363636364
+          },
+          {
+            "passage_id": "1607990:0068",
+            "score": 0.011363636363636364
+          },
+          {
+            "passage_id": "669724:0027",
+            "score": 0.011235955056179775
+          },
+          {
+            "passage_id": "1607990:0105",
+            "score": 0.011235955056179775
+          },
+          {
+            "passage_id": "293037:0006",
+            "score": 0.011111111111111112
+          },
+          {
+            "passage_id": "40255:0008",
+            "score": 0.01098901098901099
+          },
+          {
+            "passage_id": "669724:0046",
+            "score": 0.01098901098901099
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "669724:0011",
+            "title": "Transatlantic flight",
+            "pageid": 669724,
+            "revision_id": 1380199969,
+            "text": "During 14–15 June 1919, the British aviators Alcock and Brown made the first non-stop transatlantic flight. During the War, Alcock resolved to fly the Atlantic, and after the war, he approached the Vickers engineering and aviation firm at Weybridge , which had considered entering its Vickers Vimy IV twin-engined bomber in the competition but had not yet found a pilot. Alcock's enthusiasm impressed Vickers's team, and he was appointed as its pilot. Work began on converting the Vimy for the long flight, replacing its bomb racks with extra petrol tanks. Shortly afterwards Brown, who was unemployed, approached Vickers seeking a post and his knowledge of long-distance navigation convinced them to take him on as Alcock's navigator.",
+            "url": "https://en.wikipedia.org/?curid=669724"
+          },
+          {
+            "passage_id": "669724:0009",
+            "title": "Transatlantic flight",
+            "pageid": 669724,
+            "revision_id": 1380199969,
+            "text": "Four teams were competing for the first non-stop flight across the Atlantic. They were Australian pilot Harry Hawker with observer Kenneth Mackenzie-Grieve in a single-engine Sopwith Atlantic ; Frederick Raynham and C. W. F. Morgan in a Martinsyde ; the Handley Page Group, led by Admiral Mark Kerr ; and the Vickers entry John Alcock and Arthur Whitten Brown. Each group had to ship its aircraft to Newfoundland and make a rough field for the takeoff.",
+            "url": "https://en.wikipedia.org/?curid=669724"
+          },
+          {
+            "passage_id": "669724:0030",
+            "title": "Transatlantic flight",
+            "pageid": 669724,
+            "revision_id": 1380199969,
+            "text": "It would take two more decades after Alcock and Brown's first nonstop flight across the Atlantic in 1919 before commercial airplane flights became practical. The North Atlantic presented severe challenges for aviators due to weather and the long distances involved, with few stopping points. Initial transatlantic services, therefore, focused on the South Atlantic, where some French, German, and Italian airlines offered seaplane service for mail between South America and West Africa in the 1930s.",
+            "url": "https://en.wikipedia.org/?curid=669724"
+          },
+          {
+            "passage_id": "669724:0004",
+            "title": "Transatlantic flight",
+            "pageid": 669724,
+            "revision_id": 1380199969,
+            "text": "Powered by two Rolls-Royce Eagle 360 hp engines, the Vickers Vimy flown by British aviators Alcock and Brown made the first non-stop transatlantic flight in 1919. The first transatlantic flight by rigid airship, and the first return transatlantic flight, was made on 2 July 1919. The first successful transatlantic flight in a balloon was the Double Eagle II from Presque Isle, Maine , to Miserey , near Paris in 1978.",
+            "url": "https://en.wikipedia.org/?curid=669724"
+          },
+          {
+            "passage_id": "669724:0014",
+            "title": "Transatlantic flight",
+            "pageid": 669724,
+            "revision_id": 1380199969,
+            "text": "The Secretary of State for Air , Winston Churchill , presented Alcock and Brown with the Daily Mail prize for the first crossing of the Atlantic Ocean in \"less than 72 consecutive hours\". There was a small amount of mail (3lb) carried on the flight making it also the first transatlantic airmail flight. The two aviators were knighted one week later by King George V at Windsor Castle .",
+            "url": "https://en.wikipedia.org/?curid=669724"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 653,
+        "seconds": 2.0296768899997915,
+        "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      }
+    ],
+    "high_overlap_incorrect": [
+      {
+        "question_id": "bb_5443",
+        "question": "What is the short metonymic name of the chief usher of the Lord Chamberlain's department of the UK House of Lords?",
+        "answers": [
+          "Black Rod",
+          "Gentleman Usher of Black Rod",
+          "Irish Gentleman Usher of the Black Rod",
+          "Black rod",
+          "Usher of the black rod",
+          "The Gentleman Usher of the Black Rod",
+          "Serjeant at Arms of the British House of Lords",
+          "Usher of the Black Rod",
+          "Gentleman Usher of the Black Rod"
+        ],
+        "prediction": "Comptroller of the Lord Chamberlain's Office",
+        "em": 0.0,
+        "f1": 0.22222222222222224,
+        "recall@1": 0.0,
+        "recall@3": 0.0,
+        "recall@5": 0.0,
+        "recall@10": 0.0,
+        "ranking": [
+          {
+            "passage_id": "1707613:0001",
+            "score": 0.03252247488101534
+          },
+          {
+            "passage_id": "1707613:0000",
+            "score": 0.03131881575727918
+          },
+          {
+            "passage_id": "1707613:0003",
+            "score": 0.02919863597612958
+          },
+          {
+            "passage_id": "154189:0052",
+            "score": 0.028484848484848488
+          },
+          {
+            "passage_id": "1707613:0005",
+            "score": 0.026438310608579978
+          },
+          {
+            "passage_id": "77007126:0001",
+            "score": 0.026399331662489554
+          },
+          {
+            "passage_id": "145930:0041",
+            "score": 0.025588697017268444
+          },
+          {
+            "passage_id": "206492:0023",
+            "score": 0.024115296803652965
+          },
+          {
+            "passage_id": "145930:0043",
+            "score": 0.023973585989089864
+          },
+          {
+            "passage_id": "24095:0043",
+            "score": 0.015873015873015872
+          },
+          {
+            "passage_id": "337870:0083",
+            "score": 0.015625
+          },
+          {
+            "passage_id": "574756:0055",
+            "score": 0.015625
+          },
+          {
+            "passage_id": "192450:0009",
+            "score": 0.015384615384615385
+          },
+          {
+            "passage_id": "337870:0085",
+            "score": 0.015151515151515152
+          },
+          {
+            "passage_id": "20958:0027",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "24095:0009",
+            "score": 0.014705882352941176
+          },
+          {
+            "passage_id": "337870:0001",
+            "score": 0.014492753623188406
+          },
+          {
+            "passage_id": "17867:0032",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "3434750:0075",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "28953:0084",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "8236080:0006",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "20958:0029",
+            "score": 0.013888888888888888
+          },
+          {
+            "passage_id": "31994546:0136",
+            "score": 0.013888888888888888
+          },
+          {
+            "passage_id": "5859:0023",
+            "score": 0.0136986301369863
+          },
+          {
+            "passage_id": "145930:0000",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "625125:0025",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "24135:0027",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "337870:0098",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "6481319:0035",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "20958:0028",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "145930:0022",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "15992:0055",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "39356:0019",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "20958:0099",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "574756:0071",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "22614:0071",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "574756:0067",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "24135:0029",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "90578:0008",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "574756:0038",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "669724:0040",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "24859540:0025",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "574756:0007",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "24859540:0010",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "68832:0022",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "4642635:0147",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "145930:0042",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "90578:0001",
+            "score": 0.011494252873563218
+          },
+          {
+            "passage_id": "145930:0015",
+            "score": 0.011494252873563218
+          },
+          {
+            "passage_id": "20958:0073",
+            "score": 0.011363636363636364
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "1707613:0001",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "As the Lord Chamberlain is a part-time position, the day-to-day work of the Office is conducted by the Comptroller of the Lord Chamberlain's Office.",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "1707613:0000",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "The Lord Chamberlain's Office is a department within the British Royal Household . It is concerned with matters such as protocol , state visits , investitures , garden parties , royal weddings and funerals. For example, in April 2005 it organised the wedding of Charles, Prince of Wales and Camilla Parker Bowles . It is also responsible for authorising use of the Royal Arms and other royal symbols.",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "1707613:0003",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "feared that allowing certain plays to be performed might alienate what was still thought of as a friendly government. This included Terence Rattigan 's Follow My Leader , which was submitted to the Lord Chamberlain's office in 1938 but was not granted a license due to its farcical depiction of the German government \"not being in the best interests of the country\". It was not granted a license until 1940 following the end of appeasement. Rowland Baring, 2nd Earl of Cromer , then Lord Chamberlain, consulted the Foreign Office regularly and sometimes the German Embassy. In the latter case, the submissions were intended to be read by a \"friendly German\".",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          },
+          {
+            "passage_id": "154189:0052",
+            "title": "Great Train Robbery (1963)",
+            "pageid": 154189,
+            "revision_id": 1381269830,
+            "text": "By lunchtime of the following day, it became obvious to Fewtrell that extra resources were needed to cope with the scale of the investigation and the Buckinghamshire Chief Constable referred the case to Scotland Yard . George Hatherill, Commander of the C Department and Detective Chief Superintendent Earnest (Ernie) Millen, Head of the Flying Squad were initially in charge of the London side of the investigation. They sent Detective Superintendent Gerald McArthur and Detective Sergeant John Pritchard to assist the Buckinghamshire Police.",
+            "url": "https://en.wikipedia.org/?curid=154189"
+          },
+          {
+            "passage_id": "1707613:0005",
+            "title": "Lord Chamberlain's Office",
+            "pageid": 1707613,
+            "revision_id": 1372147785,
+            "text": "question theatre censorship as a whole. This is precisely what happened after the Royal Court Theatre was prosecuted. Director William Gaskill was discharged and the company were fined but the publicity surrounding the case called into question the necessity of the Lord Chamberlain's role in theatre. The 1966 Joint Select Committee was set up to discuss possible changes to the Theatres Act following the dissatisfaction with how theatre censorship was being handled. It included eight representatives of the House of Lords , eight MPs , and witnesses of varying theatrical backgrounds, including Peter Hall . The committee met between 1966 and 1967 over the course of sixteen meetings and it eventually resulted in the abolition of the role of official",
+            "url": "https://en.wikipedia.org/?curid=1707613"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 607,
+        "seconds": 2.6555240239999875,
+        "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      },
+      {
+        "question_id": "qb_5444",
+        "question": "The Buddh International Formula One circuit is in which country?",
+        "answers": [
+          "India",
+          "ഭാരത മഹാരാജ്യം",
+          "هندستانڀارت،",
+          "भारतीय गणराज्याच्या",
+          "Bhārtiya Prajāsattāk",
+          "Indian Republic",
+          "ভারতরাষ্টৃ",
+          "Indian republic",
+          "ಭಾರತ ಗಣರಾಜ್ಯ",
+          "Union of India",
+          "இந்தியக் குடியரசு",
+          "भारतीय प्रजासत्ताक",
+          "India (country)",
+          "ISO 3166-1:IN",
+          "Indea",
+          "Etymology of India",
+          "ভারত গণরাজ্য",
+          "Republic Of India",
+          "INDIA",
+          "ભારતીય ગણતંત્ર",
+          "ভারত",
+          "Republic of India",
+          "Les Indes",
+          "Bhārat Gaṇarājya",
+          "جمہوٗرِیت بًارت",
+          "भारतमहाराज्यम्",
+          "Indya",
+          "Bharat Ganrajya",
+          "جمہوریہ بھارت",
+          "இந்திய",
+          "ଭାରତ ଗଣରାଜ୍ଯ",
+          "भारत गणराज्य",
+          "Republic of india",
+          "जुम्हूरियत भारत",
+          "Hindio",
+          "The Republic of India",
+          "భారత గణతంత్ర రాజ్యము",
+          "India's",
+          "Hindistan",
+          "ਭਾਰਤ ਗਣਤੰਤਰ",
+          "Bhart",
+          "భారత రిపబ్లిక్",
+          "India.",
+          "ভাৰত গণৰাজ্য",
+          "Indian State",
+          "ISO 3166-1 alpha-3/IND",
+          "ভারতীয় প্রজাতন্ত্র"
+        ],
+        "prediction": "Uttar Pradesh",
+        "em": 0.0,
+        "f1": 0.0,
+        "recall@1": 0.0,
+        "recall@3": 1.0,
+        "recall@5": 1.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "22605807:0024",
+            "score": 0.032018442622950824
+          },
+          {
+            "passage_id": "22605807:0011",
+            "score": 0.03200204813108039
+          },
+          {
+            "passage_id": "22605807:0026",
+            "score": 0.03200204813108039
+          },
+          {
+            "passage_id": "22605807:0000",
+            "score": 0.03177805800756621
+          },
+          {
+            "passage_id": "22605807:0014",
+            "score": 0.030776515151515152
+          },
+          {
+            "passage_id": "22605807:0010",
+            "score": 0.030309988518943745
+          },
+          {
+            "passage_id": "22605807:0008",
+            "score": 0.029857397504456328
+          },
+          {
+            "passage_id": "22605807:0001",
+            "score": 0.029418126757516764
+          },
+          {
+            "passage_id": "22605807:0004",
+            "score": 0.02817460317460317
+          },
+          {
+            "passage_id": "69328:0174",
+            "score": 0.028006267136701922
+          },
+          {
+            "passage_id": "22605807:0016",
+            "score": 0.027443609022556388
+          },
+          {
+            "passage_id": "22605807:0017",
+            "score": 0.025849212924606464
+          },
+          {
+            "passage_id": "48768:0160",
+            "score": 0.02557544757033248
+          },
+          {
+            "passage_id": "69328:0183",
+            "score": 0.02523809523809524
+          },
+          {
+            "passage_id": "22605807:0006",
+            "score": 0.025062266500622665
+          },
+          {
+            "passage_id": "22605807:0019",
+            "score": 0.025035205758097326
+          },
+          {
+            "passage_id": "22605807:0003",
+            "score": 0.024809741248097414
+          },
+          {
+            "passage_id": "22605807:0012",
+            "score": 0.02431476569407604
+          },
+          {
+            "passage_id": "22605807:0025",
+            "score": 0.0238230289279637
+          },
+          {
+            "passage_id": "22605807:0015",
+            "score": 0.023537414965986395
+          },
+          {
+            "passage_id": "2472881:0008",
+            "score": 0.023138297872340424
+          },
+          {
+            "passage_id": "22605807:0002",
+            "score": 0.023063200815494393
+          },
+          {
+            "passage_id": "22605807:0018",
+            "score": 0.02303732303732304
+          },
+          {
+            "passage_id": "22605807:0020",
+            "score": 0.02209219011225221
+          },
+          {
+            "passage_id": "19765:0044",
+            "score": 0.02092821513771416
+          },
+          {
+            "passage_id": "22605807:0005",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "69328:0099",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "61577:0016",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "69328:0134",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "27393:0064",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "154557:0050",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "69328:0060",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "69328:0128",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "69328:0185",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "69328:0184",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "11370:0047",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "69328:0114",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "27393:0043",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "537664:0011",
+            "score": 0.011363636363636364
+          },
+          {
+            "passage_id": "48768:0126",
+            "score": 0.011235955056179775
+          },
+          {
+            "passage_id": "69328:0186",
+            "score": 0.011235955056179775
+          },
+          {
+            "passage_id": "7770:0007",
+            "score": 0.011111111111111112
+          },
+          {
+            "passage_id": "48768:0003",
+            "score": 0.01098901098901099
+          },
+          {
+            "passage_id": "3379941:0018",
+            "score": 0.01098901098901099
+          },
+          {
+            "passage_id": "337870:0027",
+            "score": 0.010869565217391304
+          },
+          {
+            "passage_id": "19201:0129",
+            "score": 0.010752688172043012
+          },
+          {
+            "passage_id": "27393:0032",
+            "score": 0.010752688172043012
+          },
+          {
+            "passage_id": "73730222:0054",
+            "score": 0.010638297872340425
+          },
+          {
+            "passage_id": "69328:0100",
+            "score": 0.010526315789473684
+          },
+          {
+            "passage_id": "42182852:0001",
+            "score": 0.010526315789473684
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "22605807:0024",
+            "title": "Buddh International Circuit",
+            "pageid": 22605807,
+            "revision_id": 1379007479,
+            "text": "Originally known as the Jaypee Group Circuit or the Jaypee International Circuit after the circuit's owners, the circuit was officially named the Buddh International Circuit in April 2011. According to Mr Sameer Gaur, the MD and CEO of Jaypee Sports International Limited, the name 'Buddh International Circuit' has been chosen with reference to the area where the racetrack is situated – Gautam Buddh Nagar district . Because of its location, naming the circuit 'Buddh International Circuit' was a logical choice for the company.",
+            "url": "https://en.wikipedia.org/?curid=22605807"
+          },
+          {
+            "passage_id": "22605807:0011",
+            "title": "Buddh International Circuit",
+            "pageid": 22605807,
+            "revision_id": 1379007479,
+            "text": "The Buddh International Circuit is located in the state of Uttar Pradesh, subject to its local taxes as well as national customs duties. The first signs of a dispute arose in 2009: in a letter to the promoters JPSK Sports, the Indian Ministry of Youth Affairs and Sports denied JPSK Sports permission to remit $36.5 million in licensing fees to Formula One administration headquarters in London. The reason given, by the then Chief Minister of Uttar Pradesh - Akhilesh Yadav , was the nature of Formula One, considered not to be a sport but rather entertainment, and its perceived lack of impact on the development of sports in the country. Customs fees for imported components including engines and tyres were",
+            "url": "https://en.wikipedia.org/?curid=22605807"
+          },
+          {
+            "passage_id": "22605807:0026",
+            "title": "Buddh International Circuit",
+            "pageid": 22605807,
+            "revision_id": 1379007479,
+            "text": "Buddh International Circuit, which hosted India's first Formula One Grand Prix on 30 October 2011, has been awarded the '2011 Motorsport Facility of the Year' award at the Professional Motorsport World Expo 2011. BIC has also been honored with the 'Best Promoter Trophy' for the successful conduct of Formula One races in 2011 & 2012 at the FIA prize-giving gala.",
+            "url": "https://en.wikipedia.org/?curid=22605807"
+          },
+          {
+            "passage_id": "22605807:0000",
+            "title": "Buddh International Circuit",
+            "pageid": 22605807,
+            "revision_id": 1379007479,
+            "text": "The Buddh International Circuit is an Indian motor racing circuit situated in Jaypee Sports City , Greater Noida , Uttar Pradesh . The track shares its name with Gautama Buddha , as does the district of its location. The track was officially inaugurated on 18 October 2011.",
+            "url": "https://en.wikipedia.org/?curid=22605807"
+          },
+          {
+            "passage_id": "22605807:0014",
+            "title": "Buddh International Circuit",
+            "pageid": 22605807,
+            "revision_id": 1379007479,
+            "text": "For 2022, it was planned that Buddh International Circuit would host events for the Formula Regional Indian Championship and the F4 Indian Championship , however both championships were cancelled in 2022. The circuit also hosted the Indian motorcycle Grand Prix in 2023 as part of the MotoGP World Championship . Several participants received their travel visas just days before the event. A planned second running of the MotoGP event in 2024 was cancelled. Despite being placed as a reserve round in 2025, it was dropped from that role for 2026.",
+            "url": "https://en.wikipedia.org/?curid=22605807"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 620,
+        "seconds": 1.8461308249998183,
+        "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+        "overlap": 1.0,
+        "high_overlap": true,
+        "abstained": false
+      }
+    ],
+    "low_overlap_correct": [
+      {
+        "question_id": "qw_4081",
+        "question": "Dsseldorf is a major city in which country?",
+        "answers": [
+          "Germany",
+          "United States of Germany",
+          "Tyskland",
+          "Nimska",
+          "Bundesdeutsch",
+          "Vokietija",
+          "Deuchland",
+          "Germny",
+          "GermanY",
+          "FR Germany",
+          "Almanya",
+          "Federal Republic of Germany",
+          "Jermany",
+          "Geramny",
+          "Etymology of Germany",
+          "Nemska",
+          "Niemcy",
+          "GERMANY",
+          "ISO 3166-1:DE",
+          "Land der Dichter und Denker",
+          "Federal Republic Of Germany",
+          "F.R. Germany",
+          "Deutschland",
+          "Bundesrepublik Deutschland",
+          "BR Deutschland",
+          "Germanio",
+          "Thyskaland",
+          "GerMany",
+          "Germeny",
+          "Teutonica",
+          "Deutchland",
+          "Duitsland",
+          "THyskaland",
+          "Alemanha",
+          "Němska",
+          "Foederal Republic of Germany"
+        ],
+        "prediction": "Germany",
+        "em": 1.0,
+        "f1": 1.0,
+        "recall@1": 0.0,
+        "recall@3": 0.0,
+        "recall@5": 0.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "2472881:0007",
+            "score": 0.027984344422700584
+          },
+          {
+            "passage_id": "245366:0000",
+            "score": 0.02738245361196181
+          },
+          {
+            "passage_id": "17867:0000",
+            "score": 0.02501906941266209
+          },
+          {
+            "passage_id": "3434750:0102",
+            "score": 0.023128342245989305
+          },
+          {
+            "passage_id": "17867:0010",
+            "score": 0.019960474308300395
+          },
+          {
+            "passage_id": "9239:0155",
+            "score": 0.01639344262295082
+          },
+          {
+            "passage_id": "9239:0157",
+            "score": 0.016129032258064516
+          },
+          {
+            "passage_id": "1717234:0054",
+            "score": 0.016129032258064516
+          },
+          {
+            "passage_id": "9239:0099",
+            "score": 0.015873015873015872
+          },
+          {
+            "passage_id": "69328:0140",
+            "score": 0.015873015873015872
+          },
+          {
+            "passage_id": "17867:0079",
+            "score": 0.015625
+          },
+          {
+            "passage_id": "2472881:0000",
+            "score": 0.015625
+          },
+          {
+            "passage_id": "17867:0009",
+            "score": 0.015384615384615385
+          },
+          {
+            "passage_id": "69328:0112",
+            "score": 0.015384615384615385
+          },
+          {
+            "passage_id": "447925:0004",
+            "score": 0.015151515151515152
+          },
+          {
+            "passage_id": "38070702:0059",
+            "score": 0.015151515151515152
+          },
+          {
+            "passage_id": "730274:0013",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "73730222:0029",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "9239:0156",
+            "score": 0.014705882352941176
+          },
+          {
+            "passage_id": "3434750:0094",
+            "score": 0.014705882352941176
+          },
+          {
+            "passage_id": "9282173:0142",
+            "score": 0.014492753623188406
+          },
+          {
+            "passage_id": "211496:0024",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "17867:0066",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "156754:0035",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "34069:0020",
+            "score": 0.013888888888888888
+          },
+          {
+            "passage_id": "55752581:0022",
+            "score": 0.013888888888888888
+          },
+          {
+            "passage_id": "3434750:0000",
+            "score": 0.0136986301369863
+          },
+          {
+            "passage_id": "11370:0046",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "9282173:0169",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "683036:0035",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "2472881:0004",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "48768:0126",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "453182:0042",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "3434750:0108",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "3434750:0153",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "26436:0078",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "3920193:0028",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "17867:0002",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "13312450:0000",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "34069:0082",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "76368:0048",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "28953:0025",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "143752:0096",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "17867:0001",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "17867:0014",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "13011:0051",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "20958:0046",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "34069:0013",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "5030380:0064",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "55752581:0009",
+            "score": 0.011764705882352941
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "2472881:0007",
+            "title": "Mumbai Metropolitan Region",
+            "pageid": 2472881,
+            "revision_id": 1376863817,
+            "text": "Mumbai is also home to Mumbai Monorail , the only monorail system in the country, which serves the eastern localities of Mumbai City district.",
+            "url": "https://en.wikipedia.org/?curid=2472881"
+          },
+          {
+            "passage_id": "245366:0000",
+            "title": "Esch-sur-Alzette",
+            "pageid": 245366,
+            "revision_id": 1382270628,
+            "text": "Esch-sur-Alzette is a city in Luxembourg and the country's second-most populous commune , with a population of 37,922 inhabitants, as of 2025 . It lies in the south-west of the country, on the border with France and in the valley of the Alzette , which flows through the city. The city is usually referred to as just Esch ; however, the full name distinguishes it from the village and commune of Esch-sur-Sûre which lies 45 kilometres (28 mi) further north. The country's capital, Luxembourg City , is roughly 15 km (9.3 mi) to the north-east.",
+            "url": "https://en.wikipedia.org/?curid=245366"
+          },
+          {
+            "passage_id": "17867:0000",
+            "title": "London",
+            "pageid": 17867,
+            "revision_id": 1382239624,
+            "text": "London is the capital and largest city of England and the United Kingdom , with a population of 9.1 4 million people in 2025. Its wider metropolitan area is the largest in Western Europe , with a population of 15.4 million. London stands on the River Thames in southeast England, at the head of a 50-mile (80 km) tidal estuary down to the North Sea , and has been a major settlement for nearly 2,000 years. Its ancient core and financial centre , the City of London , was founded by the Romans as Londinium and has retained its medieval boundaries. The City of Westminster , to the west of the City of London, has been the site of the",
+            "url": "https://en.wikipedia.org/?curid=17867"
+          },
+          {
+            "passage_id": "3434750:0102",
+            "title": "United States",
+            "pageid": 3434750,
+            "revision_id": 1382544225,
+            "text": "Public transportation in the United States is well developed in the largest urban areas, notably New York City, Washington, D.C., Boston, Philadelphia, Chicago, and the San Francisco Bay Area where rapid transit and/or light rail is a major component, however most metropolitan areas rely on bus for public transportation; otherwise, coverage is generally less extensive than in most other developed countries and many U.S. localities are car-dependent .",
+            "url": "https://en.wikipedia.org/?curid=3434750"
+          },
+          {
+            "passage_id": "17867:0010",
+            "title": "London",
+            "pageid": 17867,
+            "revision_id": 1382239624,
+            "text": "With the early-5th-century collapse of Roman rule, the walled city of Londinium was effectively abandoned, although Roman civilisation continued around St Martin-in-the-Fields until about 450. From about 500 an Anglo-Saxon settlement known as Lundenwic developed slightly west of the old Roman city. By about 680 the city had become a major port again, but there is little evidence of large-scale production. From the 820s repeated Viking assaults brought decline.",
+            "url": "https://en.wikipedia.org/?curid=17867"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 598,
+        "seconds": 1.5380725970003368,
+        "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+        "overlap": 0.0,
+        "high_overlap": false,
+        "abstained": false
+      },
+      {
+        "question_id": "qw_257",
+        "question": "In which country did Juan Domingo Peron seize power in 1943, become president, and resign in 1955?",
+        "answers": [
+          "Argentina",
+          "Arxintina",
+          "Argintina",
+          "Argentyna",
+          "آرژانتین",
+          "República Argentina",
+          "Land of silver",
+          "ארגנטינה",
+          "Arghantina",
+          "Republica Argentina",
+          "Argentine republic",
+          "Аргентына",
+          "Nación Argentina",
+          "Argentinien",
+          "Nacion Argentina",
+          "Argie",
+          "アルゼンチン",
+          "Airgintín",
+          "Аржентина",
+          "Argentína",
+          "Argentine Republic",
+          "Argentīna",
+          "Argentinean",
+          "Argentiina",
+          "The Argentine Republic",
+          "Arxentina",
+          "Արգենտինա",
+          "Arc'hantina",
+          "Argies",
+          "Antonia Merce Y Luque",
+          "People of Argintina",
+          "ISO 3166-1:AR",
+          "Argentinië",
+          "אַרגענטינע",
+          "Arjantin",
+          "अर्जेन्टीना",
+          "الأرجنتين",
+          "Argentina Information",
+          "Republic of Argentina",
+          "Ariannin",
+          "Argentina Republic",
+          "Argentinie",
+          "Argentinia",
+          "Airgintin",
+          "Argjentina"
+        ],
+        "prediction": "Argentina",
+        "em": 1.0,
+        "f1": 1.0,
+        "recall@1": 0.0,
+        "recall@3": 0.0,
+        "recall@5": 0.0,
+        "recall@10": 1.0,
+        "ranking": [
+          {
+            "passage_id": "490071:0000",
+            "score": 0.03278688524590164
+          },
+          {
+            "passage_id": "490071:0006",
+            "score": 0.028577260665441927
+          },
+          {
+            "passage_id": "171118:0038",
+            "score": 0.02490996398559424
+          },
+          {
+            "passage_id": "19201:0064",
+            "score": 0.02459499263622975
+          },
+          {
+            "passage_id": "490071:0026",
+            "score": 0.02452153110047847
+          },
+          {
+            "passage_id": "490071:0071",
+            "score": 0.021961063627730294
+          },
+          {
+            "passage_id": "490071:0059",
+            "score": 0.016129032258064516
+          },
+          {
+            "passage_id": "5030380:0021",
+            "score": 0.016129032258064516
+          },
+          {
+            "passage_id": "19201:0038",
+            "score": 0.015873015873015872
+          },
+          {
+            "passage_id": "490071:0004",
+            "score": 0.015873015873015872
+          },
+          {
+            "passage_id": "26413:0105",
+            "score": 0.015625
+          },
+          {
+            "passage_id": "490071:0002",
+            "score": 0.015625
+          },
+          {
+            "passage_id": "171118:0039",
+            "score": 0.015384615384615385
+          },
+          {
+            "passage_id": "3434750:0059",
+            "score": 0.015384615384615385
+          },
+          {
+            "passage_id": "19201:0106",
+            "score": 0.015151515151515152
+          },
+          {
+            "passage_id": "24176:0075",
+            "score": 0.015151515151515152
+          },
+          {
+            "passage_id": "490071:0065",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "19729548:0066",
+            "score": 0.014925373134328358
+          },
+          {
+            "passage_id": "28953:0023",
+            "score": 0.014705882352941176
+          },
+          {
+            "passage_id": "28953:0029",
+            "score": 0.014492753623188406
+          },
+          {
+            "passage_id": "490071:0062",
+            "score": 0.014285714285714285
+          },
+          {
+            "passage_id": "490071:0053",
+            "score": 0.014084507042253521
+          },
+          {
+            "passage_id": "53309:0106",
+            "score": 0.013888888888888888
+          },
+          {
+            "passage_id": "490071:0012",
+            "score": 0.013888888888888888
+          },
+          {
+            "passage_id": "24953:0013",
+            "score": 0.0136986301369863
+          },
+          {
+            "passage_id": "3434750:0019",
+            "score": 0.0136986301369863
+          },
+          {
+            "passage_id": "490071:0044",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "19729548:0045",
+            "score": 0.013513513513513514
+          },
+          {
+            "passage_id": "5030380:0045",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "55752581:0079",
+            "score": 0.013333333333333334
+          },
+          {
+            "passage_id": "490071:0021",
+            "score": 0.013157894736842105
+          },
+          {
+            "passage_id": "15992:0169",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "490071:0018",
+            "score": 0.012987012987012988
+          },
+          {
+            "passage_id": "100796:0000",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "171118:0040",
+            "score": 0.01282051282051282
+          },
+          {
+            "passage_id": "53309:0100",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "490071:0051",
+            "score": 0.012658227848101266
+          },
+          {
+            "passage_id": "92695:0016",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "490071:0003",
+            "score": 0.0125
+          },
+          {
+            "passage_id": "3434750:0149",
+            "score": 0.012345679012345678
+          },
+          {
+            "passage_id": "1717234:0054",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "3434750:0051",
+            "score": 0.012195121951219513
+          },
+          {
+            "passage_id": "171118:0002",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "19729548:0017",
+            "score": 0.012048192771084338
+          },
+          {
+            "passage_id": "15992:0120",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "19201:0059",
+            "score": 0.011904761904761904
+          },
+          {
+            "passage_id": "19201:0040",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "490071:0073",
+            "score": 0.011764705882352941
+          },
+          {
+            "passage_id": "26413:0022",
+            "score": 0.011627906976744186
+          },
+          {
+            "passage_id": "147352:0012",
+            "score": 0.011627906976744186
+          }
+        ],
+        "evidence": [
+          {
+            "passage_id": "490071:0000",
+            "title": "Juan Manuel de Rosas",
+            "pageid": 490071,
+            "revision_id": 1369849474,
+            "text": "Juan Manuel José Domingo Ortiz de Rozas y López de Osornio (30 March 1793 – 14 March 1877), nicknamed \"Restorer of the Laws\", was an Argentine politician and army officer who ruled Buenos Aires Province and briefly the Argentine Confederation . Born into a wealthy family, Rosas independently amassed a personal fortune, acquiring large tracts of land in the process. Rosas enlisted his workers in a private militia , as was common for rural proprietors, and took part in the disputes that led to numerous civil wars in his country . Victorious in warfare, personally influential, and with vast landholdings and a loyal private army, Rosas became a caudillo , as provincial warlords in the region were known. He eventually",
+            "url": "https://en.wikipedia.org/?curid=490071"
+          },
+          {
+            "passage_id": "490071:0006",
+            "title": "Juan Manuel de Rosas",
+            "pageid": 490071,
+            "revision_id": 1369849474,
+            "text": "Juan Manuel José Domingo Ortiz de Rozas was born on 30 March 1793 at his family's town house in Buenos Aires , the capital of the Viceroyalty of the Río de la Plata . He was the first child of León Ortiz de Rozas , a military officer with an undistinguished career, and his wife Agustina López de Osornio, from a wealthy criollo family. His father was the son of Domingo Ortiz de Rozas y Rodillo , a Spanish officer from Seville . The young Juan Manuel de Rosas' character was heavily influenced by his mother Agustina, a strong-willed and domineering woman who derived these character traits from her father Clemente López de Osornio , a landowner who died defending",
+            "url": "https://en.wikipedia.org/?curid=490071"
+          },
+          {
+            "passage_id": "171118:0038",
+            "title": "Galápagos Islands",
+            "pageid": 171118,
+            "revision_id": 1381185353,
+            "text": "Ecuador won its independence from Spain in 1822 and seceded from Gran Colombia in 1830. Gen. José de Villamil , the founder of the Ecuadorian Navy , led the push to colonize and settle the islands before Ecuador's neighbors or the European empires could occupy them. He formed the Galapagos Settlement Company in mid-1831 and, with President Juan José Flores 's support, sent Col. Ignacio Hernández with a dozen craftsmen to begin the settlement on Charles Island — renamed \"Floriana\" in the president's honour — early the next year. Hernández conducted a formal ceremony of annexation on Floreana on 12 February 1832, now celebrated locally as Galápagos Day or the Day of the Province. (Darwin's birthday was the same day,",
+            "url": "https://en.wikipedia.org/?curid=171118"
+          },
+          {
+            "passage_id": "19201:0064",
+            "title": "Mauritius",
+            "pageid": 19201,
+            "revision_id": 1381813003,
+            "text": "Sir Anerood Jugnauth of the MSM returned to power in September 2000 after securing an alliance with the MMM. In 2002, the island of Rodrigues became an autonomous entity within the republic and was thus able to elect its own representatives to administer the island. In 2003, the prime ministership was transferred to Paul Bérenger of the MMM, and Sir Anerood Jugnauth became president. Bérenger was the first Franco-Mauritian Prime Minister in the country's post-Independence history.",
+            "url": "https://en.wikipedia.org/?curid=19201"
+          },
+          {
+            "passage_id": "490071:0026",
+            "title": "Juan Manuel de Rosas",
+            "pageid": 490071,
+            "revision_id": 1369849474,
+            "text": "While Rosas was away on the Desert Campaign in October 1833, a group of Rosistas (Rosas' supporters) laid siege to Buenos Aires. Inside the city, Rosas' wife, Encarnación, assembled a contingent of associates to aid the besiegers. The Revolution of the Restorers , as the Rosista coup came to be known, forced the provincial governor Juan Ramón Balcarce to resign. In quick succession, Balcarce was followed by two others who presided over weak and ineffective governments. The Rosismo (Rosism) had become a powerful faction within the Federalist Party, and pressured other factions to accept a return of Rosas, endowed with dictatorial powers, as the only way to restore stability. The House of Representatives yielded, and on 7 March 1835, Rosas",
+            "url": "https://en.wikipedia.org/?curid=490071"
+          }
+        ],
+        "selected_sentence": null,
+        "input_tokens": 895,
+        "seconds": 2.6916001999998116,
+        "run_identity": "a4e3f621e239ef9201ec43560b2f92d91bc6918e8e1041c9e3dd63c7887c15ae",
+        "overlap": 0.0,
+        "high_overlap": false,
+        "abstained": false
+      }
+    ]
+  }
+}

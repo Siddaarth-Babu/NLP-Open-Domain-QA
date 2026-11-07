@@ -1,0 +1,25 @@
+{
+  "pass1_HEADLINE": {
+    "EM": 0.7,
+    "F1": 0.7392763043244787,
+    "recall@1": 0.5466666666666666,
+    "recall@3": 0.6633333333333333,
+    "recall@5": 0.7133333333333334,
+    "recall@10": 0.78
+  },
+  "with_retry_reference_only": {
+    "n_questions": 300,
+    "EM": 0.65,
+    "F1": 0.6864075303781186,
+    "recall@1": 0.5466666666666666,
+    "recall@3": 0.6633333333333333,
+    "recall@5": 0.7133333333333334,
+    "recall@10": 0.78
+  },
+  "groundedness": {
+    "frac_correct_grounded": 0.8904761904761904,
+    "frac_incorrect_ungrounded": 0.3888888888888889,
+    "groundedness_check_accuracy": 0.74,
+    "retry_rate": 0.19333333333333333
+  }
+}
